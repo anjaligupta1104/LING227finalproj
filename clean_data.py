@@ -1,5 +1,7 @@
 import os
 
+# note to jade: change .txt to .cha and see if it still works
+
 def filter_chi_lines(input_dir, output_dir):
 
     for file_name in os.listdir(input_dir):
@@ -13,6 +15,8 @@ def filter_chi_lines(input_dir, output_dir):
             output_file_path = os.path.join(output_dir, file_name)
             with open(output_file_path, "w", encoding="utf-8") as output_file:
                 output_file.writelines(filtered_lines)
+
+# change input and output file paths to your own, although this should work as is
 
 # Example usage
 input_file_path = "./Gillam/text_to_clean"
