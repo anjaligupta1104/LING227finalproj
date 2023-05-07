@@ -1,0 +1,164 @@
+@UTF8
+@PID:	11312/c-00033937-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|11;03.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	08-JAN-2002
+@Transcriber:	Erin Wagner
+@Comment:	DOB = 10/3/1990
+@Comment:	Examiner = Tiffany Porter
+@Comment:	Teresa Murphy
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	they ordered their food .
+%mor:	pro:sub|they v|order-PAST det:poss|their n|food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and then it was <two fifty and> [/?] twelve fifty .
+%mor:	coord|and adv:tem|then pro:per|it cop|be&PAST&13S det:num|twelve
+	det:num|fifty .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DATE 6|4|PRED 7|4|PUNCT
+*CHI:	and they forgot the purse at home .
+%mor:	coord|and pro:sub|they v|forget&PAST det:art|the n|purse prep|at
+	n|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*CHI:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	and they ate at Mcdonalds .
+%mor:	coord|and pro:sub|they v|eat&PAST prep|at n:prop|Mcdonalds .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+@G:	LateForSchool
+*CHI:	he's having a really bad day .
+%mor:	pro:sub|he~aux|be&3S part|have-PRESP det:art|a adv|real&dadj-LY
+	adj|bad n|day .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*CHI:	he wakes up .
+%mor:	pro:sub|he v|wake-3S adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	and he's late for school .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|late prep|for n|school .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	when he tries pouring milk for his cereal it starts spilling out
+	because <he looks> [/?] he's looking at the clock .
+%mor:	conj|when pro:sub|he v|try-3S part|pour-PRESP n|milk prep|for
+	det:poss|his n|cereal pro:per|it v|start-3S part|spill-PRESP adv|out
+	conj|because pro:sub|he~aux|be&3S part|look-PRESP prep|at
+	det:art|the n|clock .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|10|XJCT 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|3|COMP 11|10|COMP 12|11|JCT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|3|CJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|3|PUNCT
+*CHI:	when he tries to tie his shoe it shoelace comes <&~o> [/?] off .
+%mor:	conj|when pro:sub|he v|try-3S inf|to v|tie det:poss|his n|shoe
+	pro:per|it n|+n|shoe+n|lace v|come-3S adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|10|SUBJ
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|3|PUNCT
+*CHI:	it snaps off .
+%mor:	pro:per|it v|snap-3S adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	and then the bus leaves without him .
+%mor:	coord|and adv:tem|then det:art|the n|bus n|leaf-PL prep|without
+	pro:obj|him .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+*CHI:	so he hasta run to school .
+%mor:	co|so pro:sub|he mod|have&3S~inf|to v|run prep|to n|school .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	and then the principal's taping her watch <&~say> [/?] saying he's
+	late .
+%mor:	coord|and adv:tem|then det:art|the n|principal~aux|be&3S
+	part|tape-PRESP det:poss|her n|watch part|say-PRESP
+	pro:sub|he~cop|be&3S adv|late .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|XJCT 10|11|SUBJ 11|9|COMP 12|11|JCT 13|6|PUNCT
+@G:	Aliens
+*CHI:	once upon a time there was a boy and a girl who were walking to a
+	park .
+%mor:	adv:tem|once prep|upon det:art|a n|time adv|there cop|be&PAST&13S
+	det:art|a n|boy coord|and det:art|a n|girl pro:rel|who aux|be&PAST
+	part|walk-PRESP prep|to det:art|a n|park .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|CONJ 10|11|DET 11|9|COORD 12|14|LINK 13|14|AUX 14|11|CMOD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|6|PUNCT
+*CHI:	the girl was very interested in aliens .
+%mor:	det:art|the n|girl aux|be&PAST&13S adv|very part|interest-PASTP
+	prep|in n|alien-PL .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	then when they were &-uh just about to reach the park they heard
+	the sound of air pushing up .
+%mor:	adv:tem|then conj|when pro:sub|they cop|be&PAST adj|just adv|about
+	inf|to v|reach det:art|the n|park pro:sub|they v|hear&PAST
+	det:art|the n|sound prep|of n|air part|push-PRESP adv|up .
+%gra:	1|12|JCT 2|4|LINK 3|4|SUBJ 4|12|CJCT 5|12|JCT 6|8|JCT 7|8|INF 8|12|CJCT
+	9|10|DET 10|8|OBJ 11|12|SUBJ 12|0|ROOT 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|15|POBJ 17|12|XJCT 18|17|JCT 19|12|PUNCT
+*CHI:	when they peered out from behind a bush they saw a family of aliens
+	and a big spaceship with letters they cannot read coming out .
+%mor:	conj|when pro:sub|they v|peer-PAST adv|out prep|from prep|behind
+	det:art|a n|bush pro:sub|they v|see&PAST det:art|a n|family prep|of
+	n|alien-PL coord|and det:art|a adj|big n|+n|space+n|ship prep|with
+	n|letter-PL pro:sub|they mod|can~neg|not v|read&ZERO part|come-PRESP
+	adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|3|JCT 5|3|JCT 6|5|POBJ 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|0|ROOT 11|12|DET 12|10|OBJ 13|12|NJCT 14|13|POBJ 15|12|CONJ
+	16|18|DET 17|18|MOD 18|15|COORD 19|18|NJCT 20|19|POBJ 21|24|SUBJ
+	22|24|AUX 23|22|NEG 24|10|CJCT 25|24|COMP 26|25|JCT 27|10|PUNCT
+*CHI:	the father was carrying bags .
+%mor:	det:art|the n|father aux|be&PAST&13S part|carry-PRESP n|bag-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	the mother was holding a child's hand who held their dog named
+	spark .
+%mor:	det:art|the n|mother aux|be&PAST&13S part|hold-PRESP det:art|a
+	adj|child&dn-POSS n|hand pro:rel|who v|hold&PAST det:poss|their
+	n|dog v|name-PAST n|spark .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|LINK
+	9|7|CMOD 10|11|DET 11|12|SUBJ 12|9|COMP 13|12|OBJ 14|4|PUNCT
+*CHI:	and as they walk out the girl wanted to run over and talk to the
+	aliens .
+%mor:	coord|and conj|as pro:sub|they v|walk prep|out det:art|the n|girl
+	v|want-PAST inf|to v|run adv|over coord|and n|talk prep|to
+	det:art|the n|alien-PL .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|XJCT
+	9|10|INF 10|8|COMP 11|10|JCT 12|10|CONJ 13|12|COORD 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|4|PUNCT
+*CHI:	her friend held her back and said that they shouldn't go over to
+	the aliens because they might hurt us .
+%mor:	det:poss|her n|friend v|hold&PAST det:poss|her n|back coord|and
+	v|say&PAST comp|that pro:sub|they mod|should~neg|not v|go adv|over
+	prep|to det:art|the n|alien-PL conj|because pro:sub|they mod|might
+	v|hurt&ZERO pro:obj|us .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|7|COMP 13|12|JCT 14|12|JCT 15|16|DET
+	16|14|POBJ 17|20|LINK 18|20|SUBJ 19|20|AUX 20|3|CJCT 21|20|OBJ 22|3|PUNCT
+*CHI:	but she shoved him away and went out .
+%mor:	conj|but pro:sub|she v|shove-PAST pro:obj|him adv|away coord|and
+	v|go&PAST adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|CONJ 7|6|COORD 8|7|JCT
+	9|3|PUNCT
+*CHI:	then the aliens abducted her .
+%mor:	adv:tem|then det:art|the n|alien-PL v|abduct-PAST pro:obj|her .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	and took out her brains .
+%mor:	coord|and v|take&PAST adv|out det:poss|her n|brain-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	and <hm:> [/?] the boy tried to stop them .
+%mor:	coord|and det:art|the n|boy part|try-PASTP inf|to v|stop
+	pro:obj|them .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|6|INF 6|4|COMP 7|6|OBJ
+	8|3|PUNCT
+*CHI:	but that same thing happened to them .
+%mor:	conj|but pro:dem|that adj|same n|thing v|happen-PAST prep|to
+	pro:obj|them .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	and then the aliens left back to mars .
+%mor:	coord|and adv:tem|then det:art|the n|alien-PL adj|left n|back
+	prep|to v|mar-3S .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|NJCT 8|7|POBJ
+	9|6|PUNCT
+*CHI:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

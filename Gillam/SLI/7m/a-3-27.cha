@@ -1,0 +1,234 @@
+@UTF8
+@PID:	11312/c-00033798-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;07.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	02-JUN-2004
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 11/9/1996
+@Comment:	Ethnicity = African American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	the &-uh mom she said &-um we're gonna go eat out tonight .
+%mor:	det:art|the n|mom pro:sub|she v|say&PAST pro:sub|we~aux|be&PRES
+	part|go&PRESP~inf|to v|go v|eat adv|out adv:tem|tonight .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|7|SUBJ 6|7|AUX 7|4|COMP
+	8|10|INF 9|10|SRL 10|7|COMP 11|10|JCT 12|11|POBJ 13|2|PUNCT
+*CHI:	and the kid [* m:0s] decided that they wanted to go to Mcdonalds .
+%mor:	coord|and det:art|the n|kid v|decide-PAST comp|that pro:sub|they
+	v|want-PAST inf|to v|go prep|to n:prop|Mcdonalds .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|INF
+	9|7|COMP 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*CHI:	<and then after they said> [/?] after they got done with that they
+	[/] they went to &-uh Mcdonalds .
+%mor:	conj|after pro:sub|they aux|get&PAST part|do&PASTP prep|with
+	comp|that pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|8|CJCT 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|8|PUNCT
+*CHI:	<and> [/?] then when they gotta the counter +...
+%mor:	adv:tem|then conj|when pro:sub|they mod|got~prep|to det:art|the
+	n|counter +...
+%gra:	1|0|INCROOT 2|8|LINK 3|8|SUBJ 4|8|AUX 5|4|JCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*CHI:	<and> [/?] then &-um Raymond he order [* m:0ed] <a &-um a a
+	cheeseburger> [/?] a cheeseburger with a milkshake .
+%mor:	adv:tem|then n:prop|Raymond pro:sub|he v|order det:art|a
+	n|+n|cheese+n|burger prep|with det:art|a n|+n|milk+n|shake .
+%gra:	1|4|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	<and um> [/?] Lisa she order [* m:0ed] <a kidsmeals> [/?] a
+	Kid_Meal <with uh> [/?] with a milkshake .
+%mor:	n:prop|Lisa pro:sub|she v|order det:art|a n:prop|Kid_Meal prep|with
+	det:art|a n|+n|milk+n|shake .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	<and um> [/?] her mom ordered some salad .
+%mor:	det:poss|her n|mom v|order-PAST qn|some n|salad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	but she didn't have the money in her purse .
+%mor:	conj|but pro:sub|she mod|do&PAST~neg|not v|have det:art|the n|money
+	prep|in det:poss|her n|purse .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	<&~a> [/?] alright +/.
+%mor:	co|alright +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	is that the end ?
+%mor:	cop|be&3S comp|that det:art|the n|end ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	LateForSchool
+*CHI:	I'm sposta to read the story ?
+%mor:	pro:sub|I~aux|be&1S part|suppose&PASTP~inf|to inf|to v|read&ZERO
+	det:art|the n|story ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|INF 5|6|INF 6|3|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*INV:	mhm you tell your story .
+%mor:	co|mhm=yes pro:per|you v|tell det:poss|your n|story .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	how does this story start ?
+%mor:	pro:int|how mod|do&3S det:dem|this n|story n|start ?
+%gra:	1|5|JCT 2|5|AUX 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	he got out_o(f) bed .
+%mor:	pro:sub|he v|get&PAST prep|out_of n|bed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	and he put some milk in his bowl .
+%mor:	coord|and pro:sub|he v|put&ZERO qn|some n|milk prep|in det:poss|his
+	n|bowl .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	<and> [/?] then he 0was tryin(g) to &-um tie his shoes .
+%mor:	adv:tem|then pro:sub|he 0cop|be&PAST&13S part|try-PRESP inf|to
+	v|tie det:poss|his n|shoe-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*CHI:	<and> [/?] he was tryin(g) to catch the bus .
+%mor:	pro:sub|he aux|be&PAST&13S part|try-PRESP inf|to v|catch
+	det:art|the n|bus .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	now he missed it .
+%mor:	adv:tem|now pro:sub|he v|miss-PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	well he was tryin(g) to to make some cereal .
+%mor:	co|well pro:sub|he aux|be&PAST&13S part|try-PRESP prep|to inf|to
+	v|make qn|some n|cereal .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|INF 7|5|POBJ 8|9|QUANT
+	9|7|OBJ 10|4|PUNCT
+*CHI:	but he sposta put the cereal first before he did that .
+%mor:	conj|but pro:sub|he part|suppose&PASTP~inf|to v|put&ZERO
+	det:art|the n|cereal adv|first conj|before pro:sub|he v|do&PAST
+	pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|11|OBJ 13|3|PUNCT
+*CHI:	<but> [/?] and then he tried to tie his shoes .
+%mor:	coord|and adv:tem|then pro:sub|he v|try-PAST inf|to v|tie
+	det:poss|his n|shoe-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	but <his> [/?] the string broke .
+%mor:	conj|but det:art|the n|string adj|broke .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|POSTMOD 5|1|PUNCT
+*CHI:	and he tried to catch the bus .
+%mor:	coord|and pro:sub|he v|try-PAST inf|to v|catch det:art|the n|bus .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	<but the &~b> [/?] but he was too late .
+%mor:	conj|but pro:sub|he cop|be&PAST&13S adv|too adv|late .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	and <he went to> [/?] he <&~w> [/?] hadta walk to school .
+%mor:	coord|and pro:sub|he mod|have&PAST~inf|to v|walk prep|to n|school .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	<and he &~h> [/?] he got in trouble .
+%mor:	pro:sub|he v|get&PAST prep|in n|trouble .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	<&~p> [/?] I don't know this .
+%mor:	pro:sub|I mod|do~neg|not v|know det:dem|this .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@G:	Aliens
+*CHI:	a &~k +...
+%mor:	det:art|a +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	do I start from right here or here ?
+%mor:	mod|do pro:sub|I v|start prep|from adv|right n|here coord|or
+	adv|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|3|PUNCT
+*INV:	it's your story .
+%mor:	pro:per|it~cop|be&3S det:poss|your n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*INV:	how does this story start ?
+%mor:	pro:int|how mod|do&3S det:dem|this n|story n|start ?
+%gra:	1|5|JCT 2|5|AUX 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	well <it was> [/?] the alien was coming out_of the ship .
+%mor:	co|well det:art|the n|alien aux|be&PAST&13S part|come-PRESP
+	prep|out_of det:art|the n|ship .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*CHI:	<and &~s and &~sh> [/?] and they was saying bye to another alien .
+%mor:	coord|and pro:sub|they aux|be&PAST&13S part|say-PRESP co|bye
+	prep|to qn|another n|alien .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|4|PUNCT
+*CHI:	and then <uh when the other> [/?] when the other alien got off of
+	the &-uh ship <the um> [/?] the goat started looking at +...
+%mor:	coord|and adv:tem|then conj|when det:art|the qn|other n|alien
+	v|get&PAST adv|off prep|of det:art|the n|ship det:art|the n|goat
+	v|start-PAST part|look-PRESP prep|at +...
+%gra:	1|14|LINK 2|14|JCT 3|7|LINK 4|6|DET 5|6|QUANT 6|7|SUBJ 7|14|CJCT
+	8|7|JCT 9|7|JCT 10|11|DET 11|9|POBJ 12|13|DET 13|14|SUBJ 14|0|ROOT 15|14|COMP
+	16|15|JCT 17|14|PUNCT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	I don't know this storys .
+%mor:	pro:sub|I mod|do~neg|not v|know det:dem|this n|story-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and the goat started looking at the alien on the &~b +...
+%mor:	coord|and det:art|the n|goat v|start-PAST part|look-PRESP prep|at
+	det:art|the n|alien prep|on det:art|the +...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|9|POBJ 11|4|PUNCT
+*CHI:	the goat started looking at the alien .
+%mor:	det:art|the n|goat v|start-PAST part|look-PRESP prep|at det:art|the
+	n|alien .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and &-uh the little girl started looking at &-uh the goat .
+%mor:	coord|and det:art|the adj|little n|girl v|start-PAST
+	part|look-PRESP prep|at det:art|the n|goat .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*CHI:	<and &-uh the> [/?] the goat looked at her .
+%mor:	det:art|the n|goat v|look-PAST prep|at pro:obj|her .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<and> [/?] the boy and the girl was <&~s> [/?] standing up and do
+	something .
+%mor:	det:art|the n|boy coord|and det:art|the n|girl aux|be&PAST&13S
+	part|stand-PRESP adv|up coord|and v|do pro:indef|something .
+%gra:	1|2|DET 2|7|SUBJ 3|2|CONJ 4|5|DET 5|3|COORD 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|10|OBJ 12|7|PUNCT
+*CHI:	<and> [/?] &-uh he was +...
+%mor:	pro:sub|he cop|be&PAST&13S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	after they probably got over there she was holding his hand .
+%mor:	conj|after pro:sub|they adv|probable&dadj-LY v|get&PAST prep|over
+	n|there pro:sub|she aux|be&PAST&13S part|hold-PRESP det:poss|his
+	n|hand .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|9|CJCT 5|4|JCT 6|5|POBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+*CHI:	and he was like no no no !
+%mor:	coord|and pro:sub|he cop|be&PAST&13S co|like qn|no co|no co|no !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COM 5|6|QUANT 6|3|PRED 7|6|COM 8|3|PUNCT
+*CHI:	he was doing something .
+%mor:	pro:sub|he aux|be&PAST&13S part|do-PRESP pro:indef|something .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	these are aliens .
+%mor:	pro:dem|these cop|be&PRES n|alien-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	I don't think I know this story .
+%mor:	pro:sub|I mod|do~neg|not v|think pro:sub|I v|know det:dem|this
+	n|story .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	I think I don't know this story .
+%mor:	pro:sub|I v|think pro:sub|I mod|do~neg|not v|know det:dem|this
+	n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*INV:	do you have anything else you wanna add to your story ?
+%mor:	mod|do pro:per|you v|have pro:indef|anything post|else pro:per|you
+	v|want~inf|to v|add prep|to det:poss|your n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|7|SUBJ 7|3|COMP 8|9|INF
+	9|7|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*CHI:	&-uh it's probably hurry up to get to the aliens probably .
+%mor:	pro:per|it~cop|be&3S adv|probable&dadj-LY v|hurry adv|up inf|to
+	v|get prep|to det:art|the n|alien-PL adv|probable&dadj-LY .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|CPRED 5|4|JCT 6|7|INF 7|4|XJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|JCT 12|2|PUNCT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

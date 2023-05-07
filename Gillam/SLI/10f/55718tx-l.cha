@@ -1,0 +1,146 @@
+@UTF8
+@PID:	11312/c-00033697-1
+@Window:	554_167_591_1178_-1_-1_585_0_585_0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|10;00.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	01-NOV-2002
+@Transcriber:	Kristin Hatfield
+@Comment:	DOB = 10/16/1992
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	<the girl &~wa> [/?] Lisa wanted a happy meal a icecream cone .
+%mor:	n:prop|Lisa v|want-PAST det:art|a adj|happy n|meal det:art|a
+	n|+n|ice+n|cream n|cone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|8|DET 7|8|MOD 8|5|APP
+	9|2|PUNCT
+*CHI:	and [/] and a boy wanted a cheeseburger .
+%mor:	coord|and det:art|a n|boy part|want-PASTP det:art|a
+	n|+n|cheese+n|burger .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|6|DET 6|4|OBJ 7|3|PUNCT
+*CHI:	<and> [/?] so they didn't have any money .
+%mor:	co|so pro:sub|they mod|do&PAST~neg|not v|have qn|any n|money .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+*CHI:	so they <&~s &~the &~m> [/?] ordering man said its fifty cents and
+	.
+%mor:	co|so pro:sub|they part|order-PRESP n|man v|say&PAST det:poss|its
+	det:num|fifty n|cent-PL coord|and .
+%gra:	1|2|COM 2|0|ROOT 3|2|XMOD 4|5|SUBJ 5|3|COMP 6|8|DET 7|8|QUANT 8|5|OBJ
+	9|8|CONJ 10|2|PUNCT
+*INV:	is that it ?
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	LateForSchool
+*CHI:	first he got up .
+%mor:	adv|first pro:sub|he v|get&PAST adv|up .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	then he got dressed .
+%mor:	adv:tem|then pro:sub|he aux|get&PAST part|dress-PASTP .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	then he ate breakfast .
+%mor:	adv:tem|then pro:sub|he v|eat&PAST n|+v|break+n|fast .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	then he went to school .
+%mor:	adv:tem|then pro:sub|he v|go&PAST prep|to n|school .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and after that he got home .
+%mor:	coord|and prep|after comp|that pro:sub|he v|get&PAST adv|home .
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*INV:	hm: [>] .
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<I mean> [<] <&~t &~s> [/?] he gotta school .
+%mor:	pro:sub|I v|mean pro:sub|he mod|got~prep|to n|school .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|ENUM 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*CHI:	<he his &~pro &~I he> [/?] he hadded [: had] [* m:+ed] to walk to
+	school .
+%mor:	pro:sub|he aux|have&PAST inf|to v|walk prep|to n|school .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	and now he was there .
+%mor:	coord|and adv:tem|now pro:sub|he cop|be&PAST&13S adv|there .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+@G:	Aliens
+*CHI:	<okay once there were um> [/?] one day &-uh there were <um> [/?]
+	kids there .
+%mor:	det:num|one n|day adv|there cop|be&PAST n|kid-PL adv|there .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|JCT 7|4|PUNCT
+*CHI:	<and they were> [/?] and then they [/] they were outside .
+%mor:	coord|and adv:tem|then pro:sub|they cop|be&PAST
+	adv|+prep|out+n|side .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	and they saw this really [/] really +...
+%mor:	coord|and pro:sub|they v|see&PAST det:dem|this adv|real&dadj-LY
+	+...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|JCT 6|3|PUNCT
+*CHI:	<um &~the> [/?] they look like the <&~opi> [/?] octopus .
+%mor:	pro:sub|they v|look conj|like det:art|the n|octopus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	but they're not but see um .
+%mor:	conj|but pro:sub|they~cop|be&PRES neg|not conj|but co|see n|um .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|CONJ 6|7|COM 7|5|COORD 8|3|PUNCT
+*CHI:	they look like &~op &-uh +...
+%mor:	pro:sub|they v|look conj|like +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OM 4|2|PUNCT
+*CHI:	because &-um they were on this really [/] really &-um +...
+%mor:	conj|because pro:sub|they cop|be&PAST prep|on pro:dem|this
+	adv|real&dadj-LY +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|PUNCT
+*CHI:	they were at the astronaut or &~s or an airplane .
+%mor:	pro:sub|they cop|be&PAST prep|at det:art|the n|astronaut coord|or
+	coord|or det:art|a n|+n|air+n|plane .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|9|DET
+	9|7|COORD 10|2|PUNCT
+*CHI:	so &-uh so then [/] then <&~the> [/?] there was a goat .
+%mor:	adv|so adv|so adv:tem|then adv|there cop|be&PAST&13S det:art|a
+	n|goat .
+%gra:	1|2|JCT 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|5|PUNCT
+*CHI:	and the [/] the kid hold <that> [/?] the leash .
+%mor:	coord|and det:art|the n|kid n|hold det:art|the n|leash .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	<and &~s &~s &~smi> [/?] and they were all smiling <&~a> [/?] but
+	him .
+%mor:	coord|and pro:sub|they aux|be&PAST post|all part|smile-PRESP
+	conj|but pro:obj|him .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|XMOD 6|5|CONJ 7|6|COORD
+	8|4|PUNCT
+*CHI:	then <the kids were acting really> [/?] those kids were <um really>
+	[/?] acting <really> [/?] probably rude or something .
+%mor:	adv:tem|then det:dem|those n|kid-PL aux|be&PAST part|act-PRESP
+	adv|probable&dadj-LY adj|rude coord|or pro:indef|something .
+%gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|CONJ
+	9|8|COORD 10|5|PUNCT
+*CHI:	and so &-uh then they were <um they &~w> [/?] they got back .
+%mor:	coord|and adv|so adv:tem|then pro:sub|they cop|be&PAST pro:sub|they
+	v|get&PAST n|back .
+%gra:	1|5|LINK 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|CMOD 8|7|OBJ
+	9|5|PUNCT
+*CHI:	and <so &-uh so &-um hm: so they &-um the the girl did &~the> [/?]
+	that girl did this .
+%mor:	coord|and det:dem|that n|girl mod|do&PAST det:dem|this .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	and the little kid <did was &~smi was> [/?] was looking like they
+	said hi to the goat .
+%mor:	coord|and det:art|the adj|little n|kid aux|be&PAST&13S
+	part|look-PRESP conj|like pro:sub|they v|say&PAST co|hi prep|to
+	det:art|the n|goat .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|9|OBJ 11|10|JCT 12|13|DET 13|11|POBJ 14|6|PUNCT
+*CHI:	so &-um +...
+%mor:	co|so +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you think of anything else to put in your story ?
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything post|else
+	inf|to v|put&ZERO prep|in det:poss|your n|story ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|PQ 7|8|INF 8|3|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

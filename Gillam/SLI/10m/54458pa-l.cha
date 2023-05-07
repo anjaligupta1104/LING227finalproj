@@ -1,0 +1,97 @@
+@UTF8
+@PID:	11312/c-00033700-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|10;01.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	02-DEC-2002
+@Transcriber:	Kristin Hatfield
+@Comment:	DOB = 10/20/1992
+@Comment:	Ethnicity = Hispanic American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	&-um they <oh> [/?] wanted to go to Mcdonalds .
+%mor:	pro:sub|they v|want-PAST inf|to v|go prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*CHI:	and the mom <&~ne mom> [/?] told them to get in the car .
+%mor:	coord|and det:art|the n|mom v|tell&PAST pro:obj|them inf|to v|get
+	prep|in det:art|the n|car .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*CHI:	and they drove at Mcdonalds .
+%mor:	coord|and pro:sub|they v|drive&PAST prep|at n:prop|Mcdonalds .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and &-um they ordered &-um +...
+%mor:	coord|and pro:sub|they v|order-PAST +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	what [/] what did they order ?
+%mor:	pro:int|what mod|do&PAST pro:sub|they v|order ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	&-um salad and kidsmeal .
+%mor:	n|salad coord|and n|+n|kids+n|meal .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*CHI:	and her mom left her wallet &-um in the kitchen .
+%mor:	coord|and det:poss|her n|mom adj|left det:poss|her n|wallet prep|in
+	det:art|the n|kitchen .
+%gra:	1|6|LINK 2|3|DET 3|6|MOD 4|3|POSTMOD 5|6|DET 6|0|INCROOT 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|6|PUNCT
+@Comment:	End McDonalds, BeginLateforSchool
+*CHI:	&-um the <&~k> [/?] kid <was> [/?] woke up late .
+%mor:	det:art|the n|kid v|wake&PAST adv|up adj|late .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*CHI:	and he spilled his milk .
+%mor:	coord|and pro:sub|he v|spill-PAST det:poss|his n|milk .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and when he was tying his shoe <&~h> [/?] his shoelace broke .
+%mor:	coord|and conj|when pro:sub|he aux|be&PAST&13S part|tie-PRESP
+	det:poss|his n|shoe det:poss|his n|+n|shoe+n|lace adj|broke .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|DET
+	9|7|OBJ 10|9|POSTMOD 11|5|PUNCT
+*CHI:	and when he went outside <the bus> [/?] schoolbus left him .
+%mor:	coord|and conj|when pro:sub|he v|go&PAST adv|+prep|out+n|side
+	n|+n|school+n|bus v|leave&PAST pro:obj|him .
+%gra:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*CHI:	and he was late .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|late .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@G:	Aliens
+*CHI:	&-um the boy and the girl was having park .
+%mor:	det:art|the n|boy coord|and det:art|the n|girl aux|be&PAST&13S
+	part|have-PRESP n|park .
+%gra:	1|2|DET 2|7|SUBJ 3|2|CONJ 4|5|DET 5|3|COORD 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*CHI:	and spaceship came down .
+%mor:	coord|and n|+n|space+n|ship v|come&PAST adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and they saw <&~s &~s> [/?] aliens getting off the spaceship .
+%mor:	coord|and pro:sub|they v|see&PAST n|alien-PL part|get-PRESP
+	prep|off det:art|the n|+n|space+n|ship .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|XMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	and they had a <&~s> [/?] alien dog .
+%mor:	coord|and pro:sub|they v|have&PAST det:art|a n|alien n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	and they thought they was moving that <&~th> [/?] the country .
+%mor:	coord|and pro:sub|they v|think&PAST pro:sub|they aux|be&PAST&13S
+	part|move-PRESP comp|that det:art|the n|country .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*INV:	can you think of anything else to put in your story ?
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything post|else
+	inf|to v|put&ZERO prep|in det:poss|your n|story ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|PQ 7|8|INF 8|3|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	&-um the girl wanted to go <&~s> [/?] pet the dog .
+%mor:	det:art|the n|girl v|want-PAST inf|to v|go v|pet det:art|the n|dog
+	.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|INF 5|6|SRL 6|3|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*CHI:	and &-uh the boy didn't want her to .
+%mor:	coord|and det:art|the n|boy mod|do&PAST~neg|not v|want pro:obj|her
+	prep|to .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|PUNCT
+@End

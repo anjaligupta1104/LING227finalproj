@@ -1,0 +1,195 @@
+@UTF8
+@PID:	11312/c-00034172-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;10.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	19-FEB-2002
+@Comment:	DOB = 4/23/1994
+@Comment:	Grade( =2)
+@Comment:	Examiner = Joan Kaderavek
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	I don't know the story .
+%mor:	pro:sub|I mod|do~neg|not v|know det:art|the n|story .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*INV:	you don't know ?
+%mor:	pro:per|you mod|do~neg|not v|know ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	can you just tell me a little bit about what you remember ?
+%mor:	mod|can pro:per|you adv|just v|tell pro:obj|me det:art|a adj|little
+	n|bit prep|about pro:int|what pro:per|you v|remember ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|8|DET 7|8|MOD 8|4|OBJ
+	9|8|JCT 10|12|LINK 11|12|SUBJ 12|9|CPOBJ 13|4|PUNCT
+*INV:	anything ?
+%mor:	pro:indef|anything ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that their mom forgot the purse .
+%mor:	comp|that det:poss|their n|mom v|forget&PAST det:art|the n|purse .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and that &-um Lisa ordered one milkshake and a coke and <um> [/?] a
+	cone and a hamburger .
+%mor:	coord|and comp|that n:prop|Lisa v|order-PAST det:num|one
+	n|+n|milk+n|shake coord|and det:art|a n|coke coord|and det:art|a
+	n|cone coord|and det:art|a n|hamburger .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|4|CONJ 11|12|DET 12|10|COORD 13|12|CONJ 14|15|DET
+	15|13|COORD 16|4|PUNCT
+*CHI:	and that it costed twelve dollars and fifty cents .
+%mor:	coord|and comp|that pro:per|it v|cost-PAST det:num|twelve
+	n|dollar-PL coord|and det:num|fifty n|cent-PL .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|CONJ
+	8|9|QUANT 9|7|COORD 10|4|PUNCT
+*INV:	can you remember anything else ?
+%mor:	mod|can pro:per|you v|remember pro:indef|anything post|else ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|PUNCT
+*CHI:	they [/] they were at home <when they wanted> [/?] when they both
+	said that they wanted to go to Mcdonalds .
+%mor:	pro:sub|they cop|be&PAST prep|at n|home conj|when pro:sub|they
+	post|both v|say&PAST comp|that pro:sub|they v|want-PAST inf|to v|go
+	prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|8|LINK 6|8|SUBJ 7|6|PQ 8|2|CJCT
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|13|INF 13|11|COMP 14|13|JCT 15|14|POBJ
+	16|2|PUNCT
+@G:	LateForSchool
+*CHI:	Jake <woke &~u> [/?] woke up in the morning .
+%mor:	n:prop|Jake v|wake&PAST adv|up prep|in det:art|the n|morning .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	he spilled milk <with and> [/?] because he wasn't looking .
+%mor:	pro:sub|he v|spill-PAST n|milk conj|because pro:sub|he
+	aux|be&PAST&13S~neg|not part|look-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|CJCT
+	9|2|PUNCT
+*CHI:	and then he went to tie his shoes .
+%mor:	coord|and adv:tem|then pro:sub|he v|go&PAST inf|to v|tie
+	det:poss|his n|shoe-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	and his shoes broke .
+%mor:	coord|and det:poss|his n|shoe-PL adj|broke .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|POSTMOD 5|1|PUNCT
+*CHI:	so he couldn't tie his shoes .
+%mor:	co|so pro:sub|he mod|could~neg|not v|tie det:poss|his n|shoe-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	and then he missed the school bus .
+%mor:	coord|and adv:tem|then pro:sub|he v|miss-PAST det:art|the n|school
+	n|bus .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*CHI:	so he couldn't go .
+%mor:	co|so pro:sub|he mod|could~neg|not v|go .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*CHI:	and his mom hadta drive him .
+%mor:	coord|and det:poss|his n|mom mod|have&PAST~inf|to v|drive
+	pro:obj|him .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	and you got late for school .
+%mor:	coord|and pro:per|you aux|get&PAST adv|late prep|for n|school .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	and then his teacher sent him to the office to get a late slip .
+%mor:	coord|and adv:tem|then det:poss|his n|teach&dv-AGT v|send&PAST
+	pro:obj|him prep|to det:art|the n|office inf|to v|get det:art|a
+	adj|late n|slip .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|11|INF 11|5|XJCT 12|14|DET 13|14|MOD 14|11|OBJ 15|5|PUNCT
+@G:	Aliens
+*CHI:	once upon a time there was two kids named jack and Emily .
+%mor:	adv:tem|once prep|upon det:art|a n|time adv|there cop|be&PAST&13S
+	det:num|two n|kid-PL v|name-PAST n|jack coord|and n:prop|Emily .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|6|PRED
+	9|6|ENUM 10|9|OBJ 11|10|CONJ 12|11|COORD 13|6|PUNCT
+*CHI:	they both were getting off of the blimp .
+%mor:	pro:sub|they post|both aux|be&PAST part|get-PRESP adv|off prep|of
+	det:art|the n|blimp .
+%gra:	1|4|SUBJ 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	but then <they> [/?] their mom and dad didn't get off .
+%mor:	conj|but adv:tem|then det:poss|their n|mom coord|and n|dad
+	mod|do&PAST~neg|not v|get adv|off .
+%gra:	1|9|LINK 2|9|JCT 3|4|DET 4|9|SUBJ 5|4|CONJ 6|5|COORD 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|JCT 11|9|PUNCT
+*CHI:	and the blimp left without them because <the blimp was> [/?] they
+	were sposta stay on .
+%mor:	coord|and det:art|the n|blimp v|leave&PAST prep|without
+	pro:obj|them conj|because pro:sub|they aux|be&PAST
+	part|suppose&PASTP~inf|to v|stay adv|on .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|4|CJCT 11|12|INF 12|10|COMP 13|12|JCT 14|4|PUNCT
+*CHI:	but they got off .
+%mor:	conj|but pro:sub|they v|get&PAST adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and then they hadta walk all the way .
+%mor:	coord|and adv:tem|then pro:sub|they mod|have&PAST~inf|to v|walk
+	qn|all det:art|the n|way .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|9|QUANT 8|9|DET
+	9|6|OBJ 10|6|PUNCT
+*CHI:	and they couldn't find their mom and dad .
+%mor:	coord|and pro:sub|they mod|could~neg|not v|find det:poss|their
+	n|mom coord|and n|dad .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|8|COORD 10|5|PUNCT
+*CHI:	and then people came off and helped them .
+%mor:	coord|and adv:tem|then n|person&PL v|come&PAST adv|off coord|and
+	v|help-PAST pro:obj|them .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|OBJ
+	9|4|PUNCT
+*CHI:	and they went home with them for a couple of days .
+%mor:	coord|and pro:sub|they v|go&PAST adv|home prep|with pro:obj|them
+	prep|for det:art|a n|couple prep|of n|day-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|3|PUNCT
+*CHI:	<and then they wanted and took> [/?] and then they tried to find
+	their house .
+%mor:	coord|and adv:tem|then pro:sub|they v|try-PAST inf|to v|find
+	det:poss|their n|house .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	and when they found their house they just stayed there and waited
+	for their mom and dad to come .
+%mor:	coord|and conj|when pro:sub|they v|find&PAST det:poss|their n|house
+	pro:sub|they adv|just v|stay-PAST adv|there coord|and v|wait-PAST
+	prep|for det:poss|their n|mom coord|and n|dad inf|to v|come .
+%gra:	1|9|LINK 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|6|DET 6|4|OBJ 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|9|JCT 11|9|CONJ 12|11|COORD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|CONJ 17|16|COORD 18|19|INF 19|17|XMOD 20|9|PUNCT
+*CHI:	<then> [/?] but their mom and dad were gonna be there in two weeks
+	.
+%mor:	conj|but det:poss|their n|mom coord|and n|dad aux|be&PAST
+	part|go&PRESP~inf|to cop|be adv|there prep|in det:num|two n|week-PL
+	.
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|CONJ 5|4|COORD 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|JCT 11|9|JCT 12|13|QUANT 13|11|POBJ 14|7|PUNCT
+*CHI:	so they hadta go shopping by theirself [: themselves] [* m] .
+%mor:	co|so pro:sub|they mod|have&PAST~inf|to v|go part|shop-PRESP
+	prep|by pro:refl|themselves .
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|6|INF 5|6|SRL 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*CHI:	and do everything by theirself [: themselves] [* m] .
+%mor:	coord|and v|do pro:indef|everything prep|by pro:refl|themselves .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*INV:	can you think of anything else to put in your story ?
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything post|else
+	inf|to v|put&ZERO prep|in det:poss|your n|story ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|PQ 7|8|INF 8|3|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	then +...
+%mor:	adv:tem|then +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	then they kept staying there until their mom and dad <went> [/?]
+	got home .
+%mor:	adv:tem|then pro:sub|they v|keep&PAST part|stay-PRESP adv|there
+	prep|until det:poss|their n|mom coord|and n|dad v|get&PAST n|home .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|OBJ 13|3|PUNCT
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+@End

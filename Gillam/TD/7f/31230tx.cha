@@ -1,0 +1,145 @@
+@UTF8
+@PID:	11312/c-00034115-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;02.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	15-DEC-2001
+@Transcriber:	Ashley Tatum
+@Comment:	DOB = 10/12/1994
+@Comment:	Examiner = Amanda Raab
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	&-um on tuesday morning Lisa &-uh and Raymond's mom asked where
+	they wanna go out to eat .
+%mor:	prep|on n|tuesday n|morning n:prop|Lisa coord|and
+	adj|Raymond&dn-POSS n|mom v|ask-PAST pro:int|where pro:sub|they
+	v|want~inf|to v|go adv|out inf|to v|eat .
+%gra:	1|8|LINK 2|3|MOD 3|8|SUBJ 4|8|XJCT 5|4|CONJ 6|5|COORD 7|8|SUBJ 8|0|ROOT
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|13|INF 13|11|COMP 14|13|JCT 15|16|INF
+	16|13|COMP 17|8|PUNCT
+*CHI:	they <&~s> [/?] all yelled out Mcdonalds .
+%mor:	pro:sub|they post|all v|yell-PAST adv|out n:prop|Mcdonalds .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	so they went to Mcdonalds .
+%mor:	co|so pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and Lisa couldn't decide what she wanted .
+%mor:	coord|and n:prop|Lisa mod|could~neg|not v|decide pro:int|what
+	pro:sub|she v|want-PAST .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|5|PUNCT
+*CHI:	but the mom and Raymond knew what they wanted .
+%mor:	conj|but det:art|the n|mom coord|and n:prop|Raymond v|know&PAST
+	pro:int|what pro:sub|they v|want-PAST .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|6|PUNCT
+*CHI:	Raymond wanted a cheeseburger and a vanilla milkshake .
+%mor:	n:prop|Raymond v|want-PAST det:art|a n|+n|cheese+n|burger coord|and
+	det:art|a n|vanilla n|+n|milk+n|shake .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|8|DET 7|8|MOD 8|5|COORD
+	9|2|PUNCT
+*CHI:	and the mom wanted &-um salad .
+%mor:	coord|and det:art|the n|mom v|want-PAST n|salad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	and then Lisa finally decided that she wanted a cheeseburger with
+	<a chocolate &~milksha> [/?] a chocolate cone .
+%mor:	coord|and adv:tem|then n:prop|Lisa adv|final&dadj-LY v|decide-PAST
+	comp|that pro:sub|she v|want-PAST det:art|a n|+n|cheese+n|burger
+	prep|with det:art|a n|chocolate n|cone .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|5|PUNCT
+*CHI:	and then the [/] the person who works at Mcdonalds said that would
+	be twelve dollars .
+%mor:	coord|and adv:tem|then det:art|the n|person pro:rel|who v|work-3S
+	prep|at n:prop|Mcdonalds v|say&PAST comp|that mod|will&COND cop|be
+	det:num|twelve n|dollar-PL .
+%gra:	1|9|LINK 2|9|JCT 3|4|DET 4|9|SUBJ 5|6|LINK 6|4|CMOD 7|6|JCT 8|7|POBJ
+	9|0|ROOT 10|12|SUBJ 11|12|AUX 12|9|COMP 13|14|QUANT 14|12|PRED 15|9|PUNCT
+*CHI:	and she looked up on the counter .
+%mor:	coord|and pro:sub|she v|look-PAST adv|up prep|on det:art|the
+	n|counter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	but it wasn't there <she &~sa &~s she> [/?] because she left it on
+	the counter at their house .
+%mor:	conj|but pro:per|it cop|be&PAST&13S~neg|not n|there conj|because
+	pro:sub|she v|leave&PAST pro:per|it prep|on det:art|the n|counter
+	prep|at det:poss|their n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|8|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+@G:	LateForSchool
+*CHI:	one day this boy couldn't do anything right .
+%mor:	det:num|one n|day det:dem|this n|boy mod|could~neg|not v|do
+	pro:indef|anything adj|right .
+%gra:	1|2|QUANT 2|7|JCT 3|4|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|OBJ
+	9|8|POSTMOD 10|7|PUNCT
+*CHI:	when he woke up he got a headache from the clock because it rang
+	too loud .
+%mor:	conj|when pro:sub|he v|wake&PAST adv|up pro:sub|he v|get&PAST
+	det:art|a n|+n|head+n|ache prep|from det:art|the n|clock
+	conj|because pro:per|it v|ring&PAST adv|too adj|loud .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|6|CJCT 15|16|JCT
+	16|14|JCT 17|6|PUNCT
+*CHI:	and then he spilled his milk when he was trying to pour it into his
+	cup .
+%mor:	coord|and adv:tem|then pro:sub|he v|spill-PAST det:poss|his n|milk
+	conj|when pro:sub|he aux|be&PAST&13S part|try-PRESP inf|to v|pour
+	pro:per|it prep|into det:poss|his n|cup .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|4|CJCT 11|12|INF 12|10|COMP 13|12|OBJ 14|12|JCT 15|16|DET
+	16|14|POBJ 17|4|PUNCT
+*CHI:	and then he broke his <&~sh uh> [/?] shoelace .
+%mor:	coord|and adv:tem|then pro:sub|he v|break&PAST det:poss|his
+	n|+n|shoe+n|lace .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and then the bus left him .
+%mor:	coord|and adv:tem|then det:art|the n|bus v|leave&PAST pro:obj|him .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and then he <&~w &~wa> [/?] hadta walk to school .
+%mor:	coord|and adv:tem|then pro:sub|he mod|have&PAST~inf|to v|walk
+	prep|to n|school .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+@G:	Aliens
+*CHI:	<mmk> [/?] once there was an alien family who was going to earth to
+	spend a week there .
+%mor:	adv:tem|once adv|there cop|be&PAST&13S det:art|a n|alien n|family
+	pro:rel|who aux|be&PAST&13S part|go-PRESP prep|to n|earth inf|to
+	v|spend det:art|a n|week adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|9|JCT 11|10|POBJ 12|13|INF 13|9|XJCT 14|15|DET 15|13|OBJ
+	16|13|JCT 17|3|PUNCT
+*CHI:	and then <a girl &~a uh> [/?] a girl and a boy came .
+%mor:	coord|and adv:tem|then det:art|a n|girl coord|and det:art|a n|boy
+	v|come&PAST .
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|8|SUBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|0|ROOT
+	9|8|PUNCT
+*CHI:	and <&~th> [/?] the boy said I'm not going .
+%mor:	coord|and det:art|the n|boy v|say&PAST pro:sub|I~aux|be&1S neg|not
+	part|go-PRESP .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|4|PUNCT
+*CHI:	but the girl really convinced him to .
+%mor:	conj|but det:art|the n|girl adv|real&dadj-LY v|convince-PAST
+	pro:obj|him inf|to .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|OBJ 8|5|PUNCT
+*CHI:	<&~s> [/?] and they had a dog .
+%mor:	coord|and pro:sub|they v|have&PAST det:art|a n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and then <they> [/?] there was a little girl a mom and a dad .
+%mor:	coord|and adv:tem|then pro:exist|there cop|be&PAST&13S det:art|a
+	adj|little n|girl det:art|a n|mom coord|and det:art|a n|dad .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|9|DET
+	9|7|XMOD 10|9|CONJ 11|12|DET 12|10|COORD 13|4|PUNCT
+*CHI:	and then they made friends .
+%mor:	coord|and adv:tem|then pro:sub|they v|make&PAST n|friend-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	&~mm [/?] that's the end .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|end .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@End

@@ -1,0 +1,101 @@
+@UTF8
+@PID:	11312/c-00034086-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;09.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	21-FEB-2002
+@Transcriber:	SB
+@Comment:	DOB = 5/15/1995
+@Comment:	Examiner = LJ
+@Comment:	Grade 1
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	I forget the story .
+%mor:	pro:sub|I v|forget det:art|the n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	they wanted to go to Mcdonalds .
+%mor:	pro:sub|they v|want-PAST inf|to v|go prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*CHI:	the mom forgot the money .
+%mor:	det:art|the n|mom v|forget&PAST det:art|the n|money .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@G:	LateForSchool
+*CHI:	there's this boy named jack .
+%mor:	pro:exist|there~cop|be&3S det:dem|this n|boy part|name-PASTP n|jack
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|5|OBJ 7|2|PUNCT
+*CHI:	and when he woke up he was late .
+%mor:	coord|and conj|when pro:sub|he v|wake&PAST adv|up pro:sub|he
+	cop|be&PAST&13S adv|late .
+%gra:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|7|PUNCT
+*CHI:	and then when he looked at the clock when he was fixing breakfast
+	<he put too many> [/] he put too many milk [*] in his <&~s> [/?]
+	cereal bowl .
+%mor:	coord|and adv:tem|then conj|when pro:sub|he v|look-PAST prep|at
+	det:art|the n|clock conj|when pro:sub|he aux|be&PAST&13S
+	part|fix-PRESP n|+v|break+n|fast pro:sub|he v|put&ZERO adv|too
+	qn|many n|milk prep|in det:poss|his n|cereal n|bowl .
+%gra:	1|15|LINK 2|15|JCT 3|5|LINK 4|5|SUBJ 5|15|CJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|15|CJCT 13|12|OBJ 14|15|SUBJ
+	15|0|ROOT 16|17|JCT 17|18|QUANT 18|15|OBJ 19|15|JCT 20|22|DET 21|22|MOD
+	22|19|POBJ 23|15|PUNCT
+*CHI:	and when he was putting on his shoes he broke a shoelace .
+%mor:	coord|and conj|when pro:sub|he aux|be&PAST&13S part|put-PRESP
+	prep|on det:poss|his n|shoe-PL pro:sub|he v|break&PAST det:art|a
+	n|+n|shoe+n|lace .
+%gra:	1|10|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|10|CJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|0|ROOT 11|12|DET 12|10|OBJ 13|10|PUNCT
+*CHI:	then he was late &~f +...
+%mor:	adv:tem|then pro:sub|he cop|be&PAST&13S adv|late +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	the school bus passed his house .
+%mor:	det:art|the n|school n|bus v|pass-PAST det:poss|his n|house .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and then when he gotta school his teacher <says> [/?] said you're
+	late jack .
+%mor:	coord|and adv:tem|then conj|when pro:sub|he mod|got~prep|to
+	n|school det:poss|his n|teach&dv-AGT v|say&PAST
+	pro:per|you~cop|be&PRES adj|late n|jack .
+%gra:	1|10|LINK 2|10|JCT 3|10|LINK 4|10|SUBJ 5|10|AUX 6|10|JCT 7|6|POBJ
+	8|9|DET 9|10|SUBJ 10|0|ROOT 11|12|SUBJ 12|10|COMP 13|14|MOD 14|12|PRED
+	15|10|PUNCT
+@G:	Aliens
+*CHI:	there was two kids named jack and Michelle .
+%mor:	pro:exist|there cop|be&PAST&13S det:num|two n|kid-PL v|name-PAST
+	n|jack coord|and n:prop|Michelle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|ENUM 6|5|OBJ 7|6|CONJ
+	8|7|COORD 9|2|PUNCT
+*CHI:	they saw <some uh> [/?] five people having a picnic .
+%mor:	pro:sub|they v|see&PAST det:num|five n|person&PL part|have-PRESP
+	det:art|a n|picnic .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|XMOD 6|7|DET 7|5|OBJ 8|2|PUNCT
+*CHI:	but they really weren't people .
+%mor:	conj|but pro:sub|they adv|real&dadj-LY cop|be&PAST~neg|not
+	n|person&PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|NEG 6|4|PRED 7|4|PUNCT
+*CHI:	they were aliens .
+%mor:	pro:sub|they cop|be&PAST n|alien-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	<when they gotta see> [/?] when they went over there and saw them
+	they knew that they were aliens .
+%mor:	conj|when pro:sub|they v|go&PAST prep|over n|there coord|and
+	v|see&PAST pro:obj|them pro:sub|they v|know&PAST comp|that
+	pro:sub|they cop|be&PAST n|alien-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|10|SUBJ 10|0|ROOT 11|13|LINK 12|13|SUBJ 13|10|COMP 14|13|PRED
+	15|10|PUNCT
+*CHI:	but jack <tried to tell her> [/?] tried to tell Michelle .
+%mor:	conj|but n|jack v|try-PAST inf|to v|tell n:prop|Michelle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*CHI:	but Michelle wouldn't listen .
+%mor:	conj|but n:prop|Michelle mod|will&COND~neg|not v|listen .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*CHI:	they really were aliens .
+%mor:	pro:sub|they adv|real&dadj-LY cop|be&PAST n|alien-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

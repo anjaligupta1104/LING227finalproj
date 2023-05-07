@@ -1,0 +1,119 @@
+@UTF8
+@PID:	11312/c-00033767-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;09.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	02-JUN-2004
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 8/26/1996
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	the [/] the kids yelled out Mcdonalds .
+%mor:	det:art|the n|kid-PL v|yell-PAST adv|out n:prop|Mcdonalds .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and then their mom took them to the Mcdonalds .
+%mor:	coord|and adv:tem|then det:poss|their n|mom v|take&PAST
+	pro:obj|them prep|to det:art|the n:prop|Mcdonalds .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*CHI:	and Tracy didn't know what she wanted .
+%mor:	coord|and n:prop|Tracy mod|do&PAST~neg|not v|know pro:int|what
+	pro:sub|she v|want-PAST .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|5|PUNCT
+*CHI:	but her mom and her brother know what <he they know> [/?] they
+	<got> [/?] wanted .
+%mor:	conj|but det:poss|her n|mom coord|and det:poss|her n|brother v|know
+	pro:int|what pro:sub|they v|want-PAST .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|0|ROOT 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|7|PUNCT
+*CHI:	and then she went up .
+%mor:	coord|and adv:tem|then pro:sub|she v|go&PAST adv|up .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	<and> [/?] she said that she wanted a hamburger .
+%mor:	pro:sub|she v|say&PAST comp|that pro:sub|she v|want-PAST det:art|a
+	n|hamburger .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*CHI:	<and> [/?] she wanted &-um french_fries and a milkshake .
+%mor:	pro:sub|she v|want-PAST n|french_fry-PL coord|and det:art|a
+	n|+n|milk+n|shake .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|2|PUNCT
+*CHI:	<and> [/?] that's all I know .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|2|PUNCT
+@G:	LateForSchool
+*INV:	how does this story start ?
+%mor:	pro:int|how mod|do&3S det:dem|this n|story n|start ?
+%gra:	1|5|JCT 2|5|AUX 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	when he was <going> [/?] getting up from bed from school .
+%mor:	conj|when pro:sub|he aux|be&PAST&13S part|get-PRESP adv|up
+	prep|from n|bed prep|from n|school .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*CHI:	and then he was getting his breakfast .
+%mor:	coord|and adv:tem|then pro:sub|he aux|be&PAST&13S part|get-PRESP
+	det:poss|his n|+v|break+n|fast .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	<and> [/?] he made a <bid> [/?] big <mest> [/?] mess .
+%mor:	pro:sub|he v|make&PAST det:art|a adj|big n|mess .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	<and> [/?] then he went to put his shoes on .
+%mor:	adv:tem|then pro:sub|he v|go&PAST inf|to v|put&ZERO det:poss|his
+	n|shoe-PL adv|on .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|3|PUNCT
+*CHI:	but his shoelace broke .
+%mor:	conj|but det:poss|his n|+n|shoe+n|lace adj|broke .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|POSTMOD 5|1|PUNCT
+%com:	child says shoelacet for shoelace
+*CHI:	and then he &-um tried to stop the bus .
+%mor:	coord|and adv:tem|then pro:sub|he v|try-PAST inf|to v|stop
+	det:art|the n|bus .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	but the bus +...
+%mor:	conj|but det:art|the n|bus +...
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	he missed the bus .
+%mor:	pro:sub|he v|miss-PAST det:art|the n|bus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	<but> [/?] and then he <went> [/?] walked back from school .
+%mor:	coord|and adv:tem|then pro:sub|he v|walk-PAST adv|back prep|from
+	n|school .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+@G:	Aliens
+*CHI:	<the> [/?] Annie she was happy .
+%mor:	n:prop|Annie pro:sub|she cop|be&PAST&13S adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and then they went .
+%mor:	coord|and adv:tem|then pro:sub|they v|go&PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	then she grabbed his hand .
+%mor:	adv:tem|then pro:sub|she v|grab-PAST det:poss|his n|hand .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	she wanted to run <to the aliens> [/?] to the &-um aliens .
+%mor:	pro:sub|she v|want-PAST inf|to v|run prep|to det:art|the n|alien-PL
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	and he was trying to stop her .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|try-PRESP inf|to v|stop
+	pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*CHI:	<as he was &~tr> [/?] he was going <like> [/?] on his heels .
+%mor:	pro:sub|he aux|be&PAST&13S part|go-PRESP prep|on det:poss|his
+	n|heel-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and he was trying to stop her as not going by the aliens .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|try-PRESP inf|to v|stop
+	pro:obj|her prep|as neg|not part|go-PRESP prep|by det:art|the
+	n|alien-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|10|COORD
+	9|10|NEG 10|6|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*CHI:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

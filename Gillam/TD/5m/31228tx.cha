@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/c-00033994-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|5;04.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	15-DEC-2001
+@Transcriber:	Sandye Ulaner
+@Comment:	DOB = 8/10/1996
+@Comment:	Examiner = Jessica Finer
+@Comment:	Allie Baron
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	Mcdonalds and the kids and the food and the icecream .
+%mor:	n:prop|Mcdonalds coord|and det:art|the n|kid-PL coord|and
+	det:art|the n|food coord|and det:art|the n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|CONJ 6|7|DET 7|5|COORD
+	8|1|CONJ 9|10|DET 10|8|COORD 11|1|PUNCT
+*CHI:	that's all I can remember .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I mod|can v|remember .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|2|PUNCT
+*INV:	what happened to the boy and the girl in the story ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl prep|in det:art|the n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	&-um they couldn't get in the car ?
+%mor:	pro:sub|they mod|could~neg|not v|get prep|in det:art|the n|car ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+@G:	LateForSchool
+*CHI:	well he woke up .
+%mor:	co|well pro:sub|he v|wake&PAST adv|up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	his clock rang .
+%mor:	det:poss|his n|clock v|ring&PAST .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	he made a big mess at the table when he gotta eat breakfast .
+%mor:	pro:sub|he v|make&PAST det:art|a adj|big n|mess prep|at det:art|the
+	n|table conj|when pro:sub|he mod|got~inf|to v|eat n|+v|break+n|fast
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|INF 13|2|CJCT 14|13|OBJ 15|2|PUNCT
+*CHI:	he was tying on his shoe .
+%mor:	pro:sub|he aux|be&PAST&13S part|tie-PRESP prep|on det:poss|his
+	n|shoe .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and the school bus left without him .
+%mor:	coord|and det:art|the n|school n|bus v|leave&PAST prep|without
+	pro:obj|him .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	so he went to school all by himself without it .
+%mor:	co|so pro:sub|he v|go&PAST prep|to n|school adv|all prep|by
+	pro:refl|himself prep|without pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|JCT 8|7|POBJ
+	9|3|JCT 10|9|POBJ 11|3|PUNCT
+@G:	Aliens
+*CHI:	there was some kids .
+%mor:	pro:exist|there cop|be&PAST&13S qn|some n|kid-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*CHI:	they were behind the bush .
+%mor:	pro:sub|they cop|be&PAST prep|behind det:art|the n|bush .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	they saw this <alien thing> [/?] yellow thing came down [*] .
+%mor:	pro:sub|they v|see&PAST det:dem|this n|yellow n|thing v|come&PAST
+	adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|6|SUBJ 6|2|COMP 7|6|JCT 8|2|PUNCT
+*CHI:	and aliens came out_of it .
+%mor:	coord|and n|alien-PL v|come&PAST prep|out_of pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	it was so cool .
+%mor:	pro:per|it cop|be&PAST&13S adv|so adj|cool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*CHI:	they went back home and told their mom and dad .
+%mor:	pro:sub|they v|go&PAST adv|back adv|home coord|and v|tell&PAST
+	det:poss|their n|mom coord|and n|dad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|9|COORD 11|2|PUNCT
+*CHI:	is that the end ?
+%mor:	cop|be&3S comp|that det:art|the n|end ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+*INV:	can you think of anything else to put in your story ?
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything post|else
+	inf|to v|put&ZERO prep|in det:poss|your n|story ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|PQ 7|8|INF 8|3|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	<and they did> [/?] so they went home <and &~l &~sh> [/?] and
+	showed their mom and dad for theirself [: themselves] [* m] [*] .
+%mor:	co|so pro:sub|they v|go&PAST adv|home coord|and v|show-PAST
+	det:poss|their n|mom coord|and n|dad prep|for pro:refl|themselves .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|9|COORD 11|10|NJCT 12|11|POBJ 13|3|PUNCT
+*CHI:	is that the end ?
+%mor:	cop|be&3S comp|that det:art|the n|end ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+*INV:	are you finished ?
+%mor:	cop|be&PRES pro:per|you v|finish-PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

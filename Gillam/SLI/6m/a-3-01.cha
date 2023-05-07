@@ -1,0 +1,131 @@
+@UTF8
+@PID:	11312/c-00033750-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;00.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	02-JUN-2004
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 5/26/1998
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	what happened to the boy and the girl in the story ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl prep|in det:art|the n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	&-uh I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	try to remember what I told you .
+%mor:	v|try inf|to v|remember pro:int|what pro:sub|I v|tell&PAST
+	pro:per|you .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|1|PUNCT
+*INV:	can you remember anything that happened to the boy and the girl in
+	the story ?
+%mor:	mod|can pro:per|you v|remember pro:indef|anything pro:rel|that
+	v|happen-PAST prep|to det:art|the n|boy coord|and det:art|the n|girl
+	prep|in det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|LINK 6|4|CMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|12|DET 12|10|COORD 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	LateForSchool
+*CHI:	&-uh I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	well how does this story start ?
+%mor:	co|well pro:int|how mod|do&3S det:dem|this n|story n|start ?
+%gra:	1|6|COM 2|6|JCT 3|6|AUX 4|6|DET 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*CHI:	&-uh I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	look carefully at the pictures .
+%mor:	co|look adj|care&dn-FUL-LY prep|at det:art|the n|picture-PL .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	how does this story start ?
+%mor:	pro:int|how mod|do&3S det:dem|this n|story n|start ?
+%gra:	1|5|JCT 2|5|AUX 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	<uh &-uh &-uh uh> [/?] I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	you don't know .
+%mor:	pro:per|you mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	&~c you can't tell me the story that goes with the pictures ?
+%mor:	pro:per|you mod|can~neg|not v|tell pro:obj|me det:art|the n|story
+	pro:rel|that v|go-3S prep|with det:art|the n|picture-PL ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*CHI:	I don't just know the story of the +/.
+%mor:	pro:sub|I mod|do~neg|not adv|just v|know det:art|the n|story
+	prep|of det:art|the +/.
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|PUNCT
+*INV:	well you can make it up .
+%mor:	co|well pro:per|you mod|can v|make pro:per|it adv|up .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*INV:	it's one that you're gonna make up .
+%mor:	pro:per|it~cop|be&3S pro:indef|one pro:rel|that
+	pro:per|you~aux|be&PRES part|go&PRESP~inf|to v|make adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD 8|9|INF
+	9|7|COMP 10|9|JCT 11|2|PUNCT
+*CHI:	I don't know what [/] what .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	you don't know what to make up ?
+%mor:	pro:per|you mod|do~neg|not v|know pro:int|what inf|to v|make adv|up
+	?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|INF 7|4|COMP 8|7|JCT
+	9|4|PUNCT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@G:	Aliens
+*CHI:	the [/] the girl was going .
+%mor:	det:art|the n|girl aux|be&PAST&13S part|go-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	and uh uh +...
+%mor:	coord|and n|uh n|uh +...
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	I can't do this .
+%mor:	pro:sub|I mod|can~neg|not v|do det:dem|this .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	well how does this story start ?
+%mor:	co|well pro:int|how mod|do&3S det:dem|this n|story n|start ?
+%gra:	1|6|COM 2|6|JCT 3|6|AUX 4|6|DET 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	can you say anything about that picture the story to make a story ?
+%mor:	mod|can pro:per|you v|say pro:indef|anything prep|about
+	det:dem|that n|picture det:art|the n|story inf|to v|make det:art|a
+	n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|3|OBJ 10|11|INF 11|9|XMOD 12|13|DET 13|11|OBJ 14|3|PUNCT
+*CHI:	no because I almost know how to read .
+%mor:	co|no conj|because pro:sub|I adv|almost v|know pro:int|how inf|to
+	v|read&ZERO .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|8|LINK 7|8|INF 8|5|COMP
+	9|5|PUNCT
+*CHI:	and I don't .
+%mor:	coord|and pro:sub|I mod|do~neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*INV:	you almost know how to read .
+%mor:	pro:per|you adv|almost v|know pro:int|how inf|to v|read&ZERO .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|INF 6|3|COMP 7|3|PUNCT
+*INV:	but you don't know yet ?
+%mor:	conj|but pro:per|you mod|do~neg|not v|know adv:tem|yet ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

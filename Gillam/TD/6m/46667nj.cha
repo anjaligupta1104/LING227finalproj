@@ -1,0 +1,145 @@
+@UTF8
+@PID:	11312/c-00034090-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;11.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	26-APR-2002
+@Transcriber:	Maitreyi Viswanathan
+@Comment:	DOB = 5/21/1995
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	they went to Mcdonalds .
+%mor:	pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	&-um (8.) the children's mom asked them where do you wanna go
+	tonight .
+%mor:	det:art|the adj|child&PL&dn-POSS n|mom v|ask-PAST pro:obj|them
+	pro:int|where mod|do pro:per|you v|want~inf|to v|go adv:tem|tonight
+	.
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|9|JCT 7|9|AUX 8|9|SUBJ
+	9|4|COMP 10|11|INF 11|9|COMP 12|11|JCT 13|4|PUNCT
+*CHI:	and they both shouted Mcdonalds .
+%mor:	coord|and pro:sub|they qn|both v|shout-PAST n:prop|Mcdonalds .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|QUANT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	so they went to the nearest Mcdonalds .
+%mor:	co|so pro:sub|they v|go&PAST prep|to det:art|the prep|nearest
+	n:prop|Mcdonalds .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|POBJ 8|3|PUNCT
+*CHI:	when they walked into the store (5.) the mother and the daughter
+	knew what they wanted .
+%mor:	conj|when pro:sub|they v|walk-PAST prep|into det:art|the n|store
+	det:art|the n|mother coord|and det:art|the n|daughter v|know&PAST
+	pro:int|what pro:sub|they v|want-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|12|CJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|12|SUBJ
+	9|8|CONJ 10|11|DET 11|9|COORD 12|0|ROOT 13|15|LINK 14|15|SUBJ 15|12|COMP
+	16|12|PUNCT
+*CHI:	but (3.) the boy couldn't make up his mind .
+%mor:	conj|but det:art|the n|boy mod|could~neg|not v|make adv|up
+	det:poss|his n|mind .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*CHI:	<umm> [/?] and the girl (3.) wanted a cheeseburger &*INV:mhm and a
+	chocolate cone &*INV:mhm .
+%mor:	coord|and det:art|the n|girl v|want-PAST det:art|a
+	n|+n|cheese+n|burger coord|and det:art|a n|chocolate n|cone .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|10|DET
+	9|10|MOD 10|7|COORD 11|4|PUNCT
+*CHI:	and the boy wanted a milkshake and a chocolate cone .
+%mor:	coord|and det:art|the n|boy part|want-PASTP det:art|a
+	n|+n|milk+n|shake coord|and det:art|a n|chocolate n|cone .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|XMOD 5|6|DET 6|4|OBJ 7|3|CONJ
+	8|10|DET 9|10|MOD 10|7|COORD 11|1|PUNCT
+*CHI:	and the guy in the story said that'll be sixty cents and fifty
+	dollars .
+%mor:	coord|and det:art|the n|guy prep|in det:art|the n|story v|say&PAST
+	comp|that~mod|will aux|be det:num|sixty n|cent-PL coord|and
+	det:num|fifty n|dollar-PL .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|PUNCT
+	9|12|AUX 10|12|AUX 11|12|QUANT 12|8|INCROOT 13|12|CONJ 14|15|QUANT
+	15|13|COORD 16|12|PUNCT
+*CHI:	<but the mother said> [/?] the mother &-um opened her bag and it
+	wasn't there .
+%mor:	det:art|the n|mother v|open-PAST det:poss|her n|bag coord|and
+	pro:per|it cop|be&PAST&13S~neg|not n|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|NEG 10|8|PRED 11|3|PUNCT
+*CHI:	and she forgot that she left all her money <at the> [/] at the
+	table counter [*] .
+%mor:	coord|and pro:sub|she v|forget&PAST comp|that pro:sub|she
+	v|leave&PAST qn|all det:poss|her n|money prep|at det:art|the n|table
+	n|counter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|9|QUANT 8|9|DET
+	9|6|OBJ 10|6|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|3|PUNCT
+@G:	LateForSchool
+*CHI:	the boy named Todd bumped his head when [/] when he wake up [*] .
+%mor:	det:art|the n|boy part|name-PASTP n:prop|Todd v|bump-PAST
+	det:poss|his n|head conj|when pro:sub|he v|wake adv|up .
+%gra:	1|2|DET 2|5|SUBJ 3|5|XJCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|10|JCT 12|5|PUNCT
+*CHI:	he looked at the clock while he was pouring his milk .
+%mor:	pro:sub|he v|look-PAST prep|at det:art|the n|clock conj|while
+	pro:sub|he aux|be&PAST&13S part|pour-PRESP det:poss|his n|milk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|2|CJCT 10|11|DET 11|9|OBJ 12|2|PUNCT
+*CHI:	he broke his shoelace .
+%mor:	pro:sub|he v|break&PAST det:poss|his n|+n|shoe+n|lace .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	he missed the bus .
+%mor:	pro:sub|he v|miss-PAST det:art|the n|bus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	he said to the teacher I'm late .
+%mor:	pro:sub|he v|say&PAST prep|to det:art|the n|teach&dv-AGT
+	pro:sub|I~cop|be&1S adv|late .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|2|CJCT 8|7|JCT
+	9|2|PUNCT
+@Comment:	ERROR: Can't find matching closing overlap for line: <mhm>
+	[>]
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Aliens
+*CHI:	Casey saw these (5.) ants .
+%mor:	n:prop|Casey v|see&PAST det:dem|these n|ant-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and they had eight legs .
+%mor:	coord|and pro:sub|they v|have&PAST det:num|eight n|leg-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	and they came out_of this weird rocketship .
+%mor:	coord|and pro:sub|they v|come&PAST prep|out_of det:dem|this
+	adj|weird n|+n|rocket+n|ship .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*CHI:	they had a <a> [/?] doggy named puffy .
+%mor:	pro:sub|they v|have&PAST det:art|a adj|dog&dn-Y part|name-PASTP
+	adj|puff&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*CHI:	<and a mother was> [/?] and the mother was a daughter .
+%mor:	coord|and det:art|the n|mother cop|be&PAST&13S det:art|a n|daughter
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*CHI:	and the father was a daughter .
+%mor:	coord|and det:art|the n|father cop|be&PAST&13S det:art|a n|daughter
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*CHI:	but Michael said <don't don't> [/?] don't go over there there are
+	scary things .
+%mor:	conj|but n:prop|Michael v|say&PAST mod|do~neg|not v|go prep|over
+	n|there adv|there cop|be&PRES adj|scare&dn-Y n|thing-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|AUX 5|4|NEG 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|6|JCT 10|6|COMP 11|12|MOD 12|10|PRED 13|3|PUNCT
+*CHI:	but Casey said they look friendly very friendly [*] .
+%mor:	conj|but n:prop|Casey v|say&PAST pro:sub|they v|look
+	adj|friend&dn-LY adv|very adj|friend&dn-LY .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|JCT 8|5|JCT
+	9|3|PUNCT
+*CHI:	but the dog looks a little weird .
+%mor:	conj|but det:art|the n|dog v|look-3S det:art|a adj|little adj|weird
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*CHI:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,131 @@
+@UTF8
+@PID:	11312/c-00033746-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;10.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	06-JUN-2003
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 8/1/1996
+@Comment:	Ethnicity = Hispanic American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	Lisa and her mother and hers [: her] brother Rocky .
+%mor:	n:prop|Lisa coord|and det:poss|her n|mother coord|and det:poss|her
+	n|brother n:prop|Rocky .
+%gra:	1|8|SUBJ 2|1|CONJ 3|4|DET 4|2|COORD 5|1|CONJ 6|7|DET 7|5|COORD 8|0|ROOT
+	9|8|PUNCT
+*CHI:	and Lisa and Rocky says Mcdonalds .
+%mor:	coord|and n:prop|Lisa coord|and n:prop|Rocky v|say-3S
+	n:prop|Mcdonalds .
+%gra:	1|5|LINK 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and they hop on the car .
+%mor:	coord|and pro:sub|they v|hop prep|on det:art|the n|car .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	then they went to Mcdonalds .
+%mor:	adv:tem|then pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and rocky order [* m:0ed] 0a banana split and 0a cheeseburger .
+%mor:	coord|and adj|rock&dn-Y n|order 0det:art|a n|banana v|split&ZERO
+	coord|and 0det:art|a n|+n|cheese+n|burger .
+%gra:	1|6|LINK 2|3|MOD 3|6|SUBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|CONJ 8|9|DET
+	9|7|COORD 10|6|PUNCT
+*CHI:	and the mothers <want> [/?] order [* m:0ed] salad .
+%mor:	coord|and det:art|the n|mother-PL n|order n|salad .
+%gra:	1|5|LINK 2|5|DET 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	and Lisa ordered 0a happy meal a coke and [/] and a chocolate
+	<icecone> [/?] icecream .
+%mor:	coord|and n:prop|Lisa v|order-PAST 0det:art|a adj|happy n|meal
+	det:art|a n|coke coord|and det:art|a n|chocolate n|+n|ice+n|cream .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|12|DET 11|12|MOD 12|9|COORD 13|3|PUNCT
+*CHI:	and the guy <says oh yeah> [/?] he said <twenty &~f> [/?] twenty
+	five dollars and fifty cents .
+%mor:	coord|and det:art|the n|guy pro:sub|he v|say&PAST det:num|twenty
+	det:num|five n|dollar-PL coord|and det:num|fifty n|cent-PL .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|5|SUBJ 5|3|CMOD 6|8|QUANT 7|8|QUANT
+	8|5|OBJ 9|8|CONJ 10|11|QUANT 11|9|COORD 12|3|PUNCT
+*CHI:	<and and> [/?] and the mother put it up get her purse opened it .
+%mor:	coord|and det:art|the n|mother v|put&ZERO pro:per|it prep|up v|get
+	det:poss|her n|purse v|open-PAST pro:per|it .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|9|DET
+	9|10|SUBJ 10|4|COMP 11|10|OBJ 12|4|PUNCT
+*CHI:	and it wasn't there .
+%mor:	coord|and pro:per|it cop|be&PAST&13S~neg|not n|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*CHI:	she [/] she notice [* m:a:0ed] that she left her on the counter <in
+	in &~ho> [/?] at home .
+%mor:	pro:sub|she v|notice comp|that pro:sub|she adj|left pro:obj|her
+	prep|on det:art|the n|counter prep|at n|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|MOD 6|2|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|2|PUNCT
+@G:	LateForSchool
+*CHI:	one day there's a boy Stark were [/] were late for school .
+%mor:	det:num|one n|day pro:exist|there~cop|be&3S det:art|a n|boy
+	n:prop|Stark cop|be&PAST adv|late prep|for n|school .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|8|SUBJ 8|6|CMOD
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|4|PUNCT
+*CHI:	he drinks some milk .
+%mor:	pro:sub|he v|drink-3S qn|some n|milk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	he eat(s) some cereal .
+%mor:	pro:sub|he v|eat-3S qn|some n|cereal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	he +...
+%mor:	pro:sub|he +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and his shoe tied off .
+%mor:	coord|and det:poss|his n|shoe v|tie-PAST adv|off .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	then he +...
+%mor:	adv:tem|then pro:sub|he +...
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	and the school bus left .
+%mor:	coord|and det:art|the n|school n|bus v|leave&PAST .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	and his teacher gives him time out to being late .
+%mor:	coord|and det:poss|his n|teach&dv-AGT v|give-3S pro:obj|him v|time
+	adv|out prep|to n|being adv|late .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|6|JCT 11|4|PUNCT
+@G:	Aliens
+*CHI:	once upon a time there was aliens landing for earth .
+%mor:	adv:tem|once prep|upon det:art|a n|time adv|there cop|be&PAST&13S
+	n|alien-PL part|land-PRESP prep|for n|earth .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|7|XMOD
+	9|8|JCT 10|9|POBJ 11|6|PUNCT
+*CHI:	and there were owls .
+%mor:	coord|and pro:exist|there cop|be&PAST n|owl-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and <two boys I mean> [/?] one boy 0and one girl looked at them .
+%mor:	coord|and det:num|one n|boy 0coord|and det:num|one n|girl
+	v|look-PAST prep|at pro:obj|them .
+%gra:	1|7|LINK 2|3|QUANT 3|7|JCT 4|3|CONJ 5|4|COORD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*CHI:	and the girl wanna see what they +...
+%mor:	coord|and det:art|the n|girl v|want~inf|to co|see pro:int|what
+	pro:sub|they +...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|8|COM 7|8|DET 8|4|OM
+	9|4|PUNCT
+*CHI:	they wanna touch them .
+%mor:	pro:sub|they v|want~inf|to v|touch pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*CHI:	and [/] and they went home to <&~m> [/?] their parent [* m:0s] .
+%mor:	coord|and pro:sub|they v|go&PAST adv|home prep|to det:poss|their
+	n|parent .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and the ship was gone .
+%mor:	coord|and det:art|the n|ship aux|be&PAST&13S part|go&PASTP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	<then then> [/?] then it <was> [/?] all was a dream the father told
+	them .
+%mor:	adv:tem|then pro:per|it adv|all cop|be&PAST&13S det:art|a n|dream
+	det:art|the n|father v|tell&PAST pro:obj|them .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|PRED 7|8|DET 8|9|SUBJ
+	9|6|CMOD 10|9|OBJ 11|4|PUNCT
+*CHI:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

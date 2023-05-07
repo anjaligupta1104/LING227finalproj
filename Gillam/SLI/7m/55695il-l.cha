@@ -1,0 +1,115 @@
+@UTF8
+@PID:	11312/c-00033780-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;10.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	19-NOV-2002
+@Transcriber:	Zach Rogers
+@Comment:	DOB = 1/6/1995
+@Comment:	Ethnicity = Other
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Lisa and [% (0:3.)] <I don't know> [/?] Raymond .
+%mor:	n:prop|Lisa coord|and n:prop|Raymond .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*INV:	<Raymond> [>] .
+%mor:	n:prop|Raymond .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	when her mom said they're going out to eat pick something .
+%mor:	conj|when det:poss|her n|mom v|say&PAST pro:sub|they~aux|be&PRES
+	part|go-PRESP adv|out inf|to v|eat v|pick pro:indef|something .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|7|CJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|INF 10|7|XJCT 11|10|COMP 12|11|OBJ 13|7|PUNCT
+*CHI:	Mcdonalds they shouted out .
+%mor:	n:prop|Mcdonalds pro:sub|they v|shout-PAST adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	so they jumped in the car .
+%mor:	co|so pro:sub|they v|jump-PAST prep|in det:art|the n|car .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and their brother ordered <a &~s uh> [/?] a hamburger a fry and a
+	strawberry <&~s> [/?] milkshake .
+%mor:	coord|and det:poss|their n|brother v|order-PAST det:art|a
+	n|hamburger det:art|a n|fry coord|and det:art|a n|+n|straw+n|berry
+	n|+n|milk+n|shake .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|12|DET 11|12|MOD 12|9|COORD 13|4|PUNCT
+*CHI:	<and the> [/] and the sister wanted <a small bigkid I mean> [/?] a
+	hamburger a fry and <a &~co> [/?] a chocolate cone .
+%mor:	coord|and det:art|the n|sister v|want-PAST det:art|a n|hamburger
+	det:art|a n|fry coord|and det:art|a n|chocolate n|cone .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|12|DET 11|12|MOD 12|9|COORD 13|4|PUNCT
+*CHI:	and they didn't have enough money for it .
+%mor:	coord|and pro:sub|they mod|do&PAST~neg|not v|have qn|enough n|money
+	prep|for pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|5|PUNCT
+@G:	LateForSchool
+*CHI:	he got up from bed .
+%mor:	pro:sub|he v|get&PAST adv|up prep|from n|bed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	he was pouring milk .
+%mor:	pro:sub|he aux|be&PAST&13S part|pour-PRESP n|milk .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	his shoelace snapped .
+%mor:	det:poss|his n|+n|shoe+n|lace v|snap-PAST .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	he missed the bus .
+%mor:	pro:sub|he v|miss-PAST det:art|the n|bus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and he wasn't on time [% (0:3.)] on school .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S~neg|not adv|on n|time prep|on
+	n|school .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|JCT 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+@Comment:	ERROR: Can't find matching closing overlap for line:
+	<raymond> [>]
+*INV:	mhm okay .
+%mor:	co|mhm=yes co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@G:	Aliens
+*CHI:	<well when the> [/?] when the aliens dropped they had a dog a
+	daughter a dad .
+%mor:	conj|when det:art|the n|alien-PL v|drop-PAST pro:sub|they
+	v|have&PAST det:art|a n|dog det:art|a n|daughter det:art|a n|dad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|10|DET 10|8|APP 11|12|DET 12|10|OBJ 13|6|PUNCT
+*CHI:	and the girl and her friend xxx .
+%mor:	coord|and det:art|the n|girl coord|and det:poss|her n|friend .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*CHI:	and the girl wanted a see them .
+%mor:	coord|and det:art|the n|girl v|want-PAST det:art|a v|see
+	pro:obj|them .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*CHI:	but he grabbed on to them .
+%mor:	conj|but pro:sub|he v|grab-PAST adv|on prep|to pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	and he was like ahhh@c .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S prep|like chi|ahhh .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and that's all .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	can you think of anything else to put in your story ?
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything post|else
+	inf|to v|put&ZERO prep|in det:poss|your n|story ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|PQ 7|8|INF 8|3|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	and the driver was right there .
+%mor:	coord|and det:art|the n|drive&dv-AGT cop|be&PAST&13S adv|right
+	n|there .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*CHI:	and they got this chinese symbol .
+%mor:	coord|and pro:sub|they v|get&PAST det:dem|this adj|chinese n|symbol
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+@End

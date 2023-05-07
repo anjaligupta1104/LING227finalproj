@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/c-00034062-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;02.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Transcriber:	SB
+@Comment:	Ethnicity = European American
+@Comment:	DOB = 2/01/1996
+@Comment:	DOE( =4)/12/2002
+@Comment:	Examiner = LJ
+@Comment:	Grade K
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	<her mom I mean> [/?] their mom said where do you wanna go to eat .
+%mor:	det:poss|their n|mom v|say&PAST pro:int|where mod|do pro:per|you
+	v|want~inf|to v|go inf|to v|eat .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|JCT 5|7|AUX 6|7|SUBJ 7|3|COMP 8|9|INF
+	9|7|COMP 10|11|INF 11|9|COMP 12|3|PUNCT
+*CHI:	they [/] they all shouted Mcdonalds .
+%mor:	pro:sub|they post|all v|shout-PAST n:prop|Mcdonalds .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	so they went to Mcdonalds .
+%mor:	co|so pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<and &-uh uh> [/?] and &-um Lisa got &-um a <um icecream cone um>
+	[/?] vanilla icecream cone and a happy meal .
+%mor:	coord|and n:prop|Lisa v|get&PAST det:art|a n|vanilla
+	n|+n|ice+n|cream n|cone coord|and det:art|a adj|happy n|meal .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|7|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|3|PUNCT
+*CHI:	her brother got a <uh &-um um> [/?] icecream .
+%mor:	det:poss|her n|brother v|get&PAST det:art|a n|+n|ice+n|cream .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and their mom got a salad .
+%mor:	coord|and det:poss|their n|mom v|get&PAST det:art|a n|salad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	<and it> [/?] and that would cost fifty &-um cents .
+%mor:	coord|and pro:dem|that mod|will&COND v|cost&ZERO det:num|fifty
+	n|cent-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*CHI:	and when her mom looked in her &-um purse it wasn't there .
+%mor:	coord|and conj|when det:poss|her n|mom v|look-PAST prep|in
+	det:poss|her n|purse pro:per|it cop|be&PAST&13S~neg|not n|there .
+%gra:	1|10|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|10|CJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|0|ROOT 11|10|NEG 12|10|PRED 13|10|PUNCT
+@G:	LateForSchool
+*CHI:	&-um he woke up .
+%mor:	pro:sub|he v|wake&PAST adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	<he um> [/?] he poured his milk into the bowl .
+%mor:	pro:sub|he v|pour-PAST det:poss|his n|milk prep|into det:art|the
+	n|bowl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	and then when he went to tie his shoe <it> [/?] his string broke .
+%mor:	coord|and adv:tem|then conj|when pro:sub|he v|go&PAST inf|to v|tie
+	det:poss|his n|shoe det:poss|his n|string adj|broke .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|INF 7|5|COMP
+	8|9|DET 9|7|OBJ 10|11|DET 11|9|OBJ 12|11|POSTMOD 13|1|PUNCT
+*CHI:	and then <he missed the bus> [/] he missed the bus .
+%mor:	coord|and adv:tem|then pro:sub|he v|miss-PAST det:art|the n|bus .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and then his mom took him to school .
+%mor:	coord|and adv:tem|then det:poss|his n|mom v|take&PAST pro:obj|him
+	prep|to n|school .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+@G:	Aliens
+*CHI:	there was a boy and a girl that saw an alien ship landing on the
+	ground .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|boy coord|and det:art|a
+	n|girl pro:rel|that v|see&PAST det:art|a n|alien n|ship
+	part|land-PRESP prep|on det:art|the n|ground .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|CONJ 6|7|DET 7|5|COORD 8|9|LINK
+	9|4|CMOD 10|12|DET 11|12|MOD 12|9|OBJ 13|12|XMOD 14|13|JCT 15|16|DET
+	16|14|POBJ 17|2|PUNCT
+*CHI:	and aliens came out_of the ship .
+%mor:	coord|and n|alien-PL v|come&PAST prep|out_of det:art|the n|ship .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	can you think of anything else to put in your story ?
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything post|else
+	inf|to v|put&ZERO prep|in det:poss|your n|story ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|PQ 7|8|INF 8|3|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	the aliens are going to a picnic .
+%mor:	det:art|the n|alien-PL aux|be&PRES part|go-PRESP prep|to det:art|a
+	n|picnic .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+@End

@@ -1,0 +1,290 @@
+@UTF8
+@PID:	11312/c-00033832-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|8;10.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	02-JUN-2004
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 8/6/1995
+@Comment:	Ethnicity = Other
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	<um &-um on &~s on thursday um> [/?] &=sighs &~mm [/?] on thursday
+	+...
+%mor:	adv|on adv:tem|thursday +...
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*INV:	what happened to the boy and the girl in the story ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl prep|in det:art|the n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*INV:	tell me about what happened to the boy and the girl in the story .
+%mor:	v|tell pro:obj|me prep|about pro:int|what v|happen-PAST prep|to
+	det:art|the n|boy coord|and det:art|the n|girl prep|in det:art|the
+	n|story .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|JCT 4|5|SUBJ 5|1|CJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|11|DET 11|9|COORD 12|11|NJCT 13|14|DET 14|12|POBJ 15|1|PUNCT
+*CHI:	that they were gonna eat [/] eat somewhere .
+%mor:	comp|that pro:sub|they aux|be&PAST part|go&PRESP~inf|to v|eat
+	adv|somewhere .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*INV:	and what next ?
+%mor:	coord|and pro:int|what adj|next ?
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	&-um that they were gonna eat somewhere .
+%mor:	comp|that pro:sub|they aux|be&PAST part|go&PRESP~inf|to v|eat
+	adv|somewhere .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	and that &-um mom came home .
+%mor:	coord|and comp|that n|mom v|come&PAST adv|home .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	<and> [/?] she said where do yall wanna go ?
+%mor:	pro:sub|she v|say&PAST pro:int|where mod|do pro:per|you
+	v|want~inf|to v|go ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|JCT 4|6|AUX 5|6|SUBJ 6|2|COMP 7|8|INF 8|6|COMP
+	9|2|PUNCT
+*CHI:	<and> [/?] then they said Mcdonalds .
+%mor:	adv:tem|then pro:sub|they v|say&PAST n:prop|Mcdonalds .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	<and um> [/?] so they went there .
+%mor:	co|so pro:sub|they v|go&PAST adv|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	<and &-um they &~or> [/?] they ordered food .
+%mor:	pro:sub|they v|order-PAST n|food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	but his &-um mom couldn't decide if <he> [/?] she wanted a Big_Mac
+	or a kidsmeal or a <&~ha> [/?] happy meal .
+%mor:	conj|but det:poss|his n|mom mod|could~neg|not v|decide comp|if
+	pro:sub|she v|want-PAST det:art|a n:prop|Big_Mac coord|or det:art|a
+	n|+n|kids+n|meal coord|or det:art|a adj|happy n|meal .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|11|DET 11|9|OBJ 12|11|CONJ 13|14|DET 14|12|COORD 15|11|CONJ
+	16|18|DET 17|18|MOD 18|15|COORD 19|6|PUNCT
+*CHI:	<and and then um> [/?] and that &-um he +...
+%mor:	coord|and comp|that pro:sub|he +...
+%gra:	1|3|LINK 2|3|LINK 3|0|INCROOT 4|3|PUNCT
+*CHI:	actually <and and and the> [/?] and Lisa <&~s um> [/?] said that
+	she wanted a &-um kidsmeal <and a milkshake> [/] and a milkshake .
+%mor:	adv|actual&dadj-LY coord|and n:prop|Lisa v|say&PAST comp|that
+	pro:sub|she v|want-PAST det:art|a n|+n|kids+n|meal coord|and
+	det:art|a n|+n|milk+n|shake .
+%gra:	1|4|JCT 2|1|CONJ 3|2|COORD 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|DET
+	9|7|OBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|4|PUNCT
+*CHI:	and that mom finally decided that <she &~w> [/?] she wanted the
+	happy meal .
+%mor:	coord|and comp|that n|mom adv|final&dadj-LY v|decide-PAST comp|that
+	pro:sub|she v|want-PAST det:art|the adj|happy n|meal .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|11|DET 10|11|MOD 11|8|OBJ 12|5|PUNCT
+*CHI:	<and and john &-um and um> [/?] john ordered a &-um kidsmeal with
+	<a &-um wait um> [/?] a vanilla icecream .
+%mor:	n|john v|order-PAST det:art|a n|+n|kids+n|meal prep|with det:art|a
+	n|vanilla n|+n|ice+n|cream .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*CHI:	<then and then the &~dau and> [/?] then the clerk said <that> [/?]
+	that that would be twelve dollars and fifty cents .
+%mor:	adv:tem|then det:art|the n|clerk v|say&PAST comp|that pro:dem|that
+	mod|will&COND cop|be det:num|twelve n|dollar-PL coord|and
+	det:num|fifty n|cent-PL .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|10|QUANT 10|8|PRED 11|10|CONJ 12|13|QUANT 13|11|COORD 14|4|PUNCT
+*CHI:	<and> [/?] then &-um their mom said <that um> [/?] oops I forgot my
+	purse <and um> [/?] at home .
+%mor:	adv:tem|then det:poss|their n|mom v|say&PAST co|oops pro:sub|I
+	v|forget&PAST det:poss|my n|purse prep|at n|home .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|COM 6|7|SUBJ 7|4|COMP 8|9|DET
+	9|7|OBJ 10|7|JCT 11|10|POBJ 12|4|PUNCT
+*CHI:	<and &-um so_that &-um &~sh> [/?] so_that &-um she would needta go
+	back and go get her purse <from &~ho> [/?] from home .
+%mor:	conj|so_that pro:sub|she mod|will&COND v|need~inf|to v|go adv|back
+	coord|and v|go v|get det:poss|her n|purse prep|from n|home .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|10|LINK
+	9|10|SRL 10|4|CJCT 11|12|DET 12|10|OBJ 13|12|NJCT 14|13|POBJ 15|4|PUNCT
+@G:	LateForSchool
+*CHI:	one day Nicholas <um uh> [/?] slept in too late .
+%mor:	det:num|one n|day n:prop|Nicholas v|sleep&PAST prep|in adv|too
+	adj|late .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|JCT 7|5|POBJ 8|4|PUNCT
+*CHI:	<and um> [/?] and he looked at the time .
+%mor:	coord|and pro:sub|he v|look-PAST prep|at det:art|the n|time .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	he said whoa .
+%mor:	pro:sub|he v|say&PAST co|whoa .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	<um I'm> [/?] I'm late for school .
+%mor:	pro:sub|I~cop|be&1S adv|late prep|for n|school .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	and he jumped out_of bed and [/] and rushed to put on his clothes .
+%mor:	coord|and pro:sub|he v|jump-PAST prep|out_of n|bed coord|and
+	v|rush-PAST inf|to v|put&ZERO prep|on det:poss|his n:pt|clothes .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD 8|9|INF
+	9|7|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*CHI:	actually no <um and> [/?] and jumped out_of bed <and> [/?] to go
+	eat <breakfast um> [/?] breakfast .
+%mor:	adv|actual&dadj-LY co|no coord|and v|jump-PAST prep|out_of n|bed
+	inf|to v|go v|eat n|+v|break+n|fast .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|JCT 6|5|POBJ 7|8|INF
+	8|2|XJCT 9|8|COMP 10|9|OBJ 11|2|PUNCT
+*CHI:	oh no <&~I I poured um> [/?] I poured the milk <too um> [/?] too
+	much .
+%mor:	co|oh co|no pro:sub|I v|pour-PAST det:art|the n|milk adv|too
+	adv|much .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|JCT 8|4|JCT
+	9|4|PUNCT
+*CHI:	and [/] and then &-um Nicholas looked at the time .
+%mor:	coord|and adv:tem|then n:prop|Nicholas v|look-PAST prep|at
+	det:art|the n|time .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	oh no !
+%mor:	co|oh co|no !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	<and> [/?] then &-uh he ate as fast as he could .
+%mor:	adv:tem|then pro:sub|he v|eat&PAST adv|as adv|fast prep|as
+	pro:sub|he mod|could .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|COORD 5|3|JCT 6|8|COORD 7|8|SUBJ 8|5|ENUM
+	9|3|PUNCT
+*CHI:	<and> [/?] then he dressed [/] dressed .
+%mor:	adv:tem|then pro:sub|he v|dress-PAST .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	<and> [/?] then <he's> [/?] he was too busy tying his shoe <and
+	&~th um> [/?] too hard .
+%mor:	adv:tem|then pro:sub|he cop|be&PAST&13S adv|too adj|busy
+	part|tie-PRESP det:poss|his n|shoe adv|too adv|hard .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|XJCT 7|8|DET 8|6|OBJ
+	9|10|JCT 10|6|JCT 11|3|PUNCT
+*CHI:	<and> [/?] the shoelace broke in half .
+%mor:	det:art|the n|+n|shoe+n|lace v|break&PAST prep|in n|half .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<and> [/?] then when he just <&~f &-uh forgot> [/?] forgot about
+	the time he was so worried about his shoelace &-um the school bus
+	<um &~pa> [/?] passed him up .
+%mor:	adv:tem|then conj|when pro:sub|he adv|just v|forget&PAST prep|about
+	det:art|the n|time pro:sub|he aux|be&PAST&13S adv|so
+	part|worry-PASTP prep|about det:poss|his n|+n|shoe+n|lace
+	det:art|the n|school n|bus v|pass-PAST pro:obj|him adv|up .
+%gra:	1|12|JCT 2|5|LINK 3|5|SUBJ 4|5|JCT 5|12|CJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|0|ROOT 13|19|JCT 14|15|DET 15|13|POBJ
+	16|18|DET 17|18|MOD 18|19|SUBJ 19|12|CJCT 20|19|OBJ 21|19|JCT 22|12|PUNCT
+*CHI:	so he was running after the school bus .
+%mor:	co|so pro:sub|he aux|be&PAST&13S part|run-PRESP prep|after
+	det:art|the n|school n|bus .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*CHI:	but the school bus was too fast .
+%mor:	conj|but det:art|the n|school n|bus cop|be&PAST&13S adv|too
+	adv|fast .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*CHI:	so Nicholas was too late for school .
+%mor:	co|so n:prop|Nicholas cop|be&PAST&13S adv|too adv|late prep|for
+	n|school .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	and the teacher said <just just> [/?] just too late .
+%mor:	coord|and det:art|the n|teach&dv-AGT part|say&PASTP adv|just
+	adv|too adv|late .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|4|JCT 6|7|JCT 7|4|JCT 8|3|PUNCT
+@G:	Aliens
+*CHI:	one day <uh Allie and &-um um> [/?] Allie and Vic &-um went down to
+	a park <and &-um and to uh> [/?] to <play and um> [/?] play and eat
+	.
+%mor:	det:num|one n|day n:prop|Allie coord|and n:prop|Vic v|go&PAST
+	adv|down prep|to det:art|a n|park inf|to v|play coord|and v|eat .
+%gra:	1|2|QUANT 2|3|JCT 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|12|INF 12|6|XJCT 13|12|CONJ 14|13|COORD 15|6|PUNCT
+*CHI:	and then &-um we saw this one bright orange thing <and and> [/?] up
+	in the air .
+%mor:	coord|and adv:tem|then pro:sub|we v|see&PAST det:dem|this
+	pro:indef|one adj|bright adj|orange n|thing adv|up prep|in
+	det:art|the n|air .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|MOD 8|9|MOD
+	9|6|CMOD 10|9|NJCT 11|9|NJCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*CHI:	it flew down towards us .
+%mor:	pro:per|it v|fly&PAST adv|down prep|towards pro:obj|us .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	and we saw aliens come down .
+%mor:	coord|and pro:sub|we v|see&PAST n|alien-PL v|come adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+*CHI:	there a was dog pink and vanilla color .
+%mor:	adv|there det:art|a aux|be&PAST&13S v|dog adj|pink coord|and
+	n|vanilla n|color .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|4|PUNCT
+*CHI:	there was a kid .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|kid .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	<um a> [/?] I mean a girl <um um> [/?] and a mom and a dad <and a
+	big> [/?] and a big guy .
+%mor:	pro:sub|I v|mean det:art|a n|girl coord|and det:art|a n|mom
+	coord|and det:art|a n|dad coord|and det:art|a adj|big n|guy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|4|CONJ
+	9|10|DET 10|8|COORD 11|2|CONJ 12|14|DET 13|14|MOD 14|11|COORD 15|2|PUNCT
+*CHI:	&-um and they had more legs than us .
+%mor:	coord|and pro:sub|they v|have&PAST qn|more n|leg-PL prep|than
+	pro:obj|us .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ
+	8|3|PUNCT
+*CHI:	<and> [/?] we saw bags with them that we didn't know what were in
+	there .
+%mor:	pro:sub|we v|see&PAST n|bag-PL prep|with pro:obj|them comp|that
+	pro:sub|we mod|do&PAST~neg|not v|know pro:int|what cop|be&PAST
+	prep|in n|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|2|CJCT 11|12|SUBJ 12|10|COMP 13|12|JCT 14|13|POBJ 15|2|PUNCT
+*CHI:	<um and &-uh &~c and> [/?] then they <&~co> [/?] came down .
+%mor:	adv:tem|then pro:sub|they v|come&PAST adv|down .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	<and and> [/?] they only thing you heard was pshpshpsh@c .
+%mor:	pro:sub|they qn|only n|thing pro:per|you v|hear&PAST
+	cop|be&PAST&13S chi|pshpshpsh .
+%gra:	1|6|SUBJ 2|3|QUANT 3|6|SUBJ 4|5|SUBJ 5|3|CMOD 6|0|ROOT 7|6|PRED
+	8|6|PUNCT
+*CHI:	<and and and then &-um and> [/?] then we [/] we went to go look at
+	them even closer .
+%mor:	adv:tem|then pro:sub|we v|go&PAST inf|to v|go v|look prep|at
+	pro:obj|them adv|even adj|close-CP .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|INF 5|6|SRL 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|10|JCT 10|6|JCT 11|3|PUNCT
+*CHI:	but [/] but Vic said oh no I don't wanna go there .
+%mor:	conj|but n:prop|Vic v|say&PAST co|oh co|no pro:sub|I mod|do~neg|not
+	v|want~inf|to v|go adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|9|COM 5|9|COM 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|3|COMP 10|11|INF 11|9|COMP 12|11|JCT 13|3|PUNCT
+*CHI:	they might be harmful .
+%mor:	pro:sub|they mod|might cop|be adj|harm&dn-FULL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	they might suck us into earth .
+%mor:	pro:sub|they mod|might v|suck pro:obj|us prep|into n|earth .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	<they might> [/] they might &-um +...
+%mor:	pro:sub|they mod|might +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	settle down settle down .
+%mor:	v|settle adv|down v|settle adv|down .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|3|JCT 5|1|PUNCT
+*CHI:	<okay um> [/?] okay &-um it won't be that bad at least to talk to
+	aliens .
+%mor:	co|okay pro:per|it mod|will~neg|not aux|be det:dem|that adj|bad
+	prep|at n|least inf|to v|talk prep|to n|alien-PL .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|PRED 8|7|JCT
+	9|8|POBJ 10|11|INF 11|7|XJCT 12|11|JCT 13|12|POBJ 14|5|PUNCT
+*CHI:	<and then the &~a uh> [/?] and then the alien spotted us .
+%mor:	coord|and adv:tem|then det:art|the n|alien v|spot-PAST pro:obj|us .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	<and> [/?] then &-uh they just smiled .
+%mor:	adv:tem|then pro:sub|they adv|just part|smile-PASTP .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	<and they &~w and uh> [/?] we were surprised that they actually
+	smiled at us .
+%mor:	pro:sub|we aux|be&PAST part|surprise-PASTP comp|that pro:sub|they
+	adv|actual&dadj-LY v|smile-PAST prep|at pro:obj|us .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|JCT 7|3|COMP 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*CHI:	I guess they were taking a vacation here .
+%mor:	pro:sub|I v|guess pro:sub|they aux|be&PAST part|take-PRESP
+	det:art|a n|vacation adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|2|PUNCT
+@End

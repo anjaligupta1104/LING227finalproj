@@ -1,0 +1,158 @@
+@UTF8
+@PID:	11312/c-00033817-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|8;10.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	22-FEB-2002
+@Transcriber:	hh
+@Comment:	Examiner = rr
+@Comment:	Ethnicity = European American
+@Comment:	Grade = 3
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	&-uh the mom &-um said <&~ump what do you want um> [/?] where [/]
+	where do you wanna eat ?
+%mor:	det:art|the n|mom v|say&PAST pro:int|where mod|do pro:per|you
+	v|want~inf|to v|eat ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|JCT 5|7|AUX 6|7|SUBJ 7|3|COMP 8|9|INF
+	9|7|COMP 10|3|PUNCT
+*CHI:	the boy <shout> [/?] said Mcdonalds Mcdonalds .
+%mor:	det:art|the n|boy v|say&PAST n:prop|Mcdonalds n:prop|Mcdonalds .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|NAME 5|3|OBJ 6|3|PUNCT
+*CHI:	and her reach in hers purse .
+%mor:	coord|and det:poss|her n|reach prep|in pro:poss|hers n|purse .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*CHI:	and her didn't have it .
+%mor:	coord|and det:poss|her mod|do&PAST~neg|not v|have pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and it [/] it cost twelve dollar and fifty cents .
+%mor:	coord|and pro:per|it v|cost&ZERO det:num|twelve n|dollar coord|and
+	det:num|fifty n|cent-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|CONJ 7|8|QUANT
+	8|6|COORD 9|3|PUNCT
+*CHI:	and the boy want a xxx xxx and happy meal and a large coke and a
+	chocolate &-um ice cream and <and> [/?] fries .
+%mor:	coord|and det:art|the n|boy v|want det:art|a coord|and adj|happy
+	n|meal coord|and det:art|a adj|large n|coke coord|and det:art|a
+	n|chocolate n|ice n|cream coord|and n|fry-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|5|CONJ 10|12|DET 11|12|MOD 12|9|COORD 13|5|CONJ 14|17|DET 15|17|MOD
+	16|17|MOD 17|13|COORD 18|17|CONJ 19|18|COORD 20|4|PUNCT
+*CHI:	(5.) and the boy <um a &~hap> [//] a happy meal and a chocolate .
+%mor:	coord|and det:art|the n|boy det:art|a adj|happy n|meal coord|and
+	det:art|a n|chocolate .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|6|DET 5|6|MOD 6|3|APP 7|3|CONJ 8|9|DET
+	9|7|COORD 10|1|PUNCT
+*CHI:	and the mom want (12.) let me think never mind .
+%mor:	coord|and det:art|the n|mom v|want v|let&ZERO pro:obj|me v|think
+	adv:tem|never v|mind .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|OBJ 7|5|COMP 8|9|SUBJ
+	9|7|COMP 10|4|PUNCT
+*INV:	do you remember ?
+%mor:	mod|do pro:per|you v|remember ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	the boy want &-um a cheeseburger .
+%mor:	det:art|the n|boy v|want det:art|a n|+n|cheese+n|burger .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@G:	LateForSchool
+*CHI:	&-um that boy &-um wake up .
+%mor:	det:dem|that n|boy v|wake adv|up .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and him holding the alarm clock .
+%mor:	coord|and pro:obj|him part|hold-PRESP det:art|the n|alarm n|clock .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	and him spill &-um milk .
+%mor:	coord|and pro:obj|him v|spill n|milk .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	and hims [: his] [* m] lace broke .
+%mor:	coord|and det:poss|his n|lace adj|broke .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|POSTMOD 5|1|PUNCT
+*CHI:	and the bus drive .
+%mor:	coord|and det:art|the n|bus n|drive .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	and him was late .
+%mor:	coord|and pro:obj|him cop|be&PAST&13S adv|late .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and him <um &~get> [/?] gotta school .
+%mor:	coord|and pro:obj|him mod|got~prep|to n|school .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|COMP 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	and the teacher was mad .
+%mor:	coord|and det:art|the n|teach&dv-AGT cop|be&PAST&13S adj|mad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@G:	Aliens
+*CHI:	&-um that man or that lady grabbed the man's arm .
+%mor:	det:dem|that n|man coord|or pro:dem|that n|lady v|grab-PAST
+	det:art|the adj|man&dn-POSS n|arm .
+%gra:	1|2|DET 2|6|JCT 3|2|CONJ 4|3|COORD 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*CHI:	and that's his +...
+%mor:	coord|and pro:dem|that~cop|be&3S det:poss|his +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and that lady waving goodbye .
+%mor:	coord|and pro:dem|that n|lady part|wave-PRESP co|goodbye .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|4|OBJ 6|3|PUNCT
+*CHI:	and that lady holding &-um hers daughter's hand .
+%mor:	coord|and pro:dem|that n|lady part|hold-PRESP pro:poss|hers
+	adj|daughter&dn-POSS n|hand .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|7|MOD 6|7|MOD 7|4|OBJ 8|3|PUNCT
+*CHI:	and the dad &-um smiled and walking .
+%mor:	coord|and det:art|the n|dad v|smile-PAST coord|and part|walk-PRESP
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+*CHI:	and <the &~th um> [/?] the baby on the child xxx &-um holding the
+	[/] the &-um +...
+%mor:	coord|and det:art|the n|baby prep|on det:art|the n|child
+	part|hold-PRESP det:art|the +...
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|9|DET
+	9|7|PUNCT
+*CHI:	what is that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	the dog, I bet .
+%mor:	det:art|the n|dog cm|cm pro:sub|I n|bet .
+%gra:	1|2|DET 2|0|INCROOT 3|2|LP 4|5|SUBJ 5|2|APP 6|2|PUNCT
+*CHI:	yeah, it is .
+%mor:	co|yeah cm|cm pro:per|it cop|be&3S .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and <and the mom and that lady um> [/?] the child and the mom
+	talking .
+%mor:	coord|and det:art|the n|child coord|and det:art|the n|mom
+	part|talk-PRESP .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|4|COORD 7|6|XMOD
+	8|1|PUNCT
+*CHI:	and that lady laughing .
+%mor:	coord|and pro:dem|that n|lady part|laugh-PRESP .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|XMOD 5|1|PUNCT
+*CHI:	and that man <w w> [/?] worried .
+%mor:	coord|and det:dem|that n|man v|worry-PAST .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	how do you say that ?
+%mor:	pro:int|how mod|do pro:per|you v|say comp|that ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	&-um hum .
+%mor:	n|hum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and them in the bushes .
+%mor:	coord|and pro:obj|them prep|in det:art|the n|bush-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	and that &-um the trees and the table .
+%mor:	coord|and comp|that det:art|the n|tree-PL coord|and det:art|the
+	n|table .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|DET 7|5|COORD
+	8|1|PUNCT
+*CHI:	and that man &-um almost off .
+%mor:	coord|and pro:dem|that v|man adv|almost adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*CHI:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

@@ -1,0 +1,164 @@
+@UTF8
+@PID:	11312/c-00034080-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;09.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	26-FEB-2002
+@Comment:	DOB = 6/6/1995
+@Comment:	Grade = 1
+@Comment:	Examiner = Joan Kaderavek
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*INV:	fourteen can you tell me what happened to the boy and the girl in
+	the story ?
+%mor:	det:num|fourteen mod|can pro:per|you v|tell pro:obj|me pro:int|what
+	v|happen-PAST prep|to det:art|the n|boy coord|and det:art|the n|girl
+	prep|in det:art|the n|story ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|LINK 7|4|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|CONJ 12|13|DET 13|11|COORD 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|4|PUNCT
+*CHI:	that they wanted to go to Mcdonalds .
+%mor:	comp|that pro:sub|they v|want-PAST inf|to v|go prep|to
+	n:prop|Mcdonalds .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	and then <(4.) they ordered> [/?] the girl ordered a chocolate
+	icecream .
+%mor:	coord|and adv:tem|then det:art|the n|girl v|order-PAST det:art|a
+	n|chocolate n|+n|ice+n|cream .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*CHI:	and the boy ordered soda cheeseburger [*] .
+%mor:	coord|and det:art|the n|boy part|order-PASTP n|soda
+	n|+n|cheese+n|burger .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|6|MOD 6|4|OBJ 7|3|PUNCT
+*CHI:	and &-uh the girl ordered pop and <(5.) a> [/?] a hamburger .
+%mor:	coord|and det:art|the n|girl v|order-PAST n|pop coord|and det:art|a
+	n|hamburger .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|4|PUNCT
+*CHI:	six and they're at their house when they wanted to say Mcdonalds .
+%mor:	det:num|six coord|and pro:sub|they~cop|be&PRES prep|at
+	det:poss|their n|house conj|when pro:sub|they v|want-PAST inf|to
+	v|say n:prop|Mcdonalds .
+%gra:	1|4|QUANT 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|10|LINK 9|10|SUBJ 10|4|CJCT 11|12|INF 12|10|COMP 13|12|OBJ 14|4|PUNCT
+*CHI:	and (4.) then (3.) they both screamed Mcdonalds .
+%mor:	coord|and adv:tem|then pro:sub|they qn|both v|scream-PAST
+	n:prop|Mcdonalds .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|QUANT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and they got in their car .
+%mor:	coord|and pro:sub|they v|get&PAST prep|in det:poss|their n|car .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and then they went in to Mcdonalds .
+%mor:	coord|and adv:tem|then pro:sub|they v|go&PAST prep|in inf|to
+	n:prop|Mcdonalds .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|INF 7|5|POBJ 8|4|PUNCT
+*CHI:	three and then (4.) they were good .
+%mor:	det:num|three coord|and adv:tem|then pro:sub|they cop|be&PAST
+	adj|good .
+%gra:	1|5|LINK 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*CHI:	and then their mom forgot her purse .
+%mor:	coord|and adv:tem|then det:poss|their n|mom v|forget&PAST
+	det:poss|her n|purse .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+@G:	LateForSchool
+*CHI:	one day a kid woke up .
+%mor:	det:num|one n|day det:art|a n|kid v|wake&PAST adv|up .
+%gra:	1|2|QUANT 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	he bumped his head on <um his um> [/?] the back of the bed .
+%mor:	pro:sub|he v|bump-PAST det:poss|his n|head prep|on det:art|the
+	n|back prep|of det:art|the n|bed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*CHI:	and then &-um he woke up .
+%mor:	coord|and adv:tem|then pro:sub|he v|wake&PAST adv|up .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	he sprayed toothpaste in his eye .
+%mor:	pro:sub|he v|spray-PAST n|+n|tooth+n|paste prep|in det:poss|his
+	n|eye .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	and then he walked downstairs couldn't find his bookbag .
+%mor:	coord|and adv:tem|then pro:sub|he v|walk-PAST
+	adv|+prep|down+n|stairs mod|could~neg|not v|find det:poss|his
+	n|+n|book+n|bag .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|JCT 6|8|AUX 7|6|NEG 8|4|COMP
+	9|10|DET 10|8|OBJ 11|4|PUNCT
+*CHI:	and then his shoelace broke .
+%mor:	coord|and adv:tem|then det:poss|his n|+n|shoe+n|lace adj|broke .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|1|PUNCT
+*CHI:	and then (5.) he forgot his homework .
+%mor:	coord|and adv:tem|then pro:sub|he v|forget&PAST det:poss|his
+	n|+n|home+n|work .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and then he went to school .
+%mor:	coord|and adv:tem|then pro:sub|he v|go&PAST prep|to n|school .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	he didn't get there on time .
+%mor:	pro:sub|he mod|do&PAST~neg|not v|get adv|there prep|on n|time .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CHI:	and (2.) he got gum on his shoe .
+%mor:	coord|and pro:sub|he v|get&PAST n|gum prep|on det:poss|his n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	two and then (4.) that's it .
+%mor:	det:num|two coord|and adv:tem|then pro:dem|that~cop|be&3S
+	pro:per|it .
+%gra:	1|4|QUANT 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+@G:	Aliens
+*CHI:	there was <a (2.)> [/?] a chinese alien people that came from outer
+	space landed on earth [*] .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adj|chinese n|alien
+	n|person&PL pro:rel|that v|come&PAST prep|from adj|outer n|space
+	v|land-PAST prep|on n|earth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|MOD 5|6|MOD 6|2|PRED 7|8|LINK 8|6|CMOD
+	9|12|JCT 10|11|MOD 11|12|SUBJ 12|8|CJCT 13|12|JCT 14|13|POBJ 15|2|PUNCT
+*CHI:	and then this girl wanted to come and tell them .
+%mor:	coord|and adv:tem|then pro:dem|this n|girl v|want-PAST inf|to
+	v|come coord|and v|tell pro:obj|them .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|CONJ
+	9|8|COORD 10|9|OBJ 11|5|PUNCT
+*CHI:	and then they walked .
+%mor:	coord|and adv:tem|then pro:sub|they v|walk-PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	and then they ate .
+%mor:	coord|and adv:tem|then pro:sub|they v|eat&PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	and then (2.) they (9.) got a house .
+%mor:	coord|and adv:tem|then pro:sub|they v|get&PAST det:art|a n|house .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and then went to school .
+%mor:	coord|and adv:tem|then v|go&PAST prep|to n|school .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and then the girl xxx a nap .
+%mor:	coord|and adv:tem|then det:art|the n|girl det:art|a n|nap .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	why am I so tired now ?
+%mor:	pro:int|why cop|be&1S pro:sub|I adv|so part|tire-PASTP adv:tem|now
+	?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|5|JCT 5|3|XMOD 6|5|JCT 7|2|PUNCT
+*CHI:	six &-um .
+%mor:	det:num|six .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	thirteen they went back in the spaceship .
+%mor:	det:num|thirteen pro:sub|they v|go&PAST adv|back prep|in
+	det:art|the n|+n|space+n|ship .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and then they bought a house .
+%mor:	coord|and adv:tem|then pro:sub|they v|buy&PAST det:art|a n|house .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and then <my her> [/?] her mom xxx .
+%mor:	coord|and adv:tem|then det:poss|her n|mom .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*CHI:	three &-um .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ten that's it .
+%mor:	det:num|ten pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	that's it ?
+%mor:	pro:dem|that~cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

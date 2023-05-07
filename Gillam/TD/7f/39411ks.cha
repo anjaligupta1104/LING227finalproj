@@ -1,0 +1,139 @@
+@UTF8
+@PID:	11312/c-00034119-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;06.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	26-NOV-2002
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 6/6/1995
+@Comment:	Ethnicity = African American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	tuesday .
+%mor:	adv:tem|tuesday .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	ten it's okay .
+%mor:	det:num|ten pro:per|it~cop|be&3S adj|okay .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	can't remember .
+%mor:	mod|can~neg|not v|remember .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*INV:	what happened to the boy and the girl in the story ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl prep|in det:art|the n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*INV:	do you remember ?
+%mor:	mod|do pro:per|you v|remember ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	well you said it was on tuesday .
+%mor:	co|well pro:per|you v|say&PAST pro:per|it cop|be&PAST&13S adv|on
+	adv:tem|tuesday .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|JCT 7|5|PRED 8|3|PUNCT
+*INV:	what did they do ?
+%mor:	pro:int|what mod|do&PAST pro:sub|they v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	asked to go out to eat .
+%mor:	v|ask-PAST inf|to v|go adv|out inf|to v|eat .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|JCT 5|6|INF 6|3|COMP 7|1|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	then what happened .
+%mor:	adv:tem|then pro:int|what v|happen-PAST .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	they went to Mcdonalds .
+%mor:	pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	they ordered .
+%mor:	pro:sub|they v|order-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	&-um Raymond ordered a chocolate icecream cone happy meal .
+%mor:	n:prop|Raymond v|order-PAST det:art|a n|chocolate n|+n|ice+n|cream
+	n|cone adj|happy n|meal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|8|MOD 7|8|MOD 8|2|OBJ
+	9|2|PUNCT
+*CHI:	<and then they went &~ho> [/?] and then <they um> [/?] they forgot
+	their money at home on the table .
+%mor:	coord|and adv:tem|then pro:sub|they v|forget&PAST det:poss|their
+	n|money prep|at n|home prep|on det:art|the n|table .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	is that it ?
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*INV:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@G:	LateForSchool
+*CHI:	boy woke up .
+%mor:	n|boy v|wake&PAST adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	and he was fixing cereal .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|fix-PRESP n|cereal .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	and then he was gonna tie his shoes .
+%mor:	coord|and adv:tem|then pro:sub|he aux|be&PAST&13S
+	part|go&PRESP~inf|to v|tie det:poss|his n|shoe-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|5|PUNCT
+*CHI:	and then he went outside .
+%mor:	coord|and adv:tem|then pro:sub|he v|go&PAST adv|+prep|out+n|side .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	and his school bus was leaving .
+%mor:	coord|and det:poss|his n|school n|bus aux|be&PAST&13S
+	part|leave-PRESP .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*CHI:	he hadta walk <to school to> [/?] to school .
+%mor:	pro:sub|he mod|have&PAST~inf|to v|walk prep|to n|school .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	and he went in class .
+%mor:	coord|and pro:sub|he v|go&PAST prep|in n|class .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Aliens
+*CHI:	there was a ship .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|ship .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	and there was aliens inside it .
+%mor:	coord|and adv|there cop|be&PAST&13S n|alien-PL prep|inside
+	pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*CHI:	and &-um her brother named Cody .
+%mor:	coord|and det:poss|her n|brother v|name-PAST n:prop|Cody .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	&-um and Cody's sister wanted to go see the aliens .
+%mor:	coord|and adj|Cody&dn-POSS n|sister v|want-PAST inf|to v|go v|see
+	det:art|the n|alien-PL .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|7|INF 6|7|SRL 7|4|COMP 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*CHI:	but Cody said no .
+%mor:	conj|but n:prop|Cody v|say&PAST co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	and &-um he pulled his sister named Debbie .
+%mor:	coord|and pro:sub|he v|pull-PAST det:poss|his n|sister v|name-PAST
+	n:prop|Debbie .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|3|PUNCT
+*CHI:	and they &~pa +...
+%mor:	coord|and pro:sub|they +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	and &-um she's going to go see it to say hi to the aliens .
+%mor:	coord|and pro:sub|she~aux|be&3S part|go-PRESP inf|to v|go v|see
+	pro:per|it inf|to v|say co|hi prep|to det:art|the n|alien-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|SRL 7|4|COMP 8|7|OBJ
+	9|10|INF 10|7|COMP 11|10|OBJ 12|11|JCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*CHI:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

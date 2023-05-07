@@ -1,0 +1,125 @@
+@UTF8
+@PID:	11312/c-00034023-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;03.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	01-MAR-2002
+@Transcriber:	Maitreyi Viswanathan
+@Comment:	DOB = 12/11/1995
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*INV:	what happened to the boy and the girl in the story ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl prep|in det:art|the n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*INV:	what did they do ?
+%mor:	pro:int|what mod|do&PAST pro:sub|they v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	I forgot .
+%mor:	pro:sub|I v|forget&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	remember where they went ?
+%mor:	v|remember pro:int|where pro:sub|they v|go&PAST ?
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|1|PUNCT
+*INV:	where did they go ?
+%mor:	pro:int|where mod|do&PAST pro:sub|they v|go ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	Mcdonalds .
+%mor:	n:prop|Mcdonalds .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	yeah tell me what happened <when they were> [/] when they were at
+	Mcdonalds .
+%mor:	co|yeah v|tell pro:obj|me pro:int|what v|happen-PAST conj|when
+	pro:sub|they cop|be&PAST prep|at n:prop|Mcdonalds .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|5|LINK 5|2|COMP 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|JCT 10|9|POBJ 11|2|PUNCT
+*CHI:	they ordered their food <and when mom> [/?] and when their mother
+	tried to get the money it wasn't there .
+%mor:	pro:sub|they v|order-PAST det:poss|their n|food coord|and conj|when
+	det:poss|their n|mother v|try-PAST inf|to v|get det:art|the n|money
+	pro:per|it cop|be&PAST&13S~neg|not n|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|COORD 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|15|SUBJ 15|13|CMOD
+	16|15|NEG 17|15|PRED 18|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else you remember ?
+%mor:	pro:indef|anything post|else pro:per|you v|remember ?
+%gra:	1|4|LINK 2|1|PQ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	okay movin(g) on .
+%mor:	co|okay part|move-PRESP adv|on .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+@G:	LateForSchool
+*CHI:	I don't know what to say .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what inf|to v|say .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|INF 7|4|COMP 8|4|PUNCT
+*INV:	what can you tell me about this picture ?
+%mor:	pro:int|what mod|can pro:per|you v|tell pro:obj|me prep|about
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	he got out_of bed .
+%mor:	pro:sub|he v|get&PAST prep|out_of n|bed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and he went to get his cereal .
+%mor:	coord|and pro:sub|he v|go&PAST inf|to v|get det:poss|his n|cereal .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	and he spilled the milk .
+%mor:	coord|and pro:sub|he v|spill-PAST det:art|the n|milk .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	you're doing great .
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP adj|great .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	he tried to tie his shoe .
+%mor:	pro:sub|he v|try-PAST inf|to v|tie det:poss|his n|shoe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	his shoelace came off .
+%mor:	det:poss|his n|+n|shoe+n|lace v|come&PAST adv|off .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	he missed his bus .
+%mor:	pro:sub|he v|miss-PAST det:poss|his n|bus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and he was late for school .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|late prep|for n|school .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*INV:	okay nice job .
+%mor:	co|okay adj|nice n|job .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	see you figured out what to say didn't you ?
+%mor:	v|see pro:per|you v|figure-PAST adv|out pro:int|what inf|to v|say
+	mod|do&PAST~neg|not pro:per|you ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|7|LINK 6|7|INF 7|4|CPOBJ 8|10|AUX
+	9|8|NEG 10|7|OBJ 11|1|PUNCT
+*INV:	nice job .
+%mor:	adj|nice n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@G:	Aliens
+*CHI:	there was people going in this alien world [*] .
+%mor:	pro:exist|there cop|be&PAST&13S n|person&PL part|go-PRESP prep|in
+	det:dem|this n|alien n|world .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*CHI:	aliens coming off the spaceship [*] .
+%mor:	n|alien-PL part|come-PRESP prep|off det:art|the n|+n|space+n|ship .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*INV:	can you think of anything else to out in your story ?
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything post|else
+	prep|to adv|out prep|in det:poss|your n|story ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|JCT 8|7|POBJ
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*INV:	anything else at all ?
+%mor:	pro:indef|anything post|else prep|at pro:indef|all ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

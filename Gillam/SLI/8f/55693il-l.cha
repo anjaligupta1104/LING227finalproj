@@ -1,0 +1,159 @@
+@UTF8
+@PID:	11312/c-00033808-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|8;03.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	14-NOV-2002
+@Transcriber:	Zach Rogers
+@Comment:	DOB = 8/4/1994
+@Comment:	Ethnicity = Other
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	I forgot the &-um first .
+%mor:	pro:sub|I v|forget&PAST det:art|the adj|first .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	do the best you can .
+%mor:	v|do det:art|the adj|good&SP pro:per|you mod|can .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|SUBJ 5|3|CMOD 6|1|PUNCT
+*INV:	what happened to the boy and the girl in the story ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl prep|in det:art|the n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	they went out to eat .
+%mor:	pro:sub|they v|go&PAST adv|out inf|to v|eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|INF 5|2|XJCT 6|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	tell me more .
+%mor:	v|tell pro:obj|me pro:indef|more .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*INV:	Michelle ?
+%mor:	n:prop|Michelle ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<I think that> [/?] their mom forget their purse .
+%mor:	det:poss|their n|mom v|forget det:poss|their n|purse .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	mhm okay .
+%mor:	co|mhm=yes co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	can you tell me anything else ?
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|anything post|else
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|3|OBJ 6|5|PQ 7|3|PUNCT
+*CHI:	um I can't remember .
+%mor:	n|um pro:sub|I mod|can~neg|not v|remember .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|CMOD 6|1|PUNCT
+@G:	LateForSchool
+*CHI:	I can't think of a story .
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of det:art|a n|story .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	well look at the pictures .
+%mor:	co|well v|look prep|at det:art|the n|picture-PL .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	try looking at the pictures and think of something .
+%mor:	v|try part|look-PRESP prep|at det:art|the n|picture-PL coord|and
+	v|think prep|of pro:indef|something .
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|7|JCT
+	9|8|POBJ 10|1|PUNCT
+*CHI:	I can't .
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	it's confusing .
+%mor:	pro:per|it~aux|be&3S part|confuse-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	<which ah> [/?] where would you start to tell the story ?
+%mor:	pro:int|where mod|will&COND pro:per|you v|start inf|to v|tell
+	det:art|the n|story ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	um right here .
+%mor:	n|um adv|right n|here .
+%gra:	1|3|MOD 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you tell me something about that ?
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|something
+	prep|about pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*CHI:	that he forgot to get up &=laughs .
+%mor:	comp|that pro:sub|he v|forget&PAST inf|to v|get adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|3|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*CHI:	0 .
+%act:	laughs .
+@G:	Aliens
+*CHI:	I made a story at my house . [+ bch]
+%mor:	pro:sub|I v|make&PAST det:art|a n|story prep|at det:poss|my n|house
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%com:	child is not referring to the story she has been asked to create
+*INV:	hm: ?
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I made a story at my house . [+ bch]
+%mor:	pro:sub|I v|make&PAST det:art|a n|story prep|at det:poss|my n|house
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	but look at this picture and see if you can make up another story .
+%mor:	conj|but v|look prep|at det:dem|this n|picture coord|and v|see
+	conj|if pro:per|you mod|can v|make adv|up qn|another n|story .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|11|JCT 13|14|QUANT 14|12|POBJ
+	15|2|PUNCT
+*CHI:	but I don't know how to start it &*INV:mhm because there's lots_of
+	people . [+ bch]
+%mor:	conj|but pro:sub|I mod|do~neg|not v|know pro:int|how inf|to v|start
+	pro:per|it conj|because pro:exist|there~cop|be&3S qn|lots_of
+	n|person&PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|INF 8|5|COMP
+	9|8|OBJ 10|12|LINK 11|12|SUBJ 12|5|CJCT 13|14|QUANT 14|12|PRED 15|5|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's a good way to start .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|good n|way prep|to n|start .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*INV:	there were lots_of people .
+%mor:	pro:exist|there cop|be&PAST qn|lots_of n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*INV:	now what would you say ?
+%mor:	adv:tem|now pro:int|what mod|will&COND pro:per|you v|say ?
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	they went to the park to have a picnic .
+%mor:	pro:sub|they v|go&PAST prep|to det:art|the n|park inf|to v|have
+	det:art|a n|picnic .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|INF 7|2|XJCT 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	the other people walked their dog &=laughs .
+%mor:	det:art|the qn|other n|person&PL v|walk-PAST det:poss|their n|dog .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	the big dog .
+%mor:	det:art|the adj|big n|dog .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	anything else .
+%mor:	pro:indef|anything post|else .
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*CHI:	uhuh .
+%mor:	co|uhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

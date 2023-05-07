@@ -1,0 +1,105 @@
+@UTF8
+@PID:	11312/c-00033991-1
+@Window:	554_167_591_1178_-1_-1_406_0_406_0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|5;11.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	15-NOV-2001
+@Transcriber:	Ashley Tatum
+@Comment:	DOB = 12/20/1995
+@Comment:	Ethnicity = European American
+@Comment:	Examiner = Allison Hampton
+@Comment:	Amy Long
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	I can't remember it to go .
+%mor:	pro:sub|I mod|can~neg|not v|remember pro:per|it inf|to v|go .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|SUBJ 6|7|INF 7|4|COMP 8|4|PUNCT
+*INV:	can you just remember parts of it ?
+%mor:	mod|can pro:per|you adv|just v|remember n|part-PL prep|of
+	pro:per|it ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay, just tell me the parts you remember .
+%mor:	co|okay cm|cm adv|just v|tell pro:obj|me det:art|the n|part-PL
+	pro:per|you v|remember .
+%gra:	1|4|COM 2|1|LP 3|4|JCT 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|9|SUBJ
+	9|7|CMOD 10|4|PUNCT
+*CHI:	they went to Mcdonalds .
+%mor:	pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	they got food .
+%mor:	pro:sub|they v|get&PAST n|food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	eleven what happened to the boy and the girl in the story ?
+%mor:	det:num|eleven pro:int|what v|happen-PAST prep|to det:art|the n|boy
+	coord|and det:art|the n|girl prep|in det:art|the n|story ?
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|9|DET
+	9|7|COORD 10|9|NJCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*CHI:	&-uh they didn't get to get their food .
+%mor:	pro:sub|they mod|do&PAST~neg|not v|get inf|to v|get det:poss|their
+	n|food .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<and the> [/?] and that they left their money at home .
+%mor:	coord|and comp|that pro:sub|they v|leave&PAST det:poss|their
+	n|money prep|at n|home .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+*INV:	is that all ?
+%mor:	cop|be&3S comp|that adv|all ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|1|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	LateForSchool
+*CHI:	&-uh he went to bed .
+%mor:	pro:sub|he v|go&PAST prep|to n|bed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	he ate breakfast .
+%mor:	pro:sub|he v|eat&PAST n|+v|break+n|fast .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	he tied his shoes went on the school bus <and went school> [/?] and
+	went to school .
+%mor:	pro:sub|he v|tie-PAST det:poss|his n|shoe-PL v|go&PAST prep|on
+	det:art|the n|school n|bus coord|and v|go&PAST prep|to n|school .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|CONJ 11|10|COORD 12|11|JCT 13|12|POBJ 14|2|PUNCT
+@G:	Aliens
+*CHI:	<uh uh> [/?] Tom and <ah> [/?] Deecee went out for a walk .
+%mor:	n:prop|Tom coord|and n:prop|Deecee v|go&PAST adv|out prep|for
+	det:art|a n|walk .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	they saw monster people .
+%mor:	pro:sub|they v|see&PAST n|monster n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	they got really scared .
+%mor:	pro:sub|they v|get&PAST adv|real&dadj-LY v|scare-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|COMP 5|2|PUNCT
+*CHI:	they ran back home .
+%mor:	pro:sub|they v|run&PAST adv|back adv|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+*CHI:	but Lisa didn't wanna go back home .
+%mor:	conj|but n:prop|Lisa mod|do&PAST~neg|not v|want~inf|to v|go
+	adv|back adv|home .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|5|PUNCT
+*CHI:	<she wanted to &~s> [/?] she wanted to keep walking .
+%mor:	pro:sub|she v|want-PAST inf|to v|keep part|walk-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|COMP 6|2|PUNCT
+@End

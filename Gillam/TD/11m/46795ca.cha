@@ -1,0 +1,122 @@
+@UTF8
+@PID:	11312/c-00033955-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|11;07.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	15-MAR-2002
+@Transcriber:	Beth Schwab
+@Comment:	DOB = 8/4/1990
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	&-um they said <like> [/?] Lindsay <like let uh> [/?] said let's go
+	out .
+%mor:	pro:sub|they v|say&PAST n:prop|Lindsay v|say&PAST v|let~pro:obj|us
+	v|go adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|COMP 6|7|SUBJ 7|5|COMP 8|7|JCT
+	9|2|PUNCT
+*CHI:	and then &-uh they went outside <like> [/?] to go to Mcdonalds .
+%mor:	coord|and adv:tem|then pro:sub|they v|go&PAST adv|+prep|out+n|side
+	inf|to v|go prep|to n:prop|Mcdonalds .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|7|JCT
+	9|8|POBJ 10|4|PUNCT
+*CHI:	and then they [/] they forgot the purse at home .
+%mor:	coord|and adv:tem|then pro:sub|they v|forget&PAST det:art|the
+	n|purse prep|at n|home .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*CHI:	and then they hadta go back and get it .
+%mor:	coord|and adv:tem|then pro:sub|they mod|have&PAST~inf|to v|go
+	adv|back coord|and v|get pro:per|it .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|9|OBJ 11|6|PUNCT
+*CHI:	and they ordered and got something .
+%mor:	coord|and pro:sub|they v|order-PAST coord|and v|get&PAST
+	pro:indef|something .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|OBJ 7|3|PUNCT
+*CHI:	I think .
+%mor:	pro:sub|I v|think .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+@G:	LateForSchool
+*CHI:	&-um the boy <like> [/?] woke up .
+%mor:	det:art|the n|boy v|wake&PAST adv|up .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and he saw the clock .
+%mor:	coord|and pro:sub|he v|see&PAST det:art|the n|clock .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and it was <like early um> [/?] late .
+%mor:	coord|and pro:per|it cop|be&PAST&13S adv|late .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	he was late for getting ready and stuff .
+%mor:	pro:sub|he aux|be&PAST&13S adv|late prep|for part|get-PRESP
+	adj|ready coord|and n|stuff .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|4|POBJ 6|5|PRED 7|6|CONJ 8|7|COORD
+	9|2|PUNCT
+*CHI:	and then he was trying to make breakfast .
+%mor:	coord|and adv:tem|then pro:sub|he aux|be&PAST&13S part|try-PRESP
+	inf|to v|make n|+v|break+n|fast .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*CHI:	and <uh like> [/?] the clock's <like> [/?] ticking away .
+%mor:	coord|and det:art|the n|clock~aux|be&3S part|tick-PRESP adv|away .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	and then his shoelace when he was tryin(g) to tie his shoe it broke
+	.
+%mor:	coord|and adv:tem|then det:poss|his n|+n|shoe+n|lace conj|when
+	pro:sub|he aux|be&PAST&13S part|try-PRESP inf|to v|tie det:poss|his
+	n|shoe pro:per|it adj|broke .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|14|SUBJ 14|12|POSTMOD
+	15|4|PUNCT
+*CHI:	and then when he was tryin(g) to catch the bus the bus <like> [/?]
+	left .
+%mor:	coord|and adv:tem|then conj|when pro:sub|he aux|be&PAST&13S
+	part|try-PRESP inf|to v|catch det:art|the n|bus det:art|the n|bus
+	v|leave&PAST .
+%gra:	1|13|LINK 2|13|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|13|CJCT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|12|DET 12|13|SUBJ 13|0|ROOT 14|13|PUNCT
+*CHI:	and then he was late for school .
+%mor:	coord|and adv:tem|then pro:sub|he cop|be&PAST&13S adv|late prep|for
+	n|school .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+@G:	Aliens
+*CHI:	<um like> [/?] these aliens <were &-um like> [/?] thought they
+	wanted a vacation .
+%mor:	det:dem|these n|alien-PL v|think&PAST pro:sub|they v|want-PAST
+	det:art|a n|vacation .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	and they've never been here before .
+%mor:	coord|and pro:sub|they~aux|have adv:tem|never cop|be&PASTP adv|here
+	adv|before .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|5|PUNCT
+*CHI:	so <like> [/?] they came down to visit the planet .
+%mor:	co|so pro:sub|they v|come&PAST adv|down inf|to v|visit det:art|the
+	n|planet .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XJCT 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*CHI:	and &-um they <like> [/?] brought their pet or something .
+%mor:	coord|and pro:sub|they v|bring&PAST det:poss|their n|pet coord|or
+	pro:indef|something .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD 8|3|PUNCT
+*CHI:	and [/] and <I think> [/?] they were gonna have <like> [/?] a
+	picnic in a park .
+%mor:	coord|and pro:sub|they aux|be&PAST part|go&PRESP~inf|to v|have
+	det:art|a n|picnic prep|in det:art|a n|park .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*CHI:	and &-uh they <like> [/?] made +...
+%mor:	coord|and pro:sub|they v|make&PAST +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	this boy tried to stop a girl from <like> [/?] going to get them
+	xxx xxx her .
+%mor:	det:dem|this n|boy part|try-PASTP inf|to v|stop det:art|a n|girl
+	prep|from part|go-PRESP inf|to v|get pro:obj|them pro:obj|her .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|11|INF 11|9|COMP 12|11|OBJ 13|11|OBJ 14|2|PUNCT
+*CHI:	and &-uh that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

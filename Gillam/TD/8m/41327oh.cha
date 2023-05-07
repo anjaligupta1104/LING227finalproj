@@ -1,0 +1,168 @@
+@UTF8
+@PID:	11312/c-00034281-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|8;00.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	12-FEB-2002
+@Comment:	DOB = 2/11/1994
+@Comment:	Examiner = Joan Kaderavek
+@Comment:	Grade( =2)
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	it was twelve dollars and fifty cents .
+%mor:	pro:per|it cop|be&PAST&13S det:num|twelve n|dollar-PL coord|and
+	det:num|fifty n|cent-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|CONJ 6|7|QUANT 7|5|COORD
+	8|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you feel like telling me a story ?
+%mor:	pro:per|you v|feel prep|like part|tell-PRESP pro:obj|me det:art|a
+	n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|OBJ2 6|7|DET 7|4|OBJ 8|2|PUNCT
+*INV:	wanna tell me what happened to the boy and the girl in the story ?
+%mor:	v|want~inf|to v|tell pro:obj|me pro:int|what v|happen-PAST prep|to
+	det:art|the n|boy coord|and det:art|the n|girl prep|in det:art|the
+	n|story ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|6|LINK 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|12|DET 12|10|COORD 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|1|PUNCT
+*CHI:	<ah> [/?] they went to Mcdonalds .
+%mor:	pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	ten anything else ?
+%mor:	det:num|ten pro:indef|anything post|else ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PQ 4|2|PUNCT
+*CHI:	uh huh .
+%mor:	n|uh co|huh .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*CHI:	seven they got icecream .
+%mor:	det:num|seven pro:sub|they v|get&PAST n|+n|ice+n|cream .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	nine is that the end ?
+%mor:	det:num|nine cop|be&3S comp|that det:art|the n|end ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|OM 6|2|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	LateForSchool
+*CHI:	should I start here ?
+%mor:	mod|should pro:sub|I v|start adv|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	thirty you can start anytime you are ready .
+%mor:	det:num|thirty pro:per|you mod|can v|start adv:tem|anytime
+	pro:per|you cop|be&PRES adj|ready .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|SUBJ 7|5|CMOD 8|7|PRED
+	9|4|PUNCT
+*INV:	eighteen tell me what you think is happening here .
+%mor:	det:num|eighteen v|tell pro:obj|me pro:int|what pro:per|you v|think
+	aux|be&3S part|happen-PRESP n|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|COMP 7|8|AUX 8|6|COMP
+	9|8|OBJ 10|2|PUNCT
+*CHI:	he's waking up .
+%mor:	pro:sub|he~aux|be&3S part|wake-PRESP adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	all of these pictures then are connected .
+%mor:	pro:indef|all prep|of det:dem|these n|picture-PL adv:tem|then
+	aux|be&PRES part|connect-PASTP .
+%gra:	1|7|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|7|JCT 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*INV:	so tell me what happens to the boy in the story .
+%mor:	adv|so v|tell pro:obj|me pro:int|what v|happen-3S prep|to
+	det:art|the n|boy prep|in det:art|the n|story .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|LINK 5|2|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	then he went to the kitchen and had some food .
+%mor:	adv:tem|then pro:sub|he v|go&PAST prep|to det:art|the n|kitchen
+	coord|and v|have&PAST qn|some n|food .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|10|QUANT 10|8|OBJ 11|3|PUNCT
+*CHI:	five then he got his shoes on .
+%mor:	det:num|five adv:tem|then pro:sub|he v|get&PAST det:poss|his
+	n|shoe-PL adv|on .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*CHI:	six <and his lace> [/?] and the shoelace broke .
+%mor:	det:num|six coord|and det:art|the n|+n|shoe+n|lace adj|broke .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|4|POSTMOD 6|1|PUNCT
+*CHI:	four then he went outside to get on his bus .
+%mor:	det:num|four adv:tem|then pro:sub|he v|go&PAST adv|+prep|out+n|side
+	inf|to v|get prep|on det:poss|his n|bus .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*CHI:	but <the> [/?] he missed the bus stop .
+%mor:	conj|but pro:sub|he v|miss-PAST det:art|the n|bus n|stop .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	then he went to school .
+%mor:	adv:tem|then pro:sub|he v|go&PAST prep|to n|school .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*INV:	sixteen anything else ?
+%mor:	det:num|sixteen pro:indef|anything post|else ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PQ 4|2|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Aliens
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	thirty four I wanna hear your best story about what happens .
+%mor:	det:num|thirty det:num|four pro:sub|I v|want~inf|to v|hear
+	det:poss|your adj|good&SP n|story prep|about pro:int|what
+	v|happen-3S .
+%gra:	1|2|DATE 2|4|QUANT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|12|JCT 11|12|SUBJ 12|6|CJCT 13|4|PUNCT
+*CHI:	<there were there were there &~w> [/?] there was a girl and a boy .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|girl coord|and
+	det:art|a n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|CONJ 6|7|DET 7|5|COORD 8|2|PUNCT
+*INV:	say it louder so I can hear your story .
+%mor:	v|say pro:per|it adj|loud-CP conj|so pro:sub|I mod|can v|hear
+	det:poss|your n|story .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|1|CJCT 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*CHI:	there is a girl and a boy .
+%mor:	pro:exist|there cop|be&3S det:art|a n|girl coord|and det:art|a
+	n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|CONJ 6|7|DET 7|5|COORD 8|2|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	twelve and they were in the bushes .
+%mor:	det:num|twelve coord|and pro:sub|they cop|be&PAST prep|in
+	det:art|the n|bush-PL .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	thirty eight can you think of anything else to put in your story ?
+%mor:	det:num|thirty det:num|eight mod|can pro:per|you v|think prep|of
+	pro:indef|anything post|else inf|to v|put&ZERO prep|in det:poss|your
+	n|story ?
+%gra:	1|5|LINK 2|5|QUANT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|PQ
+	9|10|INF 10|5|XJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	nothing else ?
+%mor:	pro:indef|nothing post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/c-00033816-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|8;04.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	02-JUN-2004
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 2/7/1996
+@Comment:	Ethnicity = African American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	I can't remember the first part .
+%mor:	pro:sub|I mod|can~neg|not v|remember det:art|the adj|first n|part .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*INV:	that's okay .
+%mor:	pro:dem|that~cop|be&3S adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	I just remember that they had asked their mom <if it> [/?] if they
+	could go out to eat .
+%mor:	pro:sub|I adv|just v|remember comp|that pro:sub|they aux|have&PAST
+	part|ask-PASTP det:poss|their n|mom conj|if pro:sub|they mod|could
+	v|go adv|out inf|to v|eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|9|DET
+	9|7|OBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|7|CJCT 14|13|JCT 15|16|INF
+	16|13|COMP 17|3|PUNCT
+*CHI:	and then they had scream [* m:a:0ed] Mcdonalds .
+%mor:	coord|and adv:tem|then pro:sub|they v|have&PAST n|scream
+	n:prop|Mcdonalds .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*CHI:	<and and> [/?] so they had went to Mcdonalds .
+%mor:	co|so pro:sub|they v|have&PAST v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	<and> [/?] they had order [* m:0ed] some food .
+%mor:	pro:sub|they v|have&PAST n|order qn|some n|food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*CHI:	<and> [/?] their mom had forgot [% ew:forgotten] the money <on the
+	table> [/?] on the kitchen table .
+%mor:	det:poss|their n|mom v|have&PAST v|forget&PAST det:art|the n|money
+	prep|on det:art|the n|kitchen n|table .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+@G:	LateForSchool
+*CHI:	the boy is waking up .
+%mor:	det:art|the n|boy aux|be&3S part|wake-PRESP adv|up .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	and <he's> [/] he's looking at the time .
+%mor:	coord|and pro:sub|he~aux|be&3S part|look-PRESP prep|at det:art|the
+	n|time .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	<and> [/?] he's wasting the milk .
+%mor:	pro:sub|he~aux|be&3S part|waste-PRESP det:art|the n|milk .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the boy broke his shoestring .
+%mor:	det:art|the n|boy v|break&PAST det:poss|his n|+n|shoe+n|string .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	<the &~b> [/?] the boy had <&~mi> [/?] missed the bus .
+%mor:	det:art|the n|boy aux|have&PAST part|miss-PASTP det:art|the n|bus .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and the boy had walk [* m:a:0ed] to school .
+%mor:	coord|and det:art|the n|boy v|have&PAST n|walk prep|to n|school .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+@G:	Aliens
+*CHI:	<um a alien ship had landed &-uh on the> [/?] the alien ship had
+	landed on the grass .
+%mor:	det:art|the n|alien n|ship aux|have&PAST part|land-PASTP prep|on
+	det:art|the n|grass .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*CHI:	and the door had open [* m:a:0ed] .
+%mor:	coord|and det:art|the n|door v|have&PAST adj|open .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%com:	child says oten for open
+*CHI:	<and> [/?] then the aliens had came [% ew:come] out with a dog .
+%mor:	adv:tem|then det:art|the n|alien-PL aux|have&PAST part|come&PASTP
+	adv|out prep|with det:art|a n|dog .
+%gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*CHI:	<and> [/?] the girl was tryin(g) to go to them .
+%mor:	det:art|the n|girl aux|be&PAST&13S part|try-PRESP inf|to v|go
+	prep|to pro:obj|them .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*CHI:	<and the and> [/?] the brother said no .
+%mor:	det:art|the n|brother v|say&PAST co|no .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	<and and and> [/?] the girl was tryin(g) to to pull his hand .
+%mor:	det:art|the n|girl aux|be&PAST&13S part|try-PRESP prep|to inf|to
+	v|pull det:poss|his n|hand .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|INF 7|5|POBJ 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*CHI:	<and> [/?] the boy had said no .
+%mor:	det:art|the n|boy aux|have&PAST part|say&PASTP co|no .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COM 6|4|PUNCT
+*CHI:	I can't think of anymore .
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of adv|anymore .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+@End

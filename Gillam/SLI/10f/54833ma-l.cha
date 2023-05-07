@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/c-00033693-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|10;01.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	03-DEC-2002
+@Transcriber:	Teresa Murphy
+@Comment:	DOB = 11/13/1992
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	their mom said we'll go to Mcdonalds .
+%mor:	det:poss|their n|mom v|say&PAST pro:sub|we~mod|will v|go prep|to
+	n:prop|Mcdonalds .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	and they all did stuff .
+%mor:	coord|and pro:sub|they post|all mod|do&PAST v|stuff .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and then they didn't bring the purse .
+%mor:	coord|and adv:tem|then pro:sub|they mod|do&PAST~neg|not v|bring
+	det:art|the n|purse .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*INV:	was that it ?
+%mor:	cop|be&PAST&13S pro:rel|that pro:per|it ?
+%gra:	1|0|ROOT 2|3|LINK 3|1|PRED 4|1|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	LateForSchool
+*CHI:	&-um the boy <xxx> [/?] was late for school .
+%mor:	det:art|the n|boy cop|be&PAST&13S adv|late prep|for n|school .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	he was getting dressed .
+%mor:	pro:sub|he aux|be&PAST&13S part|get-PRESP part|dress-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|COMP 5|3|PUNCT
+*CHI:	he was getting late for school .
+%mor:	pro:sub|he aux|be&PAST&13S part|get-PRESP adv|late prep|for
+	n|school .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	and he was walking down the sidewalk .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|walk-PRESP prep|down
+	det:art|the n|+n|side+v|walk .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	he [/] he tried looking for the bus .
+%mor:	pro:sub|he v|try-PAST part|look-PRESP prep|for det:art|the n|bus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	and he got in late .
+%mor:	coord|and pro:sub|he v|get&PAST adv|in adv|late .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+@G:	Aliens
+*CHI:	<um &-um they are> [/?] the family is getting out .
+%mor:	det:art|the n|family aux|be&3S part|get-PRESP adv|out .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	then &-um they were getting ready .
+%mor:	adv:tem|then pro:sub|they aux|be&PAST part|get-PRESP adj|ready .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	and they were going to work in school .
+%mor:	coord|and pro:sub|they aux|be&PAST part|go-PRESP prep|to n|work
+	prep|in n|school .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*INV:	that's it ?
+%mor:	pro:dem|that~cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	great !
+%mor:	adj|great !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good job !
+%mor:	adj|good n|job !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

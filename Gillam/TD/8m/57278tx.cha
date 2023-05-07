@@ -1,0 +1,136 @@
+@UTF8
+@PID:	11312/c-00034312-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|8;02.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	10-APR-2002
+@Transcriber:	Shilpa Shamapant
+@Comment:	DOB = 2/10/1994
+@Comment:	Examiner = SHU
+@Comment:	Allie Baron
+@Comment:	Grade = 2
+@Comment:	Ethnicity = African American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	&-um .
+*INV:	what happened to the boy and the girl in the story .
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl prep|in det:art|the n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	<they wanna &~s> [/?] they wanted to go out and eat .
+%mor:	pro:sub|they v|want-PAST inf|to v|go adv|out coord|and v|eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|CONJ 7|6|COORD 8|2|PUNCT
+*CHI:	&-um .
+*INV:	is that it ?
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*INV:	what happened to the boy and the girl ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|2|PUNCT
+*INV:	where did they do ?
+%mor:	pro:int|where mod|do&PAST pro:sub|they v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	they went to Mcdonalds .
+%mor:	pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	and they &-um +...
+%mor:	coord|and pro:sub|they +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	the boy got a [/] a Big_Mac .
+%mor:	det:art|the n|boy v|get&PAST det:art|a n:prop|Big_Mac .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and the mom had got a salad .
+%mor:	coord|and det:art|the n|mom aux|have&PAST part|get&PASTP det:art|a
+	n|salad .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	and &-um girl got a kidsmeal .
+%mor:	coord|and n|girl v|get&PAST det:art|a n|+n|kids+n|meal .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	she [/] she got <a chocolate um> [/?] a chocolate icecream .
+%mor:	pro:sub|she v|get&PAST det:art|a n|chocolate n|+n|ice+n|cream .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	then she got a Doctor_Pepper .
+%mor:	adv:tem|then pro:sub|she v|get&PAST det:art|a n:prop|Doctor_Pepper
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the boy had got a <vanilla &~s um> [/?] vanilla shake .
+%mor:	det:art|the n|boy aux|have&PAST part|get&PASTP det:art|a n|vanilla
+	n|shake .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*CHI:	and the mom forgot the money at home .
+%mor:	coord|and det:art|the n|mom v|forget&PAST det:art|the n|money
+	prep|at n|home .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+@G:	LateForSchool
+*CHI:	one morning this boy had woke up .
+%mor:	det:num|one n|morning det:dem|this n|boy aux|have&PAST
+	part|wake&PASTP adv|up .
+%gra:	1|2|QUANT 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*CHI:	he went to go fix breakfast .
+%mor:	pro:sub|he v|go&PAST inf|to v|go v|fix n|+v|break+n|fast .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|SRL 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*CHI:	and he spilled milk everywhere .
+%mor:	coord|and pro:sub|he v|spill-PAST n|milk adv|everywhere .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	his shoelace had broke .
+%mor:	det:poss|his n|+n|shoe+n|lace v|have&PAST adj|broke .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	he got late for the bus .
+%mor:	pro:sub|he aux|get&PAST adv|late prep|for det:art|the n|bus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	he hadta walk all the way to school .
+%mor:	pro:sub|he mod|have&PAST~inf|to v|walk qn|all det:art|the n|way
+	prep|to n|school .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|7|QUANT 6|7|DET 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*CHI:	<and his> [/?] and the principal got mad .
+%mor:	coord|and det:art|the n|principal v|get&PAST adj|mad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@G:	Aliens
+*CHI:	one day this girl went to a alien +...
+%mor:	det:num|one n|day det:dem|this n|girl v|go&PAST prep|to det:art|a
+	n|alien +...
+%gra:	1|2|QUANT 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*CHI:	she seen this alien ship land .
+%mor:	pro:sub|she part|see&PASTP det:dem|this n|alien n|ship n|land .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*CHI:	and <the alien> [/?] she seen alien people come out the ship .
+%mor:	coord|and pro:sub|she part|see&PASTP n|alien n|person&PL v|come
+	adv|out det:art|the n|ship .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|XJCT 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*CHI:	and she seen a funny &~loo looking dog .
+%mor:	coord|and pro:sub|she part|see&PASTP det:art|a adj|fun&dn-Y
+	part|look-PRESP n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*CHI:	she said <bob let's go &~a> [/?] bob let's go &-um see <the alien>
+	[/?] the aliens .
+%mor:	pro:sub|she v|say&PAST v|bob v|let~pro:obj|us v|go v|see
+	det:art|the n|alien-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|COMP 5|4|OBJ 6|7|SRL 7|4|COMP 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+*CHI:	bob said no .
+%mor:	v|bob v|say&PAST co|no .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+*CHI:	then [/] then the lady had came off the spaceship .
+%mor:	adv:tem|then det:art|the n|lady v|have&PAST v|come&PAST prep|off
+	det:art|the n|+n|space+n|ship .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	then the spaceship had left .
+%mor:	adv:tem|then det:art|the n|+n|space+n|ship v|have&PAST adj|left .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	bob went home to explain where his sister had went .
+%mor:	v|bob v|go&PAST adv|home inf|to v|explain pro:int|where
+	det:poss|his n|sister v|have&PAST v|go&PAST .
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|5|INF 5|2|XJCT 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|COMP 10|9|COMP 11|1|PUNCT
+@End

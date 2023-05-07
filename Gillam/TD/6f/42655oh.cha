@@ -1,0 +1,137 @@
+@UTF8
+@PID:	11312/c-00034031-1
+@Window:	554_167_591_1178_-1_-1_1576_0_1576_0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;10.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	05-MAR-2002
+@Transcriber:	Allie Baron
+@Comment:	DOB = 4/28/1995
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*INV:	twenty go ahead .
+%mor:	det:num|twenty v|go adv|ahead .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	I forget it .
+%mor:	pro:sub|I v|forget pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	you forget the whole story ?
+%mor:	pro:per|you v|forget det:art|the adj|whole n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*INV:	try to try to tell me just anything you remember any parts you
+	remember about it .
+%mor:	v|try inf|to v|try inf|to v|tell pro:obj|me adv|just
+	pro:indef|anything pro:per|you v|remember qn|any n|part-PL
+	pro:per|you v|remember prep|about pro:per|it .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|INF 5|3|COMP 6|5|OBJ 7|8|JCT 8|5|OBJ
+	9|10|SUBJ 10|8|CMOD 11|12|QUANT 12|14|JCT 13|14|SUBJ 14|10|COMP 15|14|JCT
+	16|15|POBJ 17|1|PUNCT
+*CHI:	they were going to Mcdonalds .
+%mor:	pro:sub|they aux|be&PAST part|go-PRESP prep|to n:prop|Mcdonalds .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and it cost twelve cents .
+%mor:	coord|and pro:per|it v|cost&ZERO det:num|twelve n|cent-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	the girl ordered a large icecream cone and a happy meal .
+%mor:	det:art|the n|girl v|order-PAST det:art|a adj|large
+	n|+n|ice+n|cream n|cone coord|and det:art|a adj|happy n|meal .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|7|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|3|PUNCT
+*CHI:	and the boy ordered a vanilla shake and a fries and cheeseburger
+	[*] .
+%mor:	coord|and det:art|the n|boy part|order-PASTP det:art|a n|vanilla
+	n|shake coord|and det:art|a n|fry-PL coord|and n|+n|cheese+n|burger
+	.
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|7|DET 6|7|MOD 7|4|OBJ 8|7|CONJ
+	9|10|DET 10|8|COORD 11|10|CONJ 12|11|COORD 13|3|PUNCT
+*CHI:	and the mom forgot her wallet at home .
+%mor:	coord|and det:art|the n|mom v|forget&PAST det:poss|her n|wallet
+	prep|at n|home .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+@G:	LateForSchool
+*CHI:	once upon a time the boy got out_of the bed .
+%mor:	adv:tem|once prep|upon det:art|a n|time det:art|the n|boy
+	v|get&PAST prep|out_of det:art|the n|bed .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|6|DET 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+*CHI:	and <&~t> [/?] he poured the cereal .
+%mor:	coord|and pro:sub|he v|pour-PAST det:art|the n|cereal .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and he made a big mess .
+%mor:	coord|and pro:sub|he v|make&PAST det:art|a adj|big n|mess .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	he broke his shoelace .
+%mor:	pro:sub|he v|break&PAST det:poss|his n|+n|shoe+n|lace .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and he got late for the bus .
+%mor:	coord|and pro:sub|he aux|get&PAST adv|late prep|for det:art|the
+	n|bus .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|INCROOT 6|7|DET 7|5|POBJ
+	8|5|PUNCT
+*CHI:	and <a> [/?] he was late for school .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|late prep|for n|school .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+@G:	Aliens
+*CHI:	once upon a time a alien ship came down [*] .
+%mor:	adv:tem|once prep|upon det:art|a n|time det:art|a n|alien n|ship
+	v|come&PAST adv|down .
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|2|POBJ 5|7|DET 6|7|MOD 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*CHI:	and the girl and boy ran away .
+%mor:	coord|and det:art|the n|girl coord|and n|boy v|run&PAST adv|away .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*CHI:	and the boy said no .
+%mor:	coord|and det:art|the n|boy v|say&PAST co|no .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	and <the> [/?] all the aliens walked out .
+%mor:	coord|and qn|all det:art|the n|alien-PL v|walk-PAST adv|out .
+%gra:	1|5|LINK 2|4|QUANT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	and <they were gonna have> [/?] they're gonna have a picnic .
+%mor:	coord|and pro:sub|they~aux|be&PRES part|go&PRESP~inf|to v|have
+	det:art|a n|picnic .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*INV:	fifteen can you think of anything else to put in your story ?
+%mor:	det:num|fifteen mod|can pro:per|you v|think prep|of
+	pro:indef|anything post|else inf|to v|put&ZERO prep|in det:poss|your
+	n|story ?
+%gra:	1|4|QUANT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|PQ 8|9|INF
+	9|4|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*CHI:	nope .
+%mor:	co|nope .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	yeah they were gonna have a picnic .
+%mor:	co|yeah pro:sub|they aux|be&PAST part|go&PRESP~inf|to v|have
+	det:art|a n|picnic .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*INV:	what else ?
+%mor:	pro:int|what post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*CHI:	they were gonna sleep overnight .
+%mor:	pro:sub|they aux|be&PAST part|go&PRESP~inf|to v|sleep
+	adv|+prep|over+n|night .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|3|PUNCT
+*INV:	uhuh .
+%mor:	co|uhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	tell me more about your story .
+%mor:	v|tell pro:obj|me post|more prep|about det:poss|your n|story .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*INV:	five can you think of anything else to <put in there> [>] ?
+%mor:	det:num|five mod|can pro:per|you v|think prep|of pro:indef|anything
+	post|else inf|to v|put&ZERO prep|in n|there ?
+%gra:	1|4|QUANT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|PQ 8|9|INF
+	9|4|XJCT 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*CHI:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	nothing else ?
+%mor:	pro:indef|nothing post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+@End

@@ -1,0 +1,278 @@
+@UTF8
+@PID:	11312/c-00033999-1
+@Window:	554_167_591_1178_-1_-1_2619_0_2619_0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|5;06.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	18-JAN-2002
+@Transcriber:	Rebecca Garcia
+@Comment:	DOB = 7/14/1996
+@Comment:	Examiner = NA
+@Comment:	Ethnicity = European American
+@Comment:	Grade = K
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	&-um &-uh &-uh &-um .
+*INV:	what happened to the girl and the boy in the story ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|girl coord|and
+	det:art|the n|boy prep|in det:art|the n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	they got too much food .
+%mor:	pro:sub|they v|get&PAST adv|too qn|much n|food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*INV:	they got too much food ?
+%mor:	pro:sub|they v|get&PAST adv|too qn|much n|food ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*CHI:	yeah too much .
+%mor:	co|yeah adv|too adv|much .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	too much ordered .
+%mor:	adv|too adv|much part|order-PASTP .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	too much food .
+%mor:	adv|too qn|much n|food .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*INV:	any thing else in the story ?
+%mor:	qn|any n|thing post|else prep|in det:art|the n|story ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PQ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	well well I don't know the rest .
+%mor:	co|well n|well pro:sub|I mod|do~neg|not v|know det:art|the n|rest .
+%gra:	1|2|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*CHI:	but I know the &~l a little bit about it .
+%mor:	conj|but pro:sub|I v|know det:art|the det:art|a adj|little n|bit
+	prep|about pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|DET 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*INV:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	tell me ?
+%mor:	v|tell pro:obj|me ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	<um the the lady the> [/?] the girl ordered a [/] a cheeseburger .
+%mor:	det:art|the n|girl v|order-PAST det:art|a n|+n|cheese+n|burger .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and [/] and her mom <just a> [/?] just got a boring salad .
+%mor:	coord|and det:poss|her n|mom adv|just v|get&PAST det:art|a
+	part|bore-PRESP n|salad .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*INV:	her mom got a boring salad ?
+%mor:	det:poss|her n|mom v|get&PAST det:art|a part|bore-PRESP n|salad ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	yeah boring because when I was &-um when I was four I was tasting
+	some drinking some salad dressing .
+%mor:	co|yeah part|bore-PRESP conj|because conj|when pro:sub|I
+	cop|be&PAST&13S conj|when pro:sub|I cop|be&PAST&13S det:num|four
+	pro:sub|I aux|be&PAST&13S part|taste-PRESP qn|some part|drink-PRESP
+	qn|some n|salad part|dress-PRESP .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|3|CPOBJ 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|PRED 14|15|QUANT
+	15|13|COMP 16|17|QUANT 17|15|OBJ 18|17|XMOD 19|2|PUNCT
+*CHI:	then I throw up .
+%mor:	adv:tem|then pro:sub|I v|throw adv|up .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	yeah I bet you did .
+%mor:	co|yeah pro:sub|I v|bet&ZERO pro:per|you v|do&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*INV:	do you wanna tell me anything else about the story ?
+%mor:	mod|do pro:per|you v|want~inf|to v|tell pro:obj|me
+	pro:indef|anything post|else prep|about det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|OBJ 8|7|PQ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*INV:	can you tell me anything else ?
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|anything post|else
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|3|OBJ 6|5|PQ 7|3|PUNCT
+*CHI:	<no> [/?] that's all I tell you about [*] .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I v|tell pro:per|you
+	adv|about .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|SUBJ 5|2|CPRED 6|5|OBJ 7|5|JCT 8|2|PUNCT
+@G:	LateForSchool
+*CHI:	<um he> [/?] he was in bed .
+%mor:	pro:sub|he cop|be&PAST&13S prep|in n|bed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	he was pouring milk <in his &~cer> [/?] in his bowl .
+%mor:	pro:sub|he aux|be&PAST&13S part|pour-PRESP n|milk prep|in
+	det:poss|his n|bowl .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	spilled .
+%mor:	part|spill-PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	he was tying his shoes .
+%mor:	pro:sub|he aux|be&PAST&13S part|tie-PRESP det:poss|his n|shoe-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	going to school .
+%mor:	part|go-PRESP prep|to n|school .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	<and he saw> [/?] and he meeted a lady .
+%mor:	coord|and pro:sub|he part|meet-PASTP det:art|a n|lady .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	she meet a lady [*] .
+%mor:	pro:sub|she v|meet det:art|a n|lady .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	do you wanna add anything else ?
+%mor:	mod|do pro:per|you v|want~inf|to v|add pro:indef|anything post|else
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|6|PQ 8|3|PUNCT
+*CHI:	[^ sound effect like he is pretending to eat] &~n no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&-uh I wanna call this story <&~he> [/?] I_was_going_to_school .
+%mor:	pro:sub|I v|want~inf|to v|call det:dem|this n|story
+	n:prop|I_was_going_to_school .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|6|APP 8|2|PUNCT
+@G:	Aliens
+*CHI:	The_Alien_Man .
+%mor:	n:prop|The_Alien_Man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay I'm ready .
+%mor:	co|okay pro:sub|I~cop|be&1S adj|ready .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	Alien_Man .
+%mor:	n:prop|Alien_Man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	is that the title of your story ?
+%mor:	cop|be&3S comp|that det:art|the n|title prep|of det:poss|your
+	n|story ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*CHI:	no that's that's the name of it .
+%mor:	co|no pro:dem|that~cop|be&3S pro:dem|that~cop|be&3S det:art|the
+	n|name prep|of pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*INV:	that's the name of your story .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|name prep|of det:poss|your
+	n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay well let's hear it .
+%mor:	co|okay co|well v|let~pro:obj|us v|hear pro:per|it .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*CHI:	one day &-um the &-uh +...
+%mor:	det:num|one n|day det:art|the +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|DET 4|2|PUNCT
+*CHI:	<these guys are called> [/?] I'll call them um &-uh uh +...
+%mor:	pro:sub|I~mod|will v|call pro:obj|them n|um n|uh +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	hm:: &-uh &-uh maybe we can call this guy what it he was name in
+	was in the dragon story .
+%mor:	co|hm adv|maybe pro:sub|we mod|can v|call det:dem|this n|guy
+	pro:int|what pro:per|it pro:sub|he cop|be&PAST&13S n|name prep|in
+	cop|be&PAST&13S prep|in det:art|the n|dragon n|story .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|SUBJ 11|7|CMOD 12|11|PRED 13|12|NJCT 14|13|POBJ 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|5|PUNCT
+*INV:	well what's his name then ?
+%mor:	co|well pro:int|what~cop|be&3S det:poss|his n|name adv:tem|then ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|OM 7|3|PUNCT
+*CHI:	ackkkk@c I don't know .
+%mor:	chi|ackkkk pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	but you can do it .
+%mor:	conj|but pro:per|you mod|can mod|do pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	well can you think of anything else to put in your story ?
+%mor:	co|well mod|can pro:per|you v|think prep|of pro:indef|anything
+	post|else inf|to v|put&ZERO prep|in det:poss|your n|story ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|PQ 8|9|INF
+	9|4|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*CHI:	&-um this aliens are going to be called Wondo .
+%mor:	det:dem|this n|alien-PL aux|be&PRES part|go-PRESP inf|to aux|be
+	part|call-PASTP n:prop|Wondo .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|AUX 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*CHI:	uh I mean &-uh &-uh I don't know what I can call them .
+%mor:	n|uh pro:sub|I v|mean pro:sub|I mod|do~neg|not v|know pro:int|what
+	pro:sub|I mod|can v|call pro:obj|them .
+%gra:	1|7|SUBJ 2|3|SUBJ 3|1|CMOD 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|11|OBJ 13|7|PUNCT
+*CHI:	I wanted to have a cool name like +...
+%mor:	pro:sub|I v|want-PAST inf|to v|have det:art|a adj|cool n|name
+	prep|like +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|2|PUNCT
+*CHI:	let's call him chase .
+%mor:	v|let~pro:obj|us v|call pro:obj|him n|chase .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|SUBJ 5|3|OBJ 6|1|PUNCT
+*CHI:	and <this is &-um called &-uh Max &~ma> [*] [/?] this guy is called
+	Max .
+%mor:	coord|and det:dem|this n|guy aux|be&3S part|call-PASTP n:prop|Max .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	this is called Lindover [*] .
+%mor:	pro:dem|this aux|be&3S part|call-PASTP n:prop|Lindover .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	and now [/] &~y now you can &-uh now you can you can read it read
+	it now .
+%mor:	coord|and adv:tem|now pro:per|you mod|can adv:tem|now pro:per|you
+	mod|can pro:per|you mod|can v|read&ZERO pro:per|it v|read&ZERO
+	pro:per|it adv:tem|now .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|10|SUBJ 7|10|AUX 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|10|OBJ 12|10|COMP 13|14|SUBJ 14|12|JCT 15|5|PUNCT
+*INV:	<uhhuh> [<] .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	go ahead .
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	no I'm waiting for you to make up a story .
+%mor:	co|no pro:sub|I~aux|be&1S part|wait-PRESP prep|for pro:per|you
+	inf|to v|make adv|up det:art|a n|story .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|INF 8|4|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*CHI:	and I just maked it up .
+%mor:	coord|and pro:sub|I adv|just part|make-PASTP pro:per|it adv|up .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*INV:	that was are you is there can you think of anything else to put in
+	your story ?
+%mor:	pro:dem|that cop|be&PAST&13S aux|be&PRES pro:per|you cop|be&3S
+	adv|there mod|can pro:per|you v|think prep|of pro:indef|anything
+	post|else inf|to v|put&ZERO prep|in det:poss|your n|story ?
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|9|JCT 6|5|JCT 7|9|AUX 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|10|POBJ 12|11|PQ 13|14|INF 14|9|XJCT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|9|PUNCT
+*CHI:	they were some <aliens octopuses aliens &~oct> [/?] octopus aliens
+	there [*] .
+%mor:	pro:sub|they cop|be&PAST qn|some n|octopus n|alien-PL adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|PRED 6|5|NJCT 7|2|PUNCT
+*CHI:	and they had a hundred of legs [*] .
+%mor:	coord|and pro:sub|they v|have&PAST det:art|a det:num|hundred
+	prep|of n|leg-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	and they walked in the grass .
+%mor:	coord|and pro:sub|they v|walk-PAST prep|in det:art|the n|grass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and they wanted to see them .
+%mor:	coord|and pro:sub|they v|want-PAST inf|to v|see pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*CHI:	uh let me see what happens .
+%mor:	n|uh v|let&ZERO pro:obj|me v|see pro:int|what v|happen-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|2|PUNCT
+*CHI:	now what is happening to xxx ?
+%mor:	adv:tem|now pro:int|what aux|be&3S part|happen-PRESP prep|to ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*INV:	is there anything else you wanna add to your story ?
+%mor:	cop|be&3S adv|there pro:indef|anything post|else pro:per|you
+	v|want~inf|to v|add prep|to det:poss|your n|story ?
+%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|3|PQ 5|6|SUBJ 6|3|CMOD 7|8|INF 8|6|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+*CHI:	<no> [/?] that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

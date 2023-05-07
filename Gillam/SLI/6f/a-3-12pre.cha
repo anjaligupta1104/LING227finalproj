@@ -1,0 +1,145 @@
+@UTF8
+@PID:	11312/c-00033732-1
+@Window:	554_167_591_1178_-1_-1_1262_0_1262_0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;09.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	02-JUN-2004
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 9/3/1997
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	&~mm [/?] they come home from school .
+%mor:	pro:sub|they v|come adv|home prep|from n|school .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	and their [/] their ask their mom to go <with> [/?] to Mcdonalds .
+%mor:	coord|and det:poss|their v|ask det:poss|their n|mom inf|to v|go
+	prep|to n:prop|Mcdonalds .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|XMOD 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*CHI:	<and> [/?] their had a hamburger french_fry and a drink .
+%mor:	det:poss|their part|have&PASTP det:art|a n|hamburger n|french_fry
+	coord|and det:art|a n|drink .
+%gra:	1|2|DET 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|2|PUNCT
+*CHI:	<and and> [/?] that other girl have icecream french_fries and
+	chicken .
+%mor:	comp|that qn|other n|girl v|have n|+n|ice+n|cream n|french_fry-PL
+	coord|and n|chicken .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|4|PUNCT
+*CHI:	<and> [/?] her mom have salad and a drink a milkshake <and a and a
+	&-um and a and a> [/?] and a <&~sa> [/?] salad <and and a> [/?] and
+	a tomato <and and> [/?] and a drink .
+%mor:	det:poss|her n|mom v|have n|salad coord|and det:art|a n|drink
+	det:art|a n|+n|milk+n|shake coord|and det:art|a n|salad coord|and
+	det:art|a n|tomato coord|and det:art|a n|drink .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|9|DET
+	9|7|OBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|9|CONJ 14|15|DET 15|13|COORD
+	16|9|CONJ 17|18|DET 18|16|COORD 19|3|PUNCT
+*CHI:	<&~mm: &~mm: and the and and they're and and> [/?] their have
+	french_fries and salad and a drink and chicken and <&~p> [/?] pizza
+	<and and> [/?] and a drink <and and and> [/?] and a glass of water
+	<and a &~s> [/?] and a bag of french_fries and a chicken nugget and a
+	pizza and a drink and a hamburger and a salad <and a and and> [/?]
+	and a pizza .
+%mor:	det:poss|their v|have n|french_fry-PL coord|and n|salad coord|and
+	det:art|a n|drink coord|and n|chicken coord|and n|pizza coord|and
+	det:art|a n|drink coord|and det:art|a n|glass prep|of n|water
+	coord|and det:art|a n|bag prep|of n|french_fry-PL coord|and
+	det:art|a n|chicken n|nugget coord|and det:art|a n|pizza coord|and
+	det:art|a n|drink coord|and det:art|a n|hamburger coord|and
+	det:art|a n|salad coord|and det:art|a n|pizza .
+%gra:	1|2|DET 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|4|COORD 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|CONJ 10|9|COORD 11|8|CONJ 12|11|COORD 13|2|CONJ 14|15|DET
+	15|13|COORD 16|15|CONJ 17|18|DET 18|16|COORD 19|18|NJCT 20|19|POBJ 21|2|CONJ
+	22|23|DET 23|21|COORD 24|23|NJCT 25|24|POBJ 26|23|CONJ 27|29|DET 28|29|MOD
+	29|26|COORD 30|2|CONJ 31|32|DET 32|30|COORD 33|32|CONJ 34|35|DET
+	35|33|COORD 36|2|CONJ 37|38|DET 38|36|COORD 39|38|CONJ 40|41|DET 41|39|COORD
+	42|2|CONJ 43|44|DET 44|42|COORD 45|2|PUNCT
+@G:	LateForSchool
+*CHI:	<&~mm: &~mm:> [/?] that one .
+%mor:	det:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	how does this story start ?
+%mor:	pro:int|how mod|do&3S det:dem|this n|story n|start ?
+%gra:	1|5|JCT 2|5|AUX 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	<&~r right> [/?] first &~mm +/.
+%mor:	adv|first +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	use your words to tell me the story that goes with these pictures
+	that you see here .
+%mor:	v|use det:poss|your n|word-PL inf|to v|tell pro:obj|me det:art|the
+	n|story pro:rel|that v|go-3S prep|with det:dem|these n|picture-PL
+	pro:rel|that pro:per|you v|see adv|here .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|INF 5|1|COMP 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|16|LINK 15|16|SUBJ
+	16|13|CMOD 17|16|JCT 18|1|PUNCT
+*INV:	how does this start ?
+%mor:	pro:int|how mod|do&3S det:dem|this n|start ?
+%gra:	1|4|JCT 2|4|AUX 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*CHI:	<the she> [/?] him getting out_of bed .
+%mor:	pro:obj|him part|get-PRESP prep|out_of n|bed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	<then &~sh> [/?] then him putting milk and cereal in there .
+%mor:	adv:tem|then pro:obj|him part|put-PRESP n|milk coord|and n|cereal
+	prep|in n|there .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	him broke him shoetie [: shoelace] [* s:r] .
+%mor:	pro:obj|him v|break&PAST pro:obj|him n|+n|shoe+n|lace .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|2|PUNCT
+*CHI:	the bus and the school .
+%mor:	det:art|the n|bus coord|and det:art|the n|school .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+@G:	Aliens
+*CHI:	&~mm [/?] a alien saw <holding him> [/?] holding walking with
+	<getting out> [/] getting out .
+%mor:	det:art|a n|alien v|see&PAST part|hold-PRESP part|walk-PRESP
+	prep|with part|get-PRESP adv|out .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|COMP 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|3|PUNCT
+*CHI:	two children +...
+%mor:	det:num|two n|child&PL +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	there was <a &~al> [/?] two aliens that [/] that their wanna see .
+%mor:	pro:exist|there cop|be&PAST&13S det:num|two n|alien-PL comp|that
+	det:poss|their v|want~inf|to co|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|7|LINK 6|7|DET 7|4|CMOD 8|9|INF
+	9|7|COMP 10|2|PUNCT
+*CHI:	<that &~th> [/?] that their like it .
+%mor:	comp|that det:poss|their v|like pro:per|it .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	that their [% ew:they] <&~l> [/?] love aliens <because> [/?] except
+	for him .
+%mor:	comp|that det:poss|their n|love n|alien-PL prep|except prep|for
+	pro:obj|him .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|5|JCT 7|6|POBJ
+	8|4|PUNCT
+*CHI:	and [/] and <alien aliens> [/?] aliens are not nice .
+%mor:	coord|and n|alien-PL cop|be&PRES neg|not adj|nice .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*CHI:	but a alien dog 0is right there .
+%mor:	conj|but det:art|a n|alien n|dog 0cop|be&3S adv|right n|there .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*CHI:	<but> [/?] and not a real alien dog and this one and this one and
+	this one and that one .
+%mor:	coord|and neg|not det:art|a adj|real n|alien n|dog coord|and
+	det:dem|this pro:indef|one coord|and det:dem|this pro:indef|one
+	coord|and det:dem|this pro:indef|one coord|and det:dem|that
+	pro:indef|one .
+%gra:	1|6|LINK 2|6|NEG 3|6|DET 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|CONJ 8|9|DET
+	9|7|COORD 10|6|CONJ 11|12|DET 12|10|COORD 13|6|CONJ 14|15|DET 15|13|COORD
+	16|6|CONJ 17|18|DET 18|16|COORD 19|6|PUNCT
+*CHI:	<&~sh> [/?] two children <not leaving> [/?] that leaving .
+%mor:	det:num|two n|child&PL pro:rel|that part|leave-PRESP .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|2|PUNCT
+*CHI:	<that space alien> [/] that space alien 0is going back home .
+%mor:	det:dem|that n|space n|alien 0cop|be&3S part|go-PRESP adv|back
+	adv|home .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|5|JCT 8|4|PUNCT
+@End

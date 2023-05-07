@@ -1,0 +1,138 @@
+@UTF8
+@PID:	11312/c-00034200-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;02.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	19-MAR-2002
+@Transcriber:	Rebecca Garcia
+@Comment:	DOB = 1/20/1995
+@Comment:	Examiner = NA
+@Comment:	Ethnicity = Hispanic American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	on tuesday &-um the kids came back from school .
+%mor:	prep|on n|tuesday det:art|the n|kid-PL v|come&PAST adv|back
+	prep|from n|school .
+%gra:	1|5|JCT 2|1|POBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*CHI:	they told their mom .
+%mor:	pro:sub|they v|tell&PAST det:poss|their n|mom .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	then they shout can we go to Mcdonalds .
+%mor:	adv:tem|then pro:sub|they v|shout n|can pro:sub|we v|go prep|to
+	n:prop|Mcdonalds .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	and +...
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	remember more ?
+%mor:	v|remember adv|more ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	&-um they forgot the money .
+%mor:	pro:sub|they v|forget&PAST det:art|the n|money .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and <um the> [/?] the girl wanted <&~choc> [/?] chocolate shake .
+%mor:	coord|and det:art|the n|girl v|want-PAST n|chocolate n|shake .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*CHI:	<the boy um> [/?] the girl wanted a [/] a vanilla <icecream> [/?]
+	cone icecream .
+%mor:	det:art|the n|girl v|want-PAST det:art|a n|vanilla n|cone
+	n|+n|ice+n|cream .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*CHI:	that's all I can remember .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I mod|can v|remember .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|2|PUNCT
+*INV:	wait wait wait .
+%mor:	co|wait co|wait co|wait .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*CHI:	and <then they raced> [/?] then they went in the car .
+%mor:	coord|and adv:tem|then pro:sub|they v|go&PAST prep|in det:art|the
+	n|car .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	and then <they um> [/?] it cost &-um twelve dollars and fifty cents
+	.
+%mor:	coord|and adv:tem|then pro:per|it v|cost&ZERO det:num|twelve
+	n|dollar-PL coord|and det:num|fifty n|cent-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|CONJ 8|9|QUANT
+	9|7|COORD 10|4|PUNCT
+@G:	LateForSchool
+*CHI:	the kid woke up .
+%mor:	det:art|the n|kid v|wake&PAST adv|up .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	then he [/] he saw the clock .
+%mor:	adv:tem|then pro:sub|he v|see&PAST det:art|the n|clock .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	<then he uh> [/?] then he spilled the milk .
+%mor:	adv:tem|then pro:sub|he v|spill-PAST det:art|the n|milk .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and then he tied his shoe .
+%mor:	coord|and adv:tem|then pro:sub|he v|tie-PAST det:poss|his n|shoe .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	he missed the bus and gotta go back home .
+%mor:	pro:sub|he v|miss-PAST det:art|the n|bus coord|and mod|got~inf|to
+	v|go adv|back adv|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|8|AUX 7|8|INF 8|5|COORD
+	9|8|JCT 10|8|JCT 11|2|PUNCT
+@G:	Aliens
+*CHI:	there's octopuses .
+%mor:	pro:exist|there~cop|be&3S n|octopus-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	and there's the girl and a guy .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|the n|girl coord|and
+	det:art|a n|guy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|PUNCT
+*CHI:	there's a octopus in the spaceship .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|octopus prep|in det:art|the
+	n|+n|space+n|ship .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	and there's a dog .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|a n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*CHI:	there are trees .
+%mor:	adv|there cop|be&PRES n|tree-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	then there's a table .
+%mor:	adv:tem|then pro:exist|there~cop|be&3S det:art|a n|table .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*CHI:	and then there &~mm [/?] bushes .
+%mor:	coord|and adv:tem|then adv|there n|bush-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+*CHI:	then there's clouds .
+%mor:	adv:tem|then pro:exist|there~cop|be&3S n|cloud-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	can you think of anything else to put in your story ?
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything post|else
+	inf|to v|put&ZERO prep|in det:poss|your n|story ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|PQ 7|8|INF 8|3|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no that's all ?
+%mor:	co|no pro:dem|that~cop|be&3S pro:indef|all ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	the grass .
+%mor:	det:art|the n|grass .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	the grass okay .
+%mor:	det:art|the n|grass adj|okay .
+%gra:	1|2|DET 2|0|INCROOT 3|2|POSTMOD 4|2|PUNCT
+*INV:	anything else to put <in your story> [>] ?
+%mor:	pro:indef|anything post|else inf|to v|put&ZERO prep|in
+	det:poss|your n|story ?
+%gra:	1|4|SUBJ 2|1|PQ 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	<the clouds> [<] [/] the clouds &*INV:repeats the branches leafs
+	people octopuses xxx octopuses saying bye .
+%mor:	det:art|the n|cloud-PL det:art|the n|branch-PL v|leaf-3S
+	n|person&PL n|octopus-PL n|octopus-PL part|say-PRESP co|bye .
+%gra:	1|2|DET 2|5|SUBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|8|XMOD 10|9|OBJ 11|5|PUNCT
+@End

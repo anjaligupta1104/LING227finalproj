@@ -1,0 +1,199 @@
+@UTF8
+@PID:	11312/c-00033778-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;05.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	18-NOV-2002
+@Transcriber:	Rebecca Garcia
+@Comment:	DOB = 7/2/1995
+@Comment:	Grade = 1
+@Comment:	Examiner = NA
+@Comment:	Allie Baron
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*INV:	tell me the story .
+%mor:	v|tell pro:obj|me det:art|the n|story .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	what happened to the boy and the girl in then story ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl prep|in adv:tem|then n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|JCT 11|9|POBJ 12|2|PUNCT
+*CHI:	they did good .
+%mor:	pro:sub|they v|do&PAST adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and they xxx .
+%mor:	coord|and pro:sub|they .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	john remember we talked about going to Mcdonalds .
+%mor:	n|john v|remember pro:sub|we v|talk-PAST adv|about part|go-PRESP
+	prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+*INV:	tell me what happened to the boy and <the girl> [>] in that story .
+%mor:	v|tell pro:obj|me pro:int|what v|happen-PAST prep|to det:art|the
+	n|boy coord|and det:art|the n|girl prep|in det:dem|that n|story .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|LINK 4|1|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|10|DET 10|8|COORD 11|10|NJCT 12|13|DET 13|11|POBJ 14|1|PUNCT
+*CHI:	<&-uh> [<] .
+*CHI:	they have fun .
+%mor:	pro:sub|they v|have n|fun .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what else do you remember ?
+%mor:	pro:int|what post|else mod|do pro:per|you v|remember ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	they did great .
+%mor:	pro:sub|they v|do&PAST adj|great .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	they did great ?
+%mor:	pro:sub|they v|do&PAST adj|great ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	do you remember anything else ?
+%mor:	mod|do pro:per|you v|remember pro:indef|anything post|else ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|PUNCT
+*CHI:	I don't know +...
+%mor:	pro:sub|I mod|do~neg|not v|know +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	LateForSchool
+*CHI:	first they [/] they put on their pajamas .
+%mor:	adv|first pro:sub|they v|put&ZERO prep|on det:poss|their n|pajamas
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	they got dressed .
+%mor:	pro:sub|they aux|get&PAST part|dress-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	and then they spilled their milk .
+%mor:	coord|and adv:tem|then pro:sub|they v|spill-PAST det:poss|their
+	n|milk .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	what happened ?
+%mor:	pro:int|what v|happen-PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	what happened here ?
+%mor:	pro:int|what v|happen-PAST adv|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	they spilled their milk .
+%mor:	pro:sub|they v|spill-PAST det:poss|their n|milk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	keep going .
+%mor:	v|keep part|go-PRESP .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*CHI:	and then they tied their shoe .
+%mor:	coord|and adv:tem|then pro:sub|they v|tie-PAST det:poss|their
+	n|shoe .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and then they waited <and went> [/] and went all the way to the bus
+	.
+%mor:	coord|and adv:tem|then pro:sub|they v|wait-PAST coord|and v|go&PAST
+	qn|all det:art|the n|way prep|to det:art|the n|bus .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|9|QUANT 8|9|DET
+	9|6|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*CHI:	and then they got packed up .
+%mor:	coord|and adv:tem|then pro:sub|they aux|get&PAST part|pack-PASTP
+	adv|up .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	and then they hadta get their coat .
+%mor:	coord|and adv:tem|then pro:sub|they mod|have&PAST~inf|to v|get
+	det:poss|their n|coat .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*CHI:	and they clapped [% child clapping] .
+%mor:	coord|and pro:sub|they v|clap-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@G:	Aliens
+*CHI:	&-uh it's windy xxx .
+%mor:	pro:per|it~cop|be&3S adj|wind&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	<they're she's> [/?] she's sad .
+%mor:	pro:sub|she~cop|be&3S adj|sad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	why ?
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	tell me the story .
+%mor:	v|tell pro:obj|me det:art|the n|story .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	is <when they> [/] when they caught fire .
+%mor:	cop|be&3S conj|when pro:sub|they v|catch&PAST n|fire .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|4|OBJ 6|1|PUNCT
+*CHI:	would you please make sure when we get something okay ?
+%mor:	mod|will&COND pro:per|you co|please v|make adj|sure conj|when
+	pro:sub|we v|get pro:indef|something adj|okay ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|COM 4|0|ROOT 5|4|PRED 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|PRED 10|9|POSTMOD 11|4|PUNCT
+*INV:	hey john tell you what .
+%mor:	co|hey n|john v|tell pro:per|you pro:int|what .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+*INV:	take a look at this picture again .
+%mor:	v|take det:art|a v|look prep|at det:dem|this n|picture
+	adv:tem|again .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|6|JCT 8|1|PUNCT
+*INV:	tell me the story that goes with it .
+%mor:	v|tell pro:obj|me det:art|the n|story pro:rel|that v|go-3S
+	prep|with pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|6|LINK 6|4|CMOD 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*INV:	you make one up to go with this picture .
+%mor:	pro:per|you v|make det:num|one adv|up inf|to v|go prep|with
+	det:dem|this n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|INF 6|2|XJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*INV:	and when we're all done we'll listen to the tape a little bit .
+%mor:	coord|and conj|when pro:sub|we~aux|be&PRES post|all part|do&PASTP
+	pro:sub|we~mod|will v|listen prep|to det:art|the n|tape det:art|a
+	adj|little n|bit .
+%gra:	1|9|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|PQ 6|9|CJCT 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|15|DET 14|15|MOD 15|9|JCT
+	16|9|PUNCT
+*INV:	okay do your best job on this story .
+%mor:	co|okay v|do det:poss|your adj|good&SP n|job prep|on det:dem|this
+	n|story .
+%gra:	1|2|COM 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*INV:	try to tell your best story .
+%mor:	v|try inf|to v|tell det:poss|your adj|good&SP n|story .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|6|DET 5|6|MOD 6|3|OBJ 7|1|PUNCT
+*CHI:	then are we can play ?
+%mor:	adv:tem|then cop|be&PRES pro:sub|we mod|can v|play ?
+%gra:	1|2|JCT 2|5|CJCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	we're almost done .
+%mor:	pro:sub|we~aux|be&PRES adv|almost part|do&PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	&-uh they pushed in .
+%mor:	pro:sub|they v|push-PAST adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	and then they came out .
+%mor:	coord|and adv:tem|then pro:sub|they v|come&PAST adv|out .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	that's what they did .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|they v|do&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|2|PUNCT
+*CHI:	okay are we done yet ?
+%mor:	co|okay cop|be&PRES pro:sub|we part|do&PASTP adv:tem|yet ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|2|PUNCT
+@End

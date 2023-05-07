@@ -1,0 +1,147 @@
+@UTF8
+@PID:	11312/c-00033970-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|5;07.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	05-MAR-2002
+@Transcriber:	Rebecca Garcia
+@Comment:	DOB = 8/9/1996
+@Comment:	Examiner = Joan Kaderavek
+@Comment:	Ethnicity = European American
+@Comment:	Grade = K
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	Lisa's mom picked up the kids and said we're going out tonight .
+%mor:	adj|Lisa&dn-POSS n|mom v|pick-PAST prep|up det:art|the n|kid-PL
+	coord|and v|say&PAST pro:sub|we~aux|be&PRES part|go-PRESP adv|out
+	adv:tem|tonight .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|11|SUBJ 10|11|AUX 11|8|COMP 12|13|JCT 13|11|JCT 14|3|PUNCT
+*CHI:	where do you wanna go ?
+%mor:	pro:int|where mod|do pro:per|you v|want~inf|to v|go ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*CHI:	Lisa and Jake said Mcdonalds .
+%mor:	n:prop|Lisa coord|and n:prop|Jake v|say&PAST n:prop|Mcdonalds .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	so they went to Mcdonalds .
+%mor:	co|so pro:sub|they v|go&PAST prep|to n:prop|Mcdonalds .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	but Lisa said she didn't know .
+%mor:	conj|but n:prop|Lisa v|say&PAST pro:sub|she mod|do&PAST~neg|not
+	v|know .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|COMP 8|3|PUNCT
+*CHI:	Jake and mom knew .
+%mor:	n:prop|Jake coord|and n|mom v|know&PAST .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|PUNCT
+*CHI:	Jake ordered <a cheese &~sa> [/?] a cheese sandwich and french
+	fries and <a a &~ch> [/?] a chocolate shake .
+%mor:	n:prop|Jake v|order-PAST det:art|a n|cheese n|sandwich coord|and
+	adj|french n|fry-PL coord|and det:art|a n|chocolate n|shake .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|5|CONJ 10|12|DET 11|12|MOD 12|9|COORD 13|2|PUNCT
+*CHI:	mom ordered a salad .
+%mor:	n|mom v|order-PAST det:art|a n|salad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	um what was her name again ?
+%mor:	n|um pro:int|what cop|be&PAST&13S det:poss|her n|name adv:tem|again
+	?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|JCT 7|3|PUNCT
+*CHI:	Lisa ordered a cheese sandwich and a diet coke <and a> [/] and a
+	vanilla icecream cone .
+%mor:	n:prop|Lisa v|order-PAST det:art|a n|cheese n|sandwich coord|and
+	det:art|a n|diet n|coke coord|and det:art|a n|vanilla
+	n|+n|ice+n|cream n|cone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|CONJ 7|9|DET 8|9|MOD
+	9|6|COORD 10|5|CONJ 11|14|DET 12|14|MOD 13|14|MOD 14|10|COORD 15|2|PUNCT
+*CHI:	mom reached for her purse .
+%mor:	n|mom v|reach-PAST prep|for det:poss|her n|purse .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	but it wasn't there .
+%mor:	conj|but pro:per|it cop|be&PAST&13S~neg|not n|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+@G:	LateForSchool
+*CHI:	Jake got out_of bed .
+%mor:	n:prop|Jake v|get&PAST prep|out_of n|bed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	and he poured some milk .
+%mor:	coord|and pro:sub|he v|pour-PAST qn|some n|milk .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	and then he looked at the time .
+%mor:	coord|and adv:tem|then pro:sub|he v|look-PAST prep|at det:art|the
+	n|time .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	and he accidently spilled his milk all over the table .
+%mor:	coord|and pro:sub|he adj|accident&dn-LY v|spill-PAST det:poss|his
+	n|milk adv|all prep|over det:art|the n|table .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|JCT 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*CHI:	and then he tried to tie his shoe .
+%mor:	coord|and adv:tem|then pro:sub|he v|try-PAST inf|to v|tie
+	det:poss|his n|shoe .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	but it broke .
+%mor:	conj|but pro:per|it adj|broke .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*CHI:	and then he ran for the bus .
+%mor:	coord|and adv:tem|then pro:sub|he v|run&PAST prep|for det:art|the
+	n|bus .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	but it already passed .
+%mor:	conj|but pro:per|it adv|already part|pass-PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	and then he hadta walk to school .
+%mor:	coord|and adv:tem|then pro:sub|he mod|have&PAST~inf|to v|walk
+	prep|to n|school .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*CHI:	and the teacher said he was late .
+%mor:	coord|and det:art|the n|teach&dv-AGT v|say&PAST pro:sub|he
+	cop|be&PAST&13S adv|late .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|PRED 8|4|PUNCT
+@G:	Aliens
+*CHI:	Daniel and Michelle looked over the bushes .
+%mor:	n:prop|Daniel coord|and n:prop|Michelle v|look-PAST prep|over
+	det:art|the n|bush-PL .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	they saw a ship and out came four aliens .
+%mor:	pro:sub|they v|see&PAST det:art|a n|ship coord|and adv|out
+	v|come&PAST det:num|four n|alien-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|6|CPOBJ
+	8|9|QUANT 9|7|OBJ 10|2|PUNCT
+*CHI:	the aliens walked out .
+%mor:	det:art|the n|alien-PL v|walk-PAST adv|out .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and Michelle ran .
+%mor:	coord|and n:prop|Michelle v|run&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	but Daniel <couldn't> [/?] said stop .
+%mor:	conj|but n:prop|Daniel v|say&PAST n|stop .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	they ran back home and told their mom and dad .
+%mor:	pro:sub|they v|run&PAST adv|back adv|home coord|and v|tell&PAST
+	det:poss|their n|mom coord|and n|dad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|9|COORD 11|2|PUNCT
+*CHI:	but their mom and dad didn't believe it .
+%mor:	conj|but det:poss|their n|mom coord|and n|dad mod|do&PAST~neg|not
+	v|believe pro:per|it .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|CONJ 5|4|COORD 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*CHI:	&-um and then the family falled behind the bushes [*] .
+%mor:	coord|and adv:tem|then det:art|the n|family part|fall-PASTP
+	prep|behind det:art|the n|bush-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|XMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	and they did see that family and the cat .
+%mor:	coord|and pro:sub|they mod|do&PAST v|see det:dem|that n|family
+	coord|and det:art|the n|cat .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|4|PUNCT
+@End

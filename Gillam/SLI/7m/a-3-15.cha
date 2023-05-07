@@ -1,0 +1,177 @@
+@UTF8
+@PID:	11312/c-00033795-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;09.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	02-JUN-2004
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 8/18/1996
+@Comment:	Ethnicity = Hispanic American
+@Comment:	Impairment = yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	[^ sigh] her mom asked her <&~wh> [/?] what <&~t> [/?] to eat .
+%mor:	det:poss|her n|mom v|ask-PAST pro:obj|her pro:int|what inf|to v|eat
+	.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|INF 7|3|COMP 8|3|PUNCT
+*CHI:	&-um the two sisters said Mcdonalds .
+%mor:	det:art|the det:num|two n|sister-PL v|say&PAST n:prop|Mcdonalds .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	so they drove to Mcdonalds <the nearest um> [/?] the nearest one .
+%mor:	co|so pro:sub|they v|drive&PAST prep|to n:prop|Mcdonalds
+	det:art|the prep|nearest pro:indef|one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|DET 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	and they asked them what they wanted .
+%mor:	coord|and pro:sub|they v|ask-PAST pro:obj|them pro:int|what
+	pro:sub|they v|want-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|COMP 8|3|PUNCT
+*CHI:	but I forgot what they wanted &=laughs .
+%mor:	conj|but pro:sub|I v|forget&PAST pro:int|what pro:sub|they
+	v|want-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+*CHI:	<and um> [/?] and she forgot her money at [/] at her house .
+%mor:	coord|and pro:sub|she v|forget&PAST det:poss|her n|money prep|at
+	det:poss|her n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	<and> [/?] that's all I remember .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I v|remember .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|2|PUNCT
+@G:	LateForSchool
+*CHI:	I think I'm gonna call it that he can't tie his shoes .
+%mor:	pro:sub|I v|think pro:sub|I~aux|be&1S part|go&PRESP~inf|to v|call
+	pro:per|it comp|that pro:sub|he mod|can~neg|not v|tie det:poss|his
+	n|shoe-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|INF 7|5|COMP 8|7|OBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|7|COMP 14|15|DET 15|13|OBJ
+	16|2|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	first he wakes up in the morning knowing that it's school time .
+%mor:	adv|first pro:sub|he v|wake-3S prep|up prep|in det:art|the
+	n|morning part|know-PRESP comp|that pro:per|it~cop|be&3S n|school
+	n|time .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|XJCT
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|13|MOD 13|11|PRED 14|3|PUNCT
+*CHI:	and he's very sleepy .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|very adj|sleep&dn-Y .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	<and> [/?] he doesn't look 0at what he's <&~d> [/?] doing .
+%mor:	pro:sub|he mod|do&3S~neg|not v|look 0prep|at pro:int|what
+	pro:sub|he~aux|be&3S part|do-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CPOBJ 10|4|PUNCT
+*CHI:	<and> [/?] he's pouring it in a bowl .
+%mor:	pro:sub|he~aux|be&3S part|pour-PRESP pro:per|it prep|in det:art|a
+	n|bowl .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	<and> [/?] he has the cereal right there .
+%mor:	pro:sub|he v|have&3S det:art|the n|cereal adv|right n|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|JCT 6|2|JCT 7|2|PUNCT
+*CHI:	<and> [/?] he's spilling a_lot .
+%mor:	pro:sub|he~aux|be&3S part|spill-PRESP adv|a_lot .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	<and> [/?] then right here he ties his shoe .
+%mor:	adv:tem|then adv|right n|here pro:sub|he v|tie-3S det:poss|his
+	n|shoe .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|5|SUBJ 5|3|CMOD 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	<and> [/?] he's looking straight not [/] not at it .
+%mor:	pro:sub|he~aux|be&3S part|look-PRESP adv|straight neg|not prep|at
+	pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|NEG 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	<and> [/?] he pulls the shoelace off .
+%mor:	pro:sub|he v|pull-3S det:art|the n|+n|shoe+n|lace adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*CHI:	<and> [/?] then he misses his bus .
+%mor:	adv:tem|then pro:sub|he v|miss-3S det:poss|his n|bus .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	<and> [/?] his teacher gets mad at him .
+%mor:	det:poss|his n|teach&dv-AGT v|get-3S adj|mad prep|at pro:obj|him .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|3|PUNCT
+@G:	Aliens
+*CHI:	the first thing that happened is &-uh when they were walking I
+	think by the park something dropped by .
+%mor:	det:art|the adj|first n|thing pro:rel|that v|happen-PAST aux|be&3S
+	conj|when pro:sub|they aux|be&PAST part|walk-PRESP pro:sub|I v|think
+	prep|by det:art|the n|park pro:indef|something v|drop-PAST adv|by .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|5|LINK 5|3|CMOD 6|12|AUX 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|12|CJCT 11|12|SUBJ 12|0|ROOT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|17|SUBJ 17|12|CJCT 18|17|JCT 19|12|PUNCT
+*CHI:	and it scared the boy .
+%mor:	coord|and pro:per|it v|scare-PAST det:art|the n|boy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	<and> [/?] the girl was happy .
+%mor:	det:art|the n|girl cop|be&PAST&13S adj|happy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	<and> [/?] she was running to it .
+%mor:	pro:sub|she aux|be&PAST&13S part|run-PRESP prep|to pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<and> [/?] the ship said something on the top and had stuff gashing
+	[: gushing] [* p:w] through it .
+%mor:	det:art|the n|ship v|say&PAST pro:indef|something prep|on
+	det:art|the n|top coord|and v|have&PAST n|stuff part|gush-PRESP
+	prep|through pro:per|it .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|CONJ
+	9|8|COORD 10|9|OBJ 11|10|XMOD 12|11|JCT 13|12|POBJ 14|3|PUNCT
+*CHI:	there was a whole bunch of grass .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adj|whole n|bunch prep|of
+	n|grass .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*CHI:	and there's like I they're aliens .
+%mor:	coord|and pro:exist|there~cop|be&3S conj|like pro:sub|I
+	pro:sub|they~cop|be&PRES n|alien-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|SUBJ 7|3|CJCT 8|7|PRED
+	9|3|PUNCT
+*CHI:	octopuses they have long how many eight legs ?
+%mor:	n|octopus-PL pro:sub|they v|have adv|long pro:int|how qn|many
+	det:num|eight n|leg-PL ?
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|3|JCT 5|8|LINK 6|8|QUANT 7|8|QUANT
+	8|3|JCT 9|1|PUNCT
+*CHI:	one two three four five six seven eight .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five
+	det:num|six det:num|seven det:num|eight .
+%gra:	1|7|LINK 2|4|DATE 3|4|DATE 4|5|DATE 5|6|DATE 6|7|DATE 7|8|DATE 8|0|ROOT
+	9|8|PUNCT
+*CHI:	they have eight legs .
+%mor:	pro:sub|they v|have det:num|eight n|leg-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	and the dog has four legs .
+%mor:	coord|and det:art|the n|dog v|have&3S det:num|four n|leg-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*CHI:	<and the other one> [/?] the other people they're just walking
+	along .
+%mor:	det:art|the qn|other n|person&PL pro:sub|they~aux|be&PRES adv|just
+	part|walk-PRESP adv|along .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|3|CMOD 8|7|JCT
+	9|3|PUNCT
+*CHI:	<and> [/?] then she tries to pet the dog .
+%mor:	adv:tem|then pro:sub|she v|try-3S inf|to v|pet det:art|the n|dog .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	I think .
+%mor:	pro:sub|I v|think .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	<and &-um the> [/?] it's a sunny hot day .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|sun&dn-Y adj|hot n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+*CHI:	<I think> [/?] the &-um octopuses I think &-um are gonna have a
+	picnic .
+%mor:	det:art|the n|octopus-PL pro:sub|I v|think aux|be&PRES
+	part|go&PRESP~inf|to v|have det:art|a n|picnic .
+%gra:	1|2|DET 2|6|SUBJ 3|4|SUBJ 4|2|CMOD 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|6|PUNCT
+*CHI:	and &-um the boy's warning her to not &-um go over there .
+%mor:	coord|and det:art|the n|boy~aux|be&3S part|warn-PRESP pro:obj|her
+	prep|to neg|not v|go prep|over n|there .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|NEG
+	9|7|POBJ 10|9|JCT 11|10|POBJ 12|5|PUNCT
+*CHI:	<and> [/?] he's like stop .
+%mor:	pro:sub|he~cop|be&3S co|like n|stop .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|COM 4|2|PRED 5|2|PUNCT
+*CHI:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

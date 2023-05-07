@@ -1,0 +1,130 @@
+@UTF8
+@PID:	11312/c-00034003-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|5;06.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	09-APR-2002
+@Transcriber:	SB
+@Comment:	Ethnicity = European American
+@Comment:	DOB = 9/26/1996
+@Comment:	Examiner = LJ
+@Comment:	Grade K
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	&-uh it was the good day .
+%mor:	pro:per|it cop|be&PAST&13S det:art|the adj|good n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	and [/] and I was playing football really good [*] .
+%mor:	coord|and pro:sub|I aux|be&PAST&13S part|play-PRESP
+	n|+n|foot+n|ball adv|real&dadj-LY adj|good .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|JCT 7|4|JCT 8|4|PUNCT
+*INV:	well can you tell me the story about Mcdonalds ?
+%mor:	co|well mod|can pro:per|you v|tell pro:obj|me det:art|the n|story
+	prep|about n:prop|Mcdonalds ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*INV:	tell me the story I just told you okay ?
+%mor:	v|tell pro:obj|me det:art|the n|story pro:sub|I adv|just
+	v|tell&PAST pro:per|you co|okay ?
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|7|SUBJ 6|7|JCT 7|4|CMOD 8|9|SUBJ
+	9|7|OBJ 10|1|PUNCT
+*CHI:	I was playing something .
+%mor:	pro:sub|I aux|be&PAST&13S part|play-PRESP pro:indef|something .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	I got a [/] a car .
+%mor:	pro:sub|I v|get&PAST det:art|a n|car .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and [/] and <I had> [/?] I have friend named Christopher [*] .
+%mor:	coord|and pro:sub|I v|have n|friend v|name-PAST n:prop|Christopher
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*CHI:	and he come to my house .
+%mor:	coord|and pro:sub|he v|come prep|to det:poss|my n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and [/] and Micheal was too [*] .
+%mor:	coord|and n:prop|Micheal cop|be&PAST&13S adv|too .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and <sometimes my> [/?] my brother <&~d> [/?] comes every day and
+	Allen [*] .
+%mor:	coord|and det:poss|my n|brother v|come-3S qn|every n|day coord|and
+	n:prop|Allen .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|JCT 7|4|CONJ 8|7|COORD
+	9|4|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	LateForSchool
+*CHI:	he spilled the milk .
+%mor:	pro:sub|he v|spill-PAST det:art|the n|milk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	he then tie his shoes .
+%mor:	pro:sub|he adv:tem|then v|tie det:poss|his n|shoe-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	<then he broke it> [/?] then it broke .
+%mor:	adv:tem|then pro:per|it adj|broke .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*CHI:	and he was playing football last night .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|play-PRESP
+	n|+n|foot+n|ball adj|last n|night .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|MOD 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*CHI:	and he was good at the game .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adj|good prep|at det:art|the
+	n|game .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and they were playing baseball .
+%mor:	coord|and pro:sub|they aux|be&PAST part|play-PRESP n|+n|base+n|ball
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	xxx xxx .
+*CHI:	and [/] and <he's go> [/] he's go to sleep .
+%mor:	coord|and pro:sub|he~cop|be&3S v|go inf|to v|sleep .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|COMP 7|3|PUNCT
+*CHI:	and he's broke his shoe [*] .
+%mor:	coord|and pro:sub|he~cop|be&3S adj|broke det:poss|his n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|DET 6|3|PRED 7|3|PUNCT
+*CHI:	<and and> [/?] and he go for the bus .
+%mor:	coord|and pro:sub|he v|go prep|for det:art|the n|bus .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and go on the bus .
+%mor:	coord|and v|go prep|on det:art|the n|bus .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	and then the stuff .
+%mor:	coord|and adv:tem|then det:art|the n|stuff .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*CHI:	and <it was> [/?] his bus <was want> [/?] wanted to leave .
+%mor:	coord|and det:poss|his n|bus v|want-PAST inf|to v|leave .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*INV:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Aliens
+*CHI:	<uh the> [/?] the just <the octopus goes out> [*] [/?] the octopus
+	goes out .
+%mor:	det:art|the adv|just det:art|the n|octopus v|go-3S adv|out .
+%gra:	1|5|DET 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	and <he was> [/?] they were <walking around the> [/?] they were
+	<walk> [/?] walking around because they had +...
+%mor:	coord|and pro:sub|they cop|be&PAST pro:sub|they aux|be&PAST
+	part|walk-PRESP adv|around conj|because pro:sub|they v|have&PAST
+	+...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|PRED 7|6|JCT 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|3|PUNCT
+*CHI:	and the octopus goes where [/] where they going .
+%mor:	coord|and det:art|the n|octopus v|go-3S pro:int|where pro:sub|they
+	part|go-PRESP .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*CHI:	<and and> [/?] and that's the bench .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the n|bench .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*CHI:	and the <&~s> [/?] girl and the boy scared .
+%mor:	coord|and det:art|the n|girl coord|and det:art|the n|boy
+	part|scare-PASTP .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|4|COORD 7|6|XMOD
+	8|1|PUNCT
+*INV:	alright thank you .
+%mor:	co|alright v|thank pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

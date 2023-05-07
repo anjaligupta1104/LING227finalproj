@@ -1,0 +1,139 @@
+@UTF8
+@PID:	11312/c-00034099-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;09.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	15-FEB-2002
+@Transcriber:	rr
+@Comment:	DOB = 05/18/1995
+@Comment:	Examiner = hh
+@Comment:	Ehtnicity = European American
+@Comment:	Grade 1
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*INV:	what happened to the boy and the girl in the story ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the n|boy coord|and
+	det:art|the n|girl prep|in det:art|the n|story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	they didn't get their food .
+%mor:	pro:sub|they mod|do&PAST~neg|not v|get det:poss|their n|food .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	[^ (4.)] and &-um +...
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you remember anymore ?
+%mor:	mod|can pro:per|you v|remember adv|anymore ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+@G:	LateForSchool
+*CHI:	in the morning Michael got up .
+%mor:	prep|in det:art|the n|morning n:prop|Michael v|get&PAST adv|up .
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	and he poured his milk .
+%mor:	coord|and pro:sub|he v|pour-PAST det:poss|his n|milk .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	but it spilled all over .
+%mor:	conj|but pro:per|it part|spill-PASTP adv|all adv|over .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|5|JCT 5|3|JCT 6|1|PUNCT
+*CHI:	he got dressed .
+%mor:	pro:sub|he aux|get&PAST part|dress-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	and his shoelace broke .
+%mor:	coord|and det:poss|his n|+n|shoe+n|lace adj|broke .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|POSTMOD 5|1|PUNCT
+*CHI:	and he was really mad .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|real&dadj-LY adj|mad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	he was having a bad morning .
+%mor:	pro:sub|he aux|be&PAST&13S part|have-PRESP det:art|a adj|bad
+	n|morning .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	he hadta get his jacket on .
+%mor:	pro:sub|he mod|have&PAST~inf|to v|get det:poss|his n|jacket adv|on
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*CHI:	and he hadta fix his shoelace .
+%mor:	coord|and pro:sub|he mod|have&PAST~inf|to v|fix det:poss|his
+	n|+n|shoe+n|lace .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	he got some tape .
+%mor:	pro:sub|he v|get&PAST qn|some n|tape .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	and he tied the shoelace on the broken one .
+%mor:	coord|and pro:sub|he v|tie-PAST det:art|the n|+n|shoe+n|lace
+	prep|on det:art|the part|break&PASTP pro:indef|one .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|8|OBJ 10|3|PUNCT
+*CHI:	and he got his backpack .
+%mor:	coord|and pro:sub|he v|get&PAST det:poss|his n|+n|back+n|pack .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and he ran for the bus .
+%mor:	coord|and pro:sub|he v|run&PAST prep|for det:art|the n|bus .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	but it was gone .
+%mor:	conj|but pro:per|it aux|be&PAST&13S part|go&PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	and he was late for school .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|late prep|for n|school .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Aliens
+*CHI:	once upon a time there was a family full of aliens .
+%mor:	adv:tem|once prep|upon det:art|a n|time adv|there cop|be&PAST&13S
+	det:art|a n|family adj|full prep|of n|alien-PL .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|POSTMOD 10|9|JCT 11|10|POBJ 12|6|PUNCT
+*CHI:	they had the father ghost the mother ghost the little girl ghost .
+%mor:	pro:sub|they v|have&PAST det:art|the n|father n|ghost det:art|the
+	n|mother n|ghost det:art|the adj|little n|girl n|ghost .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|8|DET 7|8|MOD 8|5|CMOD
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|OBJ 13|2|PUNCT
+*CHI:	and they had a dog .
+%mor:	coord|and pro:sub|they v|have&PAST det:art|a n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	the big sister <goes> [/?] said bye mom and dad .
+%mor:	det:art|the adj|big n|sister v|say&PAST co|bye n|mom coord|and
+	n|dad .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|COM 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|4|PUNCT
+*CHI:	and I will come to pick you up soon .
+%mor:	coord|and pro:sub|I mod|will v|come inf|to v|pick pro:per|you
+	adv|up adv|soon .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|4|PUNCT
+*CHI:	and so they spent their whole time <in or &~th> [/?] as fun as they
+	could [*] .
+%mor:	coord|and conj|so pro:sub|they v|spend&PAST det:poss|their
+	adj|whole n|time conj|as adj|fun conj|as pro:sub|they mod|could .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|COORD
+	9|7|POSTMOD 10|12|COORD 11|12|SUBJ 12|9|ENUM 13|4|PUNCT
+*CHI:	they didn't have much fun .
+%mor:	pro:sub|they mod|do&PAST~neg|not v|have qn|much n|fun .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*CHI:	but they tried to be as careful as can be .
+%mor:	conj|but pro:sub|they v|try-PAST inf|to cop|be adv|as
+	adj|care&dn-FULL adv|as mod|can cop|be .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|JCT 7|5|PRED 8|10|JCT
+	9|10|AUX 10|5|CJCT 11|3|PUNCT
+*CHI:	then their daughter came and picked them up .
+%mor:	adv:tem|then det:poss|their n|daughter v|come&PAST coord|and
+	v|pick-PAST pro:obj|them adv|up .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*CHI:	and then she went to play .
+%mor:	coord|and adv:tem|then pro:sub|she v|go&PAST inf|to v|play .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*CHI:	and then they said I'll come and pick you up soon byebye .
+%mor:	coord|and adv:tem|then pro:sub|they v|say&PAST pro:sub|I~mod|will
+	v|come coord|and v|pick pro:per|you adv|up adv|soon co|byebye .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|7|CONJ
+	9|8|COORD 10|9|OBJ 11|9|JCT 12|9|JCT 13|9|COM 14|4|PUNCT
+*CHI:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

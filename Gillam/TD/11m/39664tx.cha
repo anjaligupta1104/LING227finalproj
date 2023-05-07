@@ -1,0 +1,297 @@
+@UTF8
+@PID:	11312/c-00033936-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|11;05.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	08-JAN-2002
+@Transcriber:	Rebecca Garcia
+@Comment:	DOB = 7/29/1990
+@Comment:	Examiner = Tiffany Porter
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = No
+@G:	McDonalds
+@Types:	cross, narrative, TD
+*CHI:	on a tuesday night <Lisa and &~raym their &~mo> [/?] Lisa and
+	Raymond's mother asked where do you guys wanna eat ?
+%mor:	prep|on det:art|a n|tuesday n|night n:prop|Lisa coord|and
+	adj|Raymond&dn-POSS n|mother v|ask-PAST pro:int|where mod|do
+	pro:per|you n|guy-PL v|want~inf|to v|eat ?
+%gra:	1|9|LINK 2|4|DET 3|4|MOD 4|9|SUBJ 5|9|XJCT 6|5|CONJ 7|6|COORD 8|9|SUBJ
+	9|0|ROOT 10|14|JCT 11|14|AUX 12|14|SUBJ 13|14|SUBJ 14|9|COMP 15|16|INF
+	16|14|COMP 17|9|PUNCT
+*CHI:	<they both said> [/?] they both shouted Mcdonalds Mcdonalds !
+%mor:	pro:sub|they qn|both v|shout-PAST n:prop|Mcdonalds n:prop|Mcdonalds
+	!
+%gra:	1|3|SUBJ 2|3|QUANT 3|0|ROOT 4|5|NAME 5|3|OBJ 6|3|PUNCT
+*CHI:	then their mother drove them to the nearest Mcdonalds .
+%mor:	adv:tem|then det:poss|their n|mother v|drive&PAST pro:obj|them
+	prep|to det:art|the prep|nearest n:prop|Mcdonalds .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|POBJ 10|4|PUNCT
+*CHI:	and their mother asked <what do they &~wa> [/?] what do you guys
+	want ?
+%mor:	coord|and det:poss|their n|mother v|ask-PAST pro:int|what mod|do
+	pro:per|you n|guy-PL v|want ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|9|SUBJ 6|9|AUX 7|9|SUBJ 8|9|SUBJ
+	9|4|COMP 10|4|PUNCT
+*CHI:	then Raymond said &-um a Big_Mac a coke and a chocolate milkshake .
+%mor:	adv:tem|then n:prop|Raymond v|say&PAST det:art|a n:prop|Big_Mac
+	det:art|a n|coke coord|and det:art|a n|chocolate n|+n|milk+n|shake .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|DET 7|5|APP 8|5|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|3|PUNCT
+*CHI:	and then Lisa couldn't make up her mind .
+%mor:	coord|and adv:tem|then n:prop|Lisa mod|could~neg|not v|make adv|up
+	det:poss|her n|mind .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*CHI:	so <her mother> [/?] their mother ordered before them .
+%mor:	adv|so det:poss|their n|mother v|order-PAST prep|before
+	pro:obj|them .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	and she said the salad .
+%mor:	coord|and pro:sub|she v|say&PAST det:art|the n|salad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and then Lisa made up her mind .
+%mor:	coord|and adv:tem|then n:prop|Lisa v|make&PAST adv|up det:poss|her
+	n|mind .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	she wanted a coke a happy meal and a chocolate icecream cone .
+%mor:	pro:sub|she v|want-PAST det:art|a n|coke det:art|a adj|happy n|meal
+	coord|and det:art|a n|chocolate n|+n|ice+n|cream n|cone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|DET 6|7|MOD 7|4|APP 8|4|CONJ
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|COORD 13|2|PUNCT
+*CHI:	then the clerk said that would be twelve ninety five .
+%mor:	adv:tem|then det:art|the n|clerk v|say&PAST comp|that mod|will&COND
+	cop|be det:num|twelve det:num|ninety det:num|five .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|10|DATE
+	9|10|DATE 10|7|PRED 11|4|PUNCT
+*CHI:	then their mother reached down to get her purse .
+%mor:	adv:tem|then det:poss|their n|mother v|reach-PAST adv|down inf|to
+	v|get det:poss|her n|purse .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*CHI:	but then she remembered she left it on the kitchen counter in their
+	house .
+%mor:	conj|but adv:tem|then pro:sub|she v|remember-PAST pro:sub|she
+	v|leave&PAST pro:per|it prep|on det:art|the n|kitchen n|counter
+	prep|in det:poss|their n|house .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|6|PUNCT
+@G:	LateForSchool
+*CHI:	<bobby woke up because> [/?] bobby woke up real late in the morning
+	because he had stayed up past twelve last night .
+%mor:	n|bobby v|wake&PAST adv|up adj|real adv|late prep|in det:art|the
+	n|morning conj|because pro:sub|he aux|have&PAST part|stay-PASTP
+	adv|up prep|past det:num|twelve adj|last n|night .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|2|CJCT 13|12|JCT 14|12|JCT 15|17|QUANT
+	16|17|MOD 17|14|POBJ 18|2|PUNCT
+*CHI:	he had a party .
+%mor:	pro:sub|he v|have&PAST det:art|a n|party .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	when he was trying to make breakfast he kept looking at the clock .
+%mor:	conj|when pro:sub|he aux|be&PAST&13S part|try-PRESP inf|to v|make
+	n|+v|break+n|fast pro:sub|he v|keep&PAST part|look-PRESP prep|at
+	det:art|the n|clock .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|9|CJCT 5|6|INF 6|4|COMP 7|6|OBJ 8|9|SUBJ
+	9|0|ROOT 10|9|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|9|PUNCT
+*CHI:	and he spilled milk all over his cereal .
+%mor:	coord|and pro:sub|he v|spill-PAST n|milk adv|all prep|over
+	det:poss|his n|cereal .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	and it overflowed and fell on the floor .
+%mor:	coord|and pro:per|it over#part|flow-PASTP coord|and v|fall&PAST
+	prep|on det:art|the n|floor .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	then when he was tying his shoes he broke a shoelace .
+%mor:	adv:tem|then conj|when pro:sub|he aux|be&PAST&13S part|tie-PRESP
+	det:poss|his n|shoe-PL pro:sub|he v|break&PAST det:art|a
+	n|+n|shoe+n|lace .
+%gra:	1|9|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|9|CJCT 6|7|DET 7|5|OBJ 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+*CHI:	then he hadta get another shoelace to fix it .
+%mor:	adv:tem|then pro:sub|he mod|have&PAST~inf|to v|get qn|another
+	n|+n|shoe+n|lace inf|to v|fix pro:per|it .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|9|INF
+	9|5|XJCT 10|9|OBJ 11|5|PUNCT
+*CHI:	by the time he had done that he hadta get his backpack on and run
+	out and catch the school bus .
+%mor:	prep|by det:art|the n|time pro:sub|he aux|have&PAST part|do&PASTP
+	comp|that pro:sub|he mod|have&PAST~inf|to v|get det:poss|his
+	n|+n|back+n|pack adv|on coord|and v|run adv|out coord|and v|catch
+	det:art|the n|school n|bus .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|11|INF 11|6|COMP 12|13|DET 13|11|OBJ 14|11|JCT
+	15|11|CONJ 16|15|COORD 17|16|JCT 18|11|CONJ 19|18|COORD 20|22|DET 21|22|MOD
+	22|19|OBJ 23|1|PUNCT
+*CHI:	but the school bus had just left .
+%mor:	conj|but det:art|the n|school n|bus aux|have&PAST adv|just
+	part|leave&PASTP .
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|PUNCT
+*CHI:	he started running after it .
+%mor:	pro:sub|he v|start-PAST part|run-PRESP prep|after pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	but it was no use .
+%mor:	conj|but pro:per|it cop|be&PAST&13S qn|no n|use .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*CHI:	so he hadta walk to school .
+%mor:	co|so pro:sub|he mod|have&PAST~inf|to v|walk prep|to n|school .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	then when he got up the school steps he saw the principal .
+%mor:	adv:tem|then conj|when pro:sub|he v|get&PAST adv|up det:art|the
+	n|school n|step-PL pro:sub|he v|see&PAST det:art|the n|principal .
+%gra:	1|10|JCT 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|SUBJ 10|0|ROOT 11|12|DET 12|10|OBJ 13|10|PUNCT
+*CHI:	and the principal said you're late bobby .
+%mor:	coord|and det:art|the n|principal v|say&PAST
+	pro:per|you~cop|be&PRES adj|late n|bobby .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|MOD 8|6|PRED
+	9|4|PUNCT
+*CHI:	<why &~d why> [/?] why are you so late ?
+%mor:	pro:int|why cop|be&PRES pro:per|you adv|so adj|late ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|PRED 6|2|PUNCT
+*CHI:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Aliens
+*CHI:	one tuesday morning Michelle and George were sposta be at school .
+%mor:	det:num|one n|tuesday n|morning n:prop|Michelle coord|and
+	n:prop|George aux|be&PAST part|suppose&PASTP~inf|to cop|be prep|at
+	n|school .
+%gra:	1|3|QUANT 2|3|MOD 3|8|SUBJ 4|3|APP 5|3|CONJ 6|5|COORD 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|JCT 12|11|POBJ 13|8|PUNCT
+*CHI:	but they were playing hookie .
+%mor:	conj|but pro:sub|they aux|be&PAST part|play-PRESP n|hook-DIM .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	they went to the city park and were playing around with sticks and
+	throwing rocks at each_other .
+%mor:	pro:sub|they v|go&PAST prep|to det:art|the n|city n|park coord|and
+	aux|be&PAST part|play-PRESP adv|around prep|with n|stick-PL
+	coord|and part|throw-PRESP n|rock-PL prep|at pro:refl|each_other .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|CONJ 8|9|AUX
+	9|7|COORD 10|9|JCT 11|9|JCT 12|11|POBJ 13|12|CONJ 14|13|COORD 15|14|OBJ
+	16|14|JCT 17|16|POBJ 18|2|PUNCT
+*CHI:	and suddenly a noise <in a &~bushe> [/?] in a bush nearby startled
+	them .
+%mor:	coord|and adv|sudden&dadj-LY det:art|a n|noise prep|in det:art|a
+	n|bush adv|nearby v|startle-PAST pro:obj|them .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|9|SUBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|9|JCT
+	9|0|ROOT 10|9|OBJ 11|9|PUNCT
+*CHI:	they crept over to the bush and peeked through .
+%mor:	pro:sub|they v|creep&PAST adv|over prep|to det:art|the n|bush
+	coord|and v|peek-PAST adv|through .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|CONJ 8|7|COORD
+	9|8|JCT 10|2|PUNCT
+*CHI:	there was a really really weird dog .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adv|real&dadj-LY
+	adv|real&dadj-LY adj|weird n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|5|JCT 5|6|JCT 6|7|MOD 7|2|PRED 8|2|PUNCT
+*CHI:	<they> [/?] Michelle said look at that dog .
+%mor:	n:prop|Michelle v|say&PAST v|look prep|at det:dem|that n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	I wonder where it came from ?
+%mor:	pro:sub|I v|wonder pro:int|where pro:per|it v|come&PAST prep|from ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COBJ 6|5|JCT 7|2|PUNCT
+*CHI:	then they got out_of the bushes and looked around the bush and then
+	saw an alien spacecraft .
+%mor:	adv:tem|then pro:sub|they v|get&PAST prep|out_of det:art|the
+	n|bush-PL coord|and v|look-PAST prep|around det:art|the n|bush
+	coord|and adv:tem|then v|see&PAST det:art|a n|alien
+	n|+n|space+n|craft .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|JCT 14|3|CJCT 15|17|DET
+	16|17|MOD 17|14|OBJ 18|3|PUNCT
+*CHI:	it had weird markings on the side .
+%mor:	pro:per|it v|have&PAST adj|weird n:gerund|mark-GERUND-PL prep|on
+	det:art|the n|side .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	all of a sudden aliens with twelve legs came out .
+%mor:	pro:indef|all prep|of det:art|a adj|sudden n|alien-PL prep|with
+	det:num|twelve n|leg-PL v|come&PAST adv|out .
+%gra:	1|0|INCROOT 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|JCT 7|8|QUANT
+	8|9|SUBJ 9|6|POBJ 10|9|JCT 11|1|PUNCT
+*CHI:	there were <&~fou> [/?] four aliens one dog .
+%mor:	pro:exist|there cop|be&PAST det:num|four n|alien-PL det:num|one
+	n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|6|MOD 5|6|QUANT 6|2|PRED 7|2|PUNCT
+*CHI:	they came out_of a yellowish orange spaceship .
+%mor:	pro:sub|they v|come&PAST prep|out_of det:art|a adj|yellow-ISH
+	adj|orange n|+n|space+n|ship .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|DET 5|7|MOD 6|7|MOD 7|3|POBJ 8|2|PUNCT
+*CHI:	Michelle wanted to go over there .
+%mor:	n:prop|Michelle v|want-PAST inf|to v|go prep|over n|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*CHI:	but George said no .
+%mor:	conj|but n:prop|George v|say&PAST co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	he wanted to go back to school as fast as he could <and tell them>
+	[/?] and tell the principal we were sick .
+%mor:	pro:sub|he v|want-PAST inf|to v|go adv|back prep|to n|school adv|as
+	adv|fast prep|as pro:sub|he mod|could coord|and v|tell det:art|the
+	n|principal pro:sub|we cop|be&PAST adj|sick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|JCT 7|6|POBJ 8|9|COORD
+	9|4|JCT 10|12|COORD 11|12|SUBJ 12|9|ENUM 13|4|CONJ 14|13|COORD 15|16|DET
+	16|14|OBJ 17|18|SUBJ 18|14|COMP 19|18|PRED 20|2|PUNCT
+*CHI:	now we got better .
+%mor:	adv:tem|now pro:sub|we v|get&PAST adv|good&CP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and go back into the school .
+%mor:	coord|and v|go adv|back prep|into det:art|the n|school .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	but Michelle refused .
+%mor:	conj|but n:prop|Michelle v|refuse-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	<she went> [/] she went toward the space people .
+%mor:	pro:sub|she v|go&PAST prep|toward det:art|the n|space n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*CHI:	then one of the spacemen pulled out <a &~l a> [/?] a laser gun shot
+	Michelle .
+%mor:	adv:tem|then det:num|one prep|of det:art|the n|+n|space+n|man&PL
+	v|pull-PAST prep|out det:art|a n|laser n|gun n|shot n:prop|Michelle
+	.
+%gra:	1|6|JCT 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|JCT 8|11|DET
+	9|10|MOD 10|11|MOD 11|7|POBJ 12|11|APP 13|6|PUNCT
+*CHI:	and she turned into stone .
+%mor:	coord|and pro:sub|she v|turn-PAST prep|into n|stone .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	they dragged Michelle into the spacecraft .
+%mor:	pro:sub|they v|drag-PAST n:prop|Michelle prep|into det:art|the
+	n|+n|space+n|craft .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	and then they saw George .
+%mor:	coord|and adv:tem|then pro:sub|they v|see&PAST n:prop|George .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	they shot him too .
+%mor:	pro:sub|they v|shoot&PAST pro:obj|him adv|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	except this time <&~th> [/?] this was a different gun .
+%mor:	prep|except det:dem|this n|time pro:dem|this cop|be&PAST&13S
+	det:art|a adj|different n|gun .
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|5|PUNCT
+*CHI:	and George was immediately pulled into a large blue bubble .
+%mor:	coord|and n:prop|George aux|be&PAST&13S adv|immediate&dadj-LY
+	part|pull-PASTP prep|into det:art|a adj|large adj|blue n|bubble .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|POBJ 11|5|PUNCT
+*CHI:	they were both pulled onto the ship .
+%mor:	pro:sub|they cop|be&PAST qn|both v|pull-PAST prep|onto det:art|the
+	n|ship .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	and all the aliens went back into the ship took off into outer
+	space .
+%mor:	coord|and qn|all det:art|the n|alien-PL v|go&PAST adv|back
+	prep|into det:art|the n|ship v|take&PAST adv|off prep|into adj|outer
+	n|space .
+%gra:	1|5|LINK 2|4|QUANT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|XJCT 11|10|JCT 12|10|JCT 13|14|MOD 14|12|POBJ 15|5|PUNCT
+*CHI:	and <bobby I mean> [/?] George and Michelle were never seen again .
+%mor:	coord|and n:prop|George coord|and n:prop|Michelle cop|be&PAST
+	adv:tem|never part|see&PASTP adv:tem|again .
+%gra:	1|7|LINK 2|7|SUBJ 3|2|CONJ 4|3|COORD 5|7|AUX 6|5|JCT 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+@End

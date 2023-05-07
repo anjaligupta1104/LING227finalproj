@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/c-00033768-1
+@Window:	554_167_591_1178_-1_-1_1289_0_1289_0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;05.|female|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	02-JUN-2004
+@Transcriber:	Samantha Castanuela
+@Comment:	DOB = 12/28/1996
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	&-um they [* 0're] going out to eat .
+%mor:	pro:sub|they part|go-PRESP adv|out inf|to v|eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|INF 5|2|COMP 6|2|PUNCT
+*CHI:	and they [* 0're] going 0to Mcdonalds to um hm: [% examiner coughs]
+	+...
+%mor:	coord|and pro:sub|they part|go-PRESP 0inf|to n:prop|Mcdonalds
+	prep|to n|um co|hm +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|NJCT 7|6|POBJ 8|5|COM
+	9|3|PUNCT
+*CHI:	<her &~m> [/?] mom buys salad .
+%mor:	n|mom v|buy-3S n|salad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	and the girl buy [* m:0es] icecream .
+%mor:	coord|and det:art|the n|girl n|buy n|+n|ice+n|cream .
+%gra:	1|5|LINK 2|5|DET 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	<and the boy drink &-um &-um &-um hm: hm: um> [/?] the boy get
+	[* m:a:0es] a drink .
+%mor:	det:art|the n|boy v|get det:art|a n|drink .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	<and um> [/?] it's hm: hm: hm: +...
+%mor:	pro:per|it~cop|be&3S co|hm co|hm co|hm +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|COM 4|5|COM 5|2|PRED 6|2|PUNCT
+*CHI:	I forgot .
+%mor:	pro:sub|I v|forget&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+@G:	LateForSchool
+*CHI:	&-um get up and eat breakfast 0and tie his shoes .
+%mor:	v|get adv|up coord|and v|eat n|+v|break+n|fast 0coord|and v|tie
+	det:poss|his n|shoe-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|OBJ 6|1|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*CHI:	and 0the bus leave [* m:a:0es] .
+%mor:	coord|and 0det:art|the n|bus n|leave .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	<and &-uh hm: and> [/?] you [* 0're] late .
+%mor:	pro:per|you adv|late .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	hm: hm: +...
+%mor:	co|hm co|hm +...
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@G:	Aliens
+*CHI:	&-um aliens &-um come .
+%mor:	n|alien-PL v|come .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	and then the boys &-um don't &-um go near aliens .
+%mor:	coord|and adv:tem|then det:art|the n|boy-PL mod|do~neg|not v|go
+	prep|near n|alien-PL .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*CHI:	<and> [/?] the girl smile [* 0ed] and &-um went to get on 0the ship
+	and <um &-um hm: &-um hm: hm: &-um hm: hm:> [/?] [% yawns] <um hm:
+	um> [/?] pack up .
+%mor:	det:art|the n|girl n|smile coord|and v|go&PAST inf|to v|get prep|on
+	0det:art|the n|ship coord|and v|pack adv|up .
+%gra:	1|3|DET 2|3|MOD 3|7|SUBJ 4|3|CONJ 5|4|COORD 6|7|INF 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|CONJ 12|11|COORD 13|12|JCT 14|7|PUNCT
+*CHI:	<and> [/?] it bring it [* 0's] dog and get dress [* 0ed] and go on
+	0the ship .
+%mor:	pro:per|it v|bring pro:per|it v|dog coord|and v|get n|dress
+	coord|and v|go prep|on 0det:art|the n|ship .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|CONJ 6|5|COORD 7|6|OBJ 8|4|CONJ
+	9|8|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*CHI:	and girl got his brother .
+%mor:	coord|and n|girl v|get&PAST det:poss|his n|brother .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and they &~lo &-um um +/.
+%mor:	coord|and pro:sub|they n|um +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%com:	tape ends and goes to the other side
+*INV:	anything else to your story ?
+%mor:	pro:indef|anything post|else prep|to det:poss|your n|story ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	&~mm [/?] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End
