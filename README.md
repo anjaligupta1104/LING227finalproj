@@ -8,6 +8,8 @@ To run our model, just make sure that the data is downloaded to the same folder 
 
 Our implementation can be run by the following commands for each model:
 
-Logistic regression: python LR_by_doc.py
-Naive Bayes: python ngram_NB.py
-N-gram LM: python ngram_MLE.py
+Logistic regression: ```python LR_by_doc.py```
+
+Naive Bayes: ```python ngram_NB.py```
+
+N-gram LM: ```python ngram_MLE.py```
